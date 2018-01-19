@@ -78,7 +78,7 @@
           <p xml:id="pcsc-l1q2-d1e157">[2] Praeterea, quaelibet divina relatio est obiectum talis
             fruitionis, et nulla talis est natura universaliter et completive perfecta, ergo
             quaestio falsa. Consequentia est nota. Antecedens probatur pro qualibet sui parte. Et
-            primo pro prima est <ref xml:id="pcsc-l1q2-Rd1e159">Beatus Augustinus, in libro
+            primo pro prima est <ref xml:id="pcsc-l1q2-Rd1e159" corresp="#pcsc-l1q2-Qd1e166">Beatus Augustinus, in libro
             <title>De doctrina Christiana</title></ref>, et ponitur in littera:
             <cit>
             <quote xml:id="pcsc-l1q2-Qd1e166">Res quibus fruendum est sunt Pater et Filius et
@@ -162,7 +162,7 @@
                 potentiae affectivae sensitivae, quidam vero potentiae affectivae intellectivae, et
                 talis potentia vocatur communiter “volitiva.” Est igitur usus prout cadit sub
                 consideratione theologi actus volitivae potentiae, et sic sumitur a <ref
-                xml:id="pcsc-l1q2-Rd1e238"><name>Beato Augustino</name>, X <title>De
+                  xml:id="pcsc-l1q2-Rd1e238" corresp="#pcsc-l1q2-Qd1e248"><name>Beato Augustino</name>, X <title>De
                 Trinitate</title>, capitulo 10</ref>:
                 <cit>
                 <quote xml:id="pcsc-l1q2-Qd1e248">Uti est assumere aliquid in facultatem
@@ -257,7 +257,7 @@
                 est huiusmodi; ergo antecedens verum. Consequentia et maior patent. Minor
                 declaratur, quia voluntas potest prosequi omne dictamen intellectus; cum igitur
                 intellectus possit dictare omnia alia a voluntate esse diligibilia propter ipsam -
-                ut dicat <ref xml:id="pcsc-l1q2-Rd1e296">Aristoteles, IX
+                ut dicat <ref xml:id="pcsc-l1q2-Rd1e296" corresp="#pcsc-l1q2-Qd1e303">Aristoteles, IX
                 <title>Ethicorum</title></ref>:
                 <cit>
                 <quote xml:id="pcsc-l1q2-Qd1e303" source="http://scta.info/resource/aristneth-l9"
@@ -355,7 +355,7 @@
                 et consequentia est per se nota; ergo et consequens. Quod autem hoc sit
                 demonstrabile, videlicet quod Deus sit super omnia bonus, apparet per omnes
                 philosophos, quod siquid perfectionis est, Deo attribuerunt, ut dicit <ref
-                xml:id="pcsc-l1q2-Rd1e384"><name>Beatus Augustinus</name>, I <title>De doctrina
+                  xml:id="pcsc-l1q2-Rd1e384" corresp="#pcsc-l1q2-Qd1e394"><name>Beatus Augustinus</name>, I <title>De doctrina
                 Christiana</title>, capitulo 4</ref>:
                 <cit>
                 <quote xml:id="pcsc-l1q2-Qd1e394">Omnes, inquit, pro excellentia Dei certatim
@@ -478,7 +478,7 @@
                  , dicit quod intelligentia superior per actum suum intelligendi producit
                 inferiorem. Ex quo dicto infert iste doctor quod inferior in superiori quietatur,
                 probans tali medio data positione: tunc unumquodque perfectum est cum attingit suum
-                principium productivum, <ref xml:id="pcsc-l1q2-Rd1e498">secundum illam propositionem
+                principium productivum, <ref xml:id="pcsc-l1q2-Rd1e498" corresp="#pcsc-l1q2-Qd1e504">secundum illam propositionem
                 Procli XXXV</ref>, quod
                 <cit>
                 <quote xml:id="pcsc-l1q2-Qd1e504">unumquodque natum est converti ad illud ex quo
@@ -633,7 +633,7 @@
                 <bibl><ref>Cf. par. 14 supra.</ref></bibl>
                 </cit>
                  , voluntas ex sua libertate potest acceptare aliquid tanquam summum, ut patet per
-                illud <ref xml:id="pcsc-l1q2-Rd1e700">Beati Augustini, <title>LXXXIII
+                 illud <ref xml:id="pcsc-l1q2-Rd1e700" corresp="#pcsc-l1q2-Qd1e708">Beati Augustini, <title>LXXXIII
                 quaestionum</title>, quaestione 30</ref>:
                 <cit>
                 <quote xml:id="pcsc-l1q2-Qd1e708" source="http://scta.info/resource/a83-q30">Maxima
@@ -648,7 +648,7 @@
                 aliquo quod est contra suam inclinationem naturalem; sed ipsa naturaliter appetit
                 beatitudinem infinitam; ergo non est possibile ipsam quietari in aliquo finito.
                 Totum antecedens est naturaliter evidens et consequentia, ergo et conclusio. Minor
-                autem patet per <ref xml:id="pcsc-l1q2-Rd1e724">Beatum Augustinum, I
+                autem patet per <ref xml:id="pcsc-l1q2-Rd1e724" corresp="#pcsc-l1q2-Qd1e732">Beatum Augustinum, I
                 <title>Confessionum</title>, capitulo 4</ref>:
                 <cit>
                 <quote xml:id="pcsc-l1q2-Qd1e732" ana="#Augustine_Confessions_1_1_1_a">Inquietum est
@@ -656,7 +656,7 @@
                 <bibl>Augustinus, <title>Confessiones</title> I, c. 1 (PL 32, 661; CCSL 27,
                   1).</bibl>
                 </cit>
-                 , et per <ref xml:id="pcsc-l1q2-Rd1e742">Boethium, III <title>De consolatione
+                , et per <ref xml:id="pcsc-l1q2-Rd1e742 " corresp="#pcsc-l1q2-Qd1e750">Boethium, III <title>De consolatione
                 Philosophiae</title>, prosa 2</ref>:
                 <cit>
                 <quote xml:id="pcsc-l1q2-Qd1e750">Est enim mentibus hominum veri bonique naturaliter
@@ -698,16 +698,15 @@
                 grave dicitur quietari quando est extra suum locum naturalem, quia est ibi contra
                 inclinationem naturae propriae. Sed cum dicitur quod voluntas “naturaliter appetit
                 beatitudinem infinitam,” hoc non est evidens, quia licet naturaliter quilibet
-                appetat beatitudinem, idest, bene esse - ut dicit <ref xml:id="pcsc-l1q2-Rd1e789"
-                >Beatus Augustinus, XIII <title>De Trinitate</title>, capitulo 3</ref>:
+                appetat beatitudinem, idest, bene esse - ut dicit 
+                <ref xml:id="pcsc-l1q2-Rd1e789" corresp="#pcsc-l1q2-Qd1e797">Beatus Augustinus, XIII <title>De Trinitate</title>, capitulo 3</ref>:
                 <cit>
-                <quote xml:id="pcsc-l1q2-Qd1e797" source="http://scta.info/resource/adt-l13"
-                  >Quidquid enim aliud quisquam latenter velit ab hac voluntate, quae omnibus et in
+                <quote xml:id="pcsc-l1q2-Qd1e797" source="http://scta.info/resource/adt-l13">Quidquid enim aliud quisquam latenter velit ab hac voluntate, quae omnibus et in
                   omnibus satis nota est, non recedit</quote>
                 <bibl>Augustinus, <title>De Trinitate</title> XIII, c. 3 (PL 42, 1018; CCSL 50A,
                   389).</bibl>
-                </cit>
-                 , et loquitur ibi de bene esse - tamen de beatitudine infinita, quae Deus est, non
+                </cit>, 
+                et loquitur ibi de bene esse - tamen de beatitudine infinita, quae Deus est, non
                 est evidenter notum. Ad auctoritates dico quod intelliguntur probabiliter sine fide
                 supposita, maxime auctoritas Augustini, ut manifeste apparet; quare etc.</p>
               <p xml:id="pcsc-l1q2-d1e809">[46: -43] <ref xml:id="pcsc-l1q2-Rd1e811">Ad
@@ -787,16 +786,18 @@
                   intrinseco, sequitur quod erat liberum. Et per consequens sequitur manifeste quod
                   ratio communis productivi principii per naturale et liberum dividitur
                   adaequate.</p>
-                <p xml:id="pcsc-l1q2-d1e878"> [4] Praeterea, ista videtur intentio <ref
-                  xml:id="pcsc-l1q2-Rd1e880">Philosophi, secundo <title>Physicorum</title></ref>,
+                <p xml:id="pcsc-l1q2-d1e878"> [4] Praeterea, ista videtur intentio 
+                  <ref xml:id="pcsc-l1q2-Rd1e880" corresp="#pcsc-l1q2-Qd1e797 #pcsc-l1q2-Qd1e899">Philosophi, 
+                    secundo <title>Physicorum</title>
+                  </ref>,
                   ubi dividit causam activam in naturam et propositum, ubi sic dicit:
                   <cit>
                   <quote xml:id="pcsc-l1q2-Qd1e887">Eorum, inquit, quae fiunt propter hoc, id est
                     propter finem, cuiusmodi sunt omnia quae fiunt a per se causa, alia quidem
                     secundum propositum, alia vero non</quote>
                   <bibl>Aristoteles, <title>Physica</title> II, c. 6: 197b18-20.</bibl>
-                  </cit>
-                   . Et subdit parum post:
+                  </cit>. 
+                  Et subdit parum post:
                   <cit>
                   <quote xml:id="pcsc-l1q2-Qd1e899">Sunt autem propter hoc quaecumque ab intellectu
                     aguntur, quaecumque a natura</quote>
@@ -804,7 +805,7 @@
                   </cit>
                    . Et consequenter ad istas duas causas per se reducit duas causas per accidens,
                   casum videlicet et fortunam. Ex qua [32rb] manifeste apparet propositum.</p>
-                <p xml:id="pcsc-l1q2-d1e910"> [5] Praeterea, <ref xml:id="pcsc-l1q2-Rd1e912">nono
+                <p xml:id="pcsc-l1q2-d1e910"> [5] Praeterea, <ref xml:id="pcsc-l1q2-Rd1e912" corresp="#pcsc-l1q2-Qd1e920">nono
                   <title>Metaphysicae</title>, capitulo quarto</ref>, distinguens productivum
                   principium in potentias rationales et irrationales, dicit:
                   <cit>
@@ -814,14 +815,17 @@
                     scilicet rationales, non necesse</seg>, supple <mentioned>hoc</mentioned>, <seg
                     type="qs">facere, illud vero pati</seg></quote>
                   <bibl>Aristoteles, <title>Metaphysica</title> IX, c. 5: 1048a6-8.</bibl>
-                  </cit>
-                   . Unde et apud <name>Aristotelem</name> haec distinctio tripliciter nominatur.
+                  </cit>. 
+                  Unde et apud <name>Aristotelem</name> haec distinctio tripliciter nominatur.
                   Quandoque secundum propositum et non secundum propositum; quandoque secundum
                   intellectum et secundum naturam - et istae duae acceptiones habentur ab eodem,
-                  <ref xml:id="pcsc-l1q2-Rd1e943">secundo <title>Physicorum</title></ref>, ut dictum
+                  <ref xml:id="pcsc-l1q2-Rd1e943">secundo <title>Physicorum</title></ref>, 
+                  ut dictum
                   est in prima auctoritate; quandoque secundum rationales potentias et irrationales,
-                  ut <ref xml:id="pcsc-l1q2-Rd1e948">nono <title>Metaphysicae</title></ref>. Ex
-                  quibus manifeste apparet conclusio.</p>
+                  ut 
+                  <ref xml:id="pcsc-l1q2-Rd1e948">nono <title>Metaphysicae</title></ref>. Ex
+                  quibus manifeste apparet conclusio.
+                </p>
                 <p xml:id="pcsc-l1q2-d1e954"> [6] Secunda conclusio haec est: modus agendi
                   productivi principii per quaternarium numerum suscipit sectionem. Haec conclusio
                   sic probatur: omne principium productivum habet suum modum agendi; sed per primam
@@ -844,14 +848,15 @@
                   ergo quodlibet quod est prius ipsa re est prius modo rei. Sed quodlibet superius
                   dicitur prius respectu sui inferioris; ergo propositum. Nec est aequivocatio de
                   priori, quia sumitur prout dicitur in
-                  <cb ed="#F" n="b"/> <ref xml:id="pcsc-l1q2-Rd1e960"><title>Post
-                  praedicamentis</title></ref>:
+                  <cb ed="#F" n="b"/> 
+                  <ref xml:id="pcsc-l1q2-Rd1e960" corresp="#pcsc-l1q2-Qd1e966">
+                    <title>Post praedicamentis</title>
+                  </ref>:
                   <cit>
                   <quote xml:id="pcsc-l1q2-Qd1e966"><mentioned>Prius</mentioned> est a quo non
                     convertitur subsistendi consequentia</quote>
                   <bibl>Aristoteles, <title>Categoriae</title>, c. 12: 14a35-36.</bibl>
-                  </cit>
-                   . Nunc autem in modo rei formaliter includitur ipsa res et non e contra. Quare
+                  </cit>. Nunc autem in modo rei formaliter includitur ipsa res et non e contra. Quare
                   propositum. Et per consequens sequitur quod sunt quatuor modi, duo immediati et
                   proprii et duo communes.</p>
                 <p xml:id="pcsc-l1q2-d1e979"> [8] Tertia conclusio est haec: quilibet modorum
@@ -1095,20 +1100,22 @@
                   <quote xml:id="pcsc-l1q2-Qd1e1105" source="http://scta.info/resource/aristmet-1"
                     >Liberum enim dicitur quod est gratia sui</quote>
                   <bibl>Aristoteles, <title>Metaphysica </title> I, c. 2: 982b25.</bibl>
-                  </cit>
-                   , ut dicit <ref xml:id="pcsc-l1q2-Rd1e1115">Philosophus, primo
+                  </cit>, 
+                  ut dicit 
+                  <ref xml:id="pcsc-l1q2-Rd1e1115" corresp="#pcsc-l1q2-Qd1e1105">Philosophus, primo
                   <title>Metaphysicae</title></ref>. Dominavitum vero in cuius potestate est
                   suspendere actum suum, quod Deo non competit respectu sui vel productionis
-                  Spiritus Sancti. Ex actu igitur experimur potentiam iuxta doctrinam <ref
-                  xml:id="pcsc-l1q2-Rd1e1120">Philosophi, secundo <title>De anima</title></ref>:
+                  Spiritus Sancti. Ex actu igitur experimur potentiam iuxta doctrinam 
+                  <ref xml:id="pcsc-l1q2-Rd1e1120" corresp="#pcsc-l1q2-Qd1e1127">Philosophi, secundo <title>De anima</title></ref>:
                   <cit>
-                  <quote xml:id="pcsc-l1q2-Qd1e1127" source="http://scta.info/resource/aristda-2"
-                    >Potentiae distinguuntur per actus et actus per obiecta</quote>
+                    <quote xml:id="pcsc-l1q2-Qd1e1127" source="http://scta.info/resource/aristda-2">Potentiae 
+                    distinguuntur per actus et actus per obiecta
+                    </quote>
                   <bibl>Aristoteles, <title>De anima </title> II, c. 4</bibl>
                   <note>Cf. J. Hamesse, <title>Les auctoritates Aristotelis</title> (Louvain 1974),
                     p. 179, #56; cf. 415a-16-21.</note>
-                  </cit>
-                   .</p>
+                  </cit>.
+                </p>
                 <p xml:id="pcsc-l1q2-d1e1144"> [27] Nunc vero ex complacentia obiecti in nobis
                   experimur desiderium ex cuius adeptione habemus amorem, ex quo oritur dilectatio.
                   Ergo ex isto processu primus actus indicans libertatem videtur complacentia. Et
@@ -1210,7 +1217,8 @@
                   probandum.</p>
                 <p xml:id="pcsc-l1q2-d1e1195"> [38] Ex qua conclusione sequitur manifeste falsitas
                   opinionis dicentium libertatem radicari in voluntate ex actu suo, ut videtur
-                  dicere <ref xml:id="pcsc-l1q2-Rd1e1197"><name>Dominus Petrus Aureoli</name></ref>,
+                  dicere 
+                  <ref xml:id="pcsc-l1q2-Rd1e1197" corresp="#pcsc-l1q2-Qd1e1203"><name>Dominus Petrus Aureoli</name></ref>,
                   quod
                   <cit>
                   <quote xml:id="pcsc-l1q2-Qd1e1203">libertas consurgit in [35va] potentia volitiva
@@ -1218,8 +1226,8 @@
                   <bibl>Petrus Aureoli, <title>Scriptum</title> I, d. 1, q. 3, a. 3, prop. 1 (Peter
                     Aureoli, <title>Scriptum super primum Sententiarum</title>, ed. E.M. Buytaert,
                     vol. 1, St. Bonaventure NY 1952, p. 449, - 114, ll. 6-7).</bibl>
-                  </cit>
-                   . </p>
+                  </cit>.
+                </p>
                 <p xml:id="pcsc-l1q2-d1e1218"> [39] Tertia conclusio est haec: formalis libertatis
                   contradictionis condicio inest intrinsece cuilibet voluntati essentialiter
                   dependenti. Haec conclusio sic probatur: actus voluntatis denominatur liber
@@ -1237,12 +1245,14 @@
                   videtur, nisi diceretur voluntarie quod est unum ens mathematicum quo sibi
                   competit talis denominatio. Et sic de illo
                   <pb ed="#F" n="40-r"/>
-                  <cb ed="#F" n="a"/> quaererem. Et sic vel esset processus in infinitum, vel
+                  <cb ed="#F" n="a"/> 
+                  quaererem. Et sic vel esset processus in infinitum, vel
                   standum est ad aliquod mere voluntarie dictum, vel standum est quod potentiae tali
                   intrinsece competit libertas. Primum et secundum non sunt rationabiliter danda.
                   Ergo relinquitur tertium, et per consequens libertas contradictionis intrinsece
-                  competit tali voluntati. Quare propositum.</p>
-                <p xml:id="pcsc-l1q2-d1e1221"> [40] Praeterea, omnis denominatio abstractiva quae
+                  competit tali voluntati. Quare propositum.
+                </p>
+                <p xml:id="pcsc-l1q2-d1e1221">[40] Praeterea, omnis denominatio abstractiva quae
                   alicui per accidens competit de necessitate reducitur ad aliquid cui essentialiter
                   competit. Addo autem - abstractiva denominatio - , quia forsan negaretur de
                   concretivis denominationibus, quoniam diceretur quod esse album alicui per
@@ -1252,8 +1262,8 @@
                   abstractivae denominationes: relatio, quantitas, ubeitas, et sic de talibus, et
                   tamen de nullo essentialiter dicuntur, ad minus secundum
                   <cit>
-                  <ref xml:id="pcsc-l1q2-Rd1e1228">opinionem <name>Ockham</name></ref>
-                  <bibl>E.g. Guillelmus de Ockham, <title>Scriptum in primum librum Sententiarum
+                    <ref xml:id="pcsc-l1q2-Rd1e1228">opinionem <name>Ockham</name></ref>
+                    <bibl>E.g. Guillelmus de Ockham, <title>Scriptum in primum librum Sententiarum
                     (Ordinatio)</title>, d. 30, q. 1 (ed. G.I. Etzkorn et F.E. Kelly, <title>Opera
                     theologica</title> IV, St Bonaventure NY 1977, pp. 306-08).</bibl>
                   </cit>
@@ -1456,8 +1466,7 @@
                   <ref xml:id="pcsc-l1q2-Rd1e1342" target="http://scta.info/resource/aristmet-l9">
                     Philosophus, nono <title>Metaphysicae</title> </ref>
                   <bibl>Aristoteles, <title>Metaphysica</title> IX, c. 2: 1046b4-5.</bibl>
-                  </cit>
-                   , dicit quod potentiae rationales ideo distinguuntur a naturalibus quia valent ad
+                  </cit>, dicit quod potentiae rationales ideo distinguuntur a naturalibus quia valent ad
                   opposita. Tunc sic: potentia determinata sic circa unum oppositorum quod non
                   potest in reliquum non est potentia rationalis et libera, sed potius naturalis;
                   sed voluntas, per adversarium, ita determinatur ad unum oppositorum quod nullo
@@ -1854,22 +1863,26 @@
                   ad Deum necessario diligendum</mentioned>. Sed hoc non obviat, quia si clara Dei
                   visio faceret voluntatem necessario diligere Deum, sequitur quod clara Dei visio
                   faceret voluntatem non esse voluntatem. Consequens est falsum, ergo et antecedens.
-                  Et consequentia apparet per <ref xml:id="pcsc-l1q2-Rd1e1656">Beatum Augustinum III
-                  <title>De libero arbitrio</title>, capitulo 2</ref>, ubi sic dicit:
+                  Et consequentia apparet per 
+                  <ref xml:id="pcsc-l1q2-Rd1e1656" corresp="#pcsc-l1q2-Qd1e1664">Beatum Augustinum III 
+                    <title>De libero arbitrio</title>, capitulo 2
+                  </ref>, 
+                  ubi sic dicit:
                   <cit>
-                  <quote xml:id="pcsc-l1q2-Qd1e1664">Si necesse est ut velit, non iam voluntate, sed
-                    necessitate, illud me velle fatendum est, sicut non voluntate senescimus sed
-                    necessitate, sed quod non voluntate velimus, quis vel delirus audeat
-                    dicere?</quote>
-                  <bibl>Augustinus, <title>De libero arbitrio</title> III, c. 7 (CCSL 29, 279; PL
-                    32, 1274).</bibl>
+                    <quote xml:id="pcsc-l1q2-Qd1e1664">Si necesse est ut velit, non iam voluntate, sed
+                      necessitate, illud me velle fatendum est, sicut non voluntate senescimus sed
+                      necessitate, sed quod non voluntate velimus, quis vel delirus audeat
+                      dicere?</quote>
+                    <bibl>Augustinus, <title>De libero arbitrio</title> III, c. 7 (CCSL 29, 279; PL
+                      32, 1274).</bibl>
                   </cit>
-                   Et in eodem capitulo:
+                  Et in 
+                  <ref xml:id="pcsc-l1q2-Recoeco" corresp="#pcsc-l1q2-Qd1e1676">eodem capitulo</ref>:
                   <cit>
-                  <quote xml:id="pcsc-l1q2-Qd1e1676">Nihil est tam in potestate voluntatis quam ipsa
-                    voluntas, eo enim prorsus nec intervallo mox ut volumus praesto est</quote>
-                  <bibl>Augustinus, <title>De libero arbitrio</title> III, c. 7 (CCSL 29, 279; PL
-                    32, 1274).</bibl>
+                    <quote xml:id="pcsc-l1q2-Qd1e1676">Nihil est tam in potestate voluntatis quam ipsa
+                      voluntas, eo enim prorsus nec intervallo mox ut volumus praesto est</quote>
+                    <bibl>Augustinus, <title>De libero arbitrio</title> III, c. 7 (CCSL 29, 279; PL
+                      32, 1274).</bibl>
                   </cit>
                    - haec ille. Patet igitur illa consequentia, et per consequens per nullam
                   cognitionem necessitatur voluntas ad diligendum, quod erat propositum.</p>
@@ -1978,16 +1991,33 @@
                   contra primam et secundam conclusiones</supplied> </head>
                 <p xml:id="pcsc-l1q2-d1e1792">[100: -68, 74] Argumenta vero ipsorum intendo formare
                   breviori et efficaciori forma quam fiunt per ipsos, semper tamen radicibus ipsorum
-                  propriis innitendo. Colliguntur autem ex dictis<ref xml:id="pcsc-l1q2-Rd1e1794">
-                  Magistri Iohannis de Ripa I <title>Super Sententias</title>, quaestione 3,
-                  articulo 3, 1 distinctionis</ref>, sex rationes contra primam et secundam meam
-                  conclusiones. Quarum prima dicebat quod <quote xml:id="pcsc-l1q2-Qd1e1800">non
+                  propriis innitendo. Colliguntur autem ex dictis 
+                  <ref xml:id="pcsc-l1q2-Rd1e1794" corresp="#pcsc-l1q2-Qd1e1800 #pcsc-l1q2-Qd1e1803">
+                    <name>Magistri Iohannis de Ripa</name> I <title>Super Sententias</title>, quaestione 3,
+                  articulo 3, 1 distinctionis
+                  </ref>, 
+                  sex rationes contra primam et secundam meam
+                  conclusiones. 
+                  Quarum prima dicebat quod 
+                  <cit>
+                    <quote xml:id="pcsc-l1q2-Qd1e1800">non
                   semper obiectum voluntati creatae sub ratione delectabilis vel tristabilis
-                  demonstratum necessitat ipsam ad producendum actum aliquem positivum</quote>; et
-                  secunda dicebat quod <quote xml:id="pcsc-l1q2-Qd1e1803">nullius obiecti sub
-                  praecisa ratione boni finita perceptio potest volitivam creatam ad actum proprium
-                  immutabiliter stabilire.</quote> Ex quibus apparet quod stat voluntatem respectu
-                  talis obiecti neutram permanere.</p>
+                  demonstratum necessitat ipsam ad producendum actum aliquem positivum</quote>
+                    <bibl>REF</bibl>
+                  </cit>; 
+                  et
+                  secunda dicebat quod 
+                  <cit>
+                    <quote xml:id="pcsc-l1q2-Qd1e1803">
+                      nullius obiecti sub
+                      praecisa ratione boni finita perceptio potest volitivam creatam ad actum proprium
+                      immutabiliter stabilire
+                    </quote>
+                    <bibl>REF</bibl>
+                  </cit>. 
+                  Ex quibus apparet quod stat voluntatem respectu
+                  talis obiecti neutram permanere.
+                </p>
                 <p xml:id="pcsc-l1q2-d1e1807">[101] Prima igitur ratio est haec: sit <c>a</c>
                   aliquod obiectum voluntati ostensum sub ratione alicuius boni. <c>a</c> igitur
                   allicit voluntatem ad sui prosecutionem. Vel igitur voluntas agit conformiter
@@ -2010,10 +2040,10 @@
                   sequeretur quod si Sortes vult <c>a</c>, quod cognoscit <c>a</c>, quod videtur
                   falsum et contra omnem doctrinam doctorum:
                   <cit>
-                  <quote xml:id="pcsc-l1q2-Qd1e1845">Invisa, inquit <name>Augustinus</name>,
-                    diligere possumus incognita nequaquam.</quote>
-                  <bibl>Augustinus, <title>De Trinitate</title> X, cc. 1-2 (CCSL 50, 311-316; PL 42,
-                    971-975).</bibl>
+                    <quote xml:id="pcsc-l1q2-Qd1e1845">Invisa, inquit <name>Augustinus</name>,
+                      diligere possumus incognita nequaquam.</quote>
+                    <bibl>Augustinus, <title>De Trinitate</title> X, cc. 1-2 (CCSL 50, 311-316; PL 42,
+                      971-975).</bibl>
                   </cit>
                    Si ergo non possit se ipsam determinare ad agendum nisi concurrente notitia
                   alicuius obiecti sub ratione boni vel mali, sequitur quod quam non est in
@@ -2188,14 +2218,15 @@
                   xml:id="pcsc-l1q2-Qd1e2021">si voluntas per purum non-velle resistat,</quote> hic
                   dico quod non per purum non-velle, sed per actum experimentativum propriae
                   libertatis, per quem aliquis bene potest fieri moraliter bonus. Et de isto actu ex
-                  quo sequitur negatio, prout dicitur <ref xml:id="pcsc-l1q2-Rd1e2024"
-                  ><title>Ecclesiastici</title> XXXI</ref>:
+                  quo sequitur negatio, prout dicitur 
+                  <ref xml:id="pcsc-l1q2-Rd1e2024" corresp="#pcsc-l1q2-Qd1e2031"><title>Ecclesiastici</title> XXXI</ref>:
                   <cit>
-                  <quote xml:id="pcsc-l1q2-Qd1e2031" ana="#31_10">Potuit transgredi et non est
-                    transgressus, facere mala et non fecit</quote>
-                  <bibl>Sir 31:10.</bibl>
+                    <quote xml:id="pcsc-l1q2-Qd1e2031" ana="#sir31_10">Potuit transgredi et non est
+                      transgressus, facere mala et non fecit</quote>
+                    <bibl>Sir 31:10.</bibl>
                   </cit>
-                   etc. Sic ergo apparet quod non per puram negationem efficitur moraliter bonus,
+                  etc.
+                  Sic ergo apparet quod non per puram negationem efficitur moraliter bonus,
                   sed etiam per affirmationem praecedentem negationem utriusque actus respectu
                   illius obiecti, videlicet velle vel nolle.</p>
                 <p xml:id="pcsc-l1q2-d1e2039">[114: -105-106] Ad quintam et ad sextam rationes patet
@@ -2250,35 +2281,42 @@
                 <p xml:id="pcsc-l1q2-d1e2088">[119] Praeterea, quodlibet quod naturaliter elicitur
                   non contingenter elicitur; sed desiderium finis ostensum universaliter naturaliter
                   a voluntate elicitur; ergo de facto non contingenter [40ra] elicitur. Consequentia
-                  et maior sunt notae. Et minor apparet per <ref xml:id="pcsc-l1q2-Rd1e2090"
-                  ><name>Philosophum</name> I <title>Ethicorum</title></ref>:
+                  et maior sunt notae. Et minor apparet per 
+                  <ref xml:id="pcsc-l1q2-Rd1e2090" corresp="#pcsc-l1q2-Qd1e2099"><name>Philosophum</name> I <title>Ethicorum</title></ref>:
                   <cit>
-                  <quote xml:id="pcsc-l1q2-Qd1e2099" source="http://scta.info/resource/aristneth-l1"
-                    >Omnia bonum appetere videntur</quote>
+                  <quote xml:id="pcsc-l1q2-Qd1e2099" source="http://scta.info/resource/aristneth-l1">
+                    Omnia bonum appetere videntur
+                  </quote>
                   <bibl>Aristoteles, <title>Ethica Nicomachea</title> I, c. 1, 1094a22-24</bibl>
                   <note><title>Les Auctoritates Aristotelis</title>, ed. Jacqueline Hamesse,
                     Louvain-Paris, 1974, 232).</note>
-                  </cit>
-                   . Similiter <ref xml:id="pcsc-l1q2-Rd1e2114">I <title>Metaphysicae</title></ref>:
+                  </cit>. 
+                  Similiter 
+                  <ref xml:id="pcsc-l1q2-Rd1e2114" corresp="#pcsc-l1q2-Qd1e2121">I <title>Metaphysicae</title></ref>:
                   <cit>
-                  <quote xml:id="pcsc-l1q2-Qd1e2121" source="http://scta.info/resource/aristmet-l1"
-                    >Omnes homines naturaliter scire desiderant.</quote>
+                  <quote xml:id="pcsc-l1q2-Qd1e2121" source="http://scta.info/resource/aristmet-l1">
+                    Omnes homines naturaliter scire desiderant.
+                  </quote>
                   <bibl>Aristoteles, <title>Metaphysica</title> I, c. 1, 980a21</bibl>
                   <note><title>Les Auctoritates Aristotelis</title>, ed. Jacqueline Hamesse,
                     Louvain-Paris, 1974, 115).</note>
                   </cit>
-                   Similiter per <ref xml:id="pcsc-l1q2-Rd1e2136"><name>Boethium</name> III
-                  <title>De consolatione Philosophiae</title></ref>, prosa 2:
+                  Similiter per 
+                  <ref xml:id="pcsc-l1q2-Rd1e2136" corresp="#pcsc-l1q2-Qd1e2146">
+                    <name>Boethium</name> III <title>De consolatione Philosophiae</title>
+                  </ref>, 
+                  prosa 2:
                   <cit>
                   <quote xml:id="pcsc-l1q2-Qd1e2146">Est enim mentibus hominum veri boni naturaliter
                     inserta cupiditas</quote>
                   <bibl>Boethius, <title>De consolatione Philosophiae</title> III, c. 2, ed. C.
                     Moreschini (Munich-Leipzig 2000), 60.</bibl>
-                  </cit>
-                   ; quare propositum.</p>
+                  </cit>; 
+                  quare propositum.</p>
                 <p xml:id="pcsc-l1q2-d1e2158">[120] Praeterea, sicut se habet malum apparenter
                   existenter malum respectu prosecutionis et desiderii, sic bonum
-                  <cb ed="#F" n="b"/> apparenter existenter bonum respectu resilitionis et fugae;
+                  <cb ed="#F" n="b"/> 
+                  apparenter existenter bonum respectu resilitionis et fugae;
                   sed malum apparenter existenter bonum non potest a voluntate desiderari vel
                   prosequi; ergo nec bonum apparenter existenter bonum potest a voluntate respui
                   quovis modo. Tale autem videtur beatitudo in universali; ergo propositum.
@@ -2290,45 +2328,50 @@
                   cuilibet voluntati generaliter annexa; ergo est omni voluntati naturalis, et per
                   consequens non contradictorie libera. Consequentia patet. Et maior apparet in
                   <cit>
-                  <ref xml:id="pcsc-l1q2-Rd1e2165" target="http://scta.info/resource/aristneth-l5">V
-                    <title>Ethicorum</title></ref>
-                  <bibl>Aristoteles, <title>Ethica Nicomachea</title> V, c. 1 (29b15-30a10).</bibl>
-                  </cit>
-                   , ubi sententialiter dicitur quod generalia et communia videntur naturalia. Et
-                  minor est <ref xml:id="pcsc-l1q2-Rd1e2177"><name>Beati Augustini</name> XIII
-                  <title>De Trinitate</title></ref>, capitulo 8, dicentis:
+                    <ref xml:id="pcsc-l1q2-Rd1e2165" target="http://scta.info/resource/aristneth-l5">
+                      V <title>Ethicorum</title>
+                    </ref>
+                    <bibl>Aristoteles, <title>Ethica Nicomachea</title> V, c. 1 (29b15-30a10).</bibl>
+                  </cit>, 
+                  ubi sententialiter dicitur quod generalia et communia videntur naturalia. Et
+                  minor est 
+                  <ref xml:id="pcsc-l1q2-Rd1e2177" corresp="#pcsc-l1q2-Qd1e2186">
+                    <name>Beati Augustini</name> XIII <title>De Trinitate</title>
+                  </ref>, 
+                  capitulo 8, dicentis: 
                   <cit>
-                  <quote xml:id="pcsc-l1q2-Qd1e2186" source="http://scta.info/resource/adt-l13"
-                    >Beati omnes esse volunt</quote>
-                  <bibl>Augustinus, <title>De Trinitate</title> XIII, c. 8 (CCSL 50A 396-398; PL 42,
-                    1022-1023).</bibl>
-                  </cit>
-                   ; et infra:
+                    <quote xml:id="pcsc-l1q2-Qd1e2186" source="http://scta.info/resource/adt-l13">
+                      Beati omnes esse volunt
+                    </quote>
+                    <bibl>Augustinus, <title>De Trinitate</title> XIII, c. 8 (CCSL 50A 396-398; PL 42,
+                      1022-1023).</bibl>
+                  </cit>; 
+                  et <ref xml:id="pcsc-l1q2-Rianrfa" corresp="#pcsc-l1q2-Qd1e2198">infra</ref>:
                   <cit>
-                  <quote xml:id="pcsc-l1q2-Qd1e2198" source="http://scta.info/resource/adt-l13">Illa
-                    vera est et prospectata,
-                    perfecta,<!--<a href="#_ftn34" name="_ftnref34" class="style1">{34}</a>--> et
-                    examinata, et eliquata ac certa sententia beatos esse omnes homines
-                    velle</quote>
-                  <bibl>Augustinus, <title>De Trinitate</title> XIII, c. 8 (CCSL 50A 396-398; PL 42,
-                    1022-1023).</bibl>
-                  </cit>
-                   ; et infra:
+                    <quote xml:id="pcsc-l1q2-Qd1e2198" source="http://scta.info/resource/adt-l13">Illa
+                      vera est et prospectata,
+                      perfecta,<!--<a href="#_ftn34" name="_ftnref34" class="style1">{34}</a>--> et
+                      examinata, et eliquata ac certa sententia beatos esse omnes homines
+                      velle</quote>
+                    <bibl>Augustinus, <title>De Trinitate</title> XIII, c. 8 (CCSL 50A 396-398; PL 42,
+                      1022-1023).</bibl>
+                  </cit>; 
+                  et <ref xml:id="pcsc-l1q2-Rarfarf" corresp="#pcsc-l1q2-Qd1e2212">infra</ref>:
                   <cit>
-                  <quote xml:id="pcsc-l1q2-Qd1e2212" source="http://scta.info/resource/adt-l13">Haec
-                    veritas clamat, et natura compellit cui summe bonus et immutabiliter beatus
-                    creator hoc indidit.</quote>
-                  <bibl>Augustinus, <title>De Trinitate</title> XIII, c. 8 (CCSL 50A 396-398; PL 42,
-                    1022-1023).</bibl>
-                  </cit>
-                   Et <ref xml:id="pcsc-l1q2-Rd1e2223">Philosophus IX <title>Ethicorum</title></ref>
+                    <quote xml:id="pcsc-l1q2-Qd1e2212" source="http://scta.info/resource/adt-l13">Haec
+                      veritas clamat, et natura compellit cui summe bonus et immutabiliter beatus
+                      creator hoc indidit</quote>
+                    <bibl>Augustinus, <title>De Trinitate</title> XIII, c. 8 (CCSL 50A 396-398; PL 42,
+                      1022-1023).</bibl>
+                  </cit>.
+                  Et 
+                  <ref xml:id="pcsc-l1q2-Rd1e2223" corresp="#pcsc-l1q2-Qd1e2230">Philosophus IX <title>Ethicorum</title></ref>
                   dicit:
                   <cit>
-                  <quote xml:id="pcsc-l1q2-Qd1e2230" source="http://scta.info/resource/aristneth-l9"
-                    >Volumus quidem omnes bona, eligimus autem nequaquam.</quote>
-                  <bibl>Aristoteles, <title>Ethica Nicomachea</title> IX, c. 4 (66a20).</bibl>
+                    <quote xml:id="pcsc-l1q2-Qd1e2230" source="http://scta.info/resource/aristneth-l9">Volumus quidem omnes bona, eligimus autem nequaquam.</quote>
+                    <bibl>Aristoteles, <title>Ethica Nicomachea</title> IX, c. 4 (66a20).</bibl>
                   </cit>
-                   Ex quibus apparet quod omni voluntati est generaliter annexum desiderium
+                  Ex quibus apparet quod omni voluntati est generaliter annexum desiderium
                   bonitatis; quare propositum.</p>
                 <p xml:id="pcsc-l1q2-d1e2241">[122] Praeterea, quod non potest odiri de necessitate
                   cadit sub actu complacentiae; sed bonum universaliter apprehensum nullo modo
@@ -2507,20 +2550,21 @@
                   de damnatorum obstinatione, quod ideo sunt damnati quia Deus vult eos esse
                   damnatos. Utrum autem damnati se habeant respectu actus suae damnationis passive
                   tantum et non active? Videtur scholae communis opinio quod tantum passive, et cum
-                  hoc habent actus difformes suae damnationi, nam ut dicit Scriptura:
+                  hoc habent actus difformes suae damnationi, nam ut 
+                  <ref xml:id="pcsc-l1q2-Rdsadca" corresp="#pcsc-l1q2-Qd1e2377">dicit Scriptura</ref>:
                   <cit>
                   <quote xml:id="pcsc-l1q2-Qd1e2377" ana="#ap9_6">Desiderabunt mori et mors fugiet
-                    ab eis,</quote>
+                    ab eis</quote>
                   <bibl>Apoc. 9:6</bibl>
-                  </cit>
-                   mallentque non esse quam taliter esse, et hoc eis accidit ex iudicii
+                  </cit>,
+                  mallentque non esse quam taliter esse, et hoc eis accidit ex iudicii
                   perversitate. Quae omnia eis cedunt ad poenam. Confirmatio tamen eorum damnationis
                   existit divinae voluntatis liberima determinatio antecedens.</p>
                 <p xml:id="pcsc-l1q2-d1e2385">[137: -124] Ad secundam rationem, qua dicitur quod
                   <quote xml:id="pcsc-l1q2-Qd1e2387">omnis ratio motiva quae in aliquo gradu</quote>
-                  - supple <mentioned>finito</mentioned> - <quote xml:id="pcsc-l1q2-Qd1e2393"
-                  >inducit difficultatem resiliendi in voluntate</quote> - supple
-                  <mentioned>creata</mentioned> - <quote xml:id="pcsc-l1q2-Qd1e2399"> in gradu
+                  - supple <mentioned>finito</mentioned> - 
+                  <quote xml:id="pcsc-l1q2-Qd1e2393">inducit difficultatem resiliendi in voluntate</quote> 
+                  - supple <mentioned>creata</mentioned> - <quote xml:id="pcsc-l1q2-Qd1e2399"> in gradu
                   infinito existens inducit impossibilitatem resiliendi,</quote> dico quod illud
                   assumptum non est universaliter verum nisi in potentiis quae non habent
                   habitudinem causalitatis necessariae et habent modum impellentis et resistentis,
@@ -2541,15 +2585,17 @@
                   distinctio potentiarum in homine, ita et actuum earundem, ut apparet de
                   vegetativa, sensitiva, et intellectiva. Unde actus vegetativae non sequuntur
                   imperium liberi arbitrii sive rationis et voluntatis, et ideo non sunt de
-                  speculatione moralis philosophi, ut inquit <ref xml:id="pcsc-l1q2-Rd1e2405"
-                  ><name>Aristoteles</name> in fine I <title>Ethicorum</title></ref>:
+                  speculatione moralis philosophi, ut inquit 
+                  <ref xml:id="pcsc-l1q2-Rd1e2405" corresp="#pcsc-l1q2-Qd1e2414">
+                    <name>Aristoteles</name> in fine I <title>Ethicorum</title>
+                  </ref>:
                   <cit>
-                  <quote xml:id="pcsc-l1q2-Qd1e2414" source="http://scta.info/resource/aristneth-l1"
-                    >Actus vero sensitivae, etsi aliqui subsunt rationis et voluntatis imperio,
-                    tamen non omnes.</quote>
-                  <bibl>Aristoteles, <title>Ethica Nicomachea</title> I, c. 13 (02b15-20).</bibl>
+                    <quote xml:id="pcsc-l1q2-Qd1e2414" source="http://scta.info/resource/aristneth-l1"
+                      >Actus vero sensitivae, etsi aliqui subsunt rationis et voluntatis imperio,
+                      tamen non omnes.</quote>
+                    <bibl>Aristoteles, <title>Ethica Nicomachea</title> I, c. 13 (02b15-20).</bibl>
                   </cit>
-                   Loquendo tamen de his actibus sensitivae potentiae qui videntur subdi imperio
+                  Loquendo tamen de his actibus sensitivae potentiae qui videntur subdi imperio
                   voluntatis, dico quod licet voluntas ad tales actus sit principatus despoticus, ut
                   placet Aristoteli, tamen non est necessaria habitudo ipsius imperii voluntatis ad
                   tales actus, et ideo stat actus istos exteriores potentiae sensitivae esse
@@ -2565,12 +2611,12 @@
                   pro suis conservandis erroribus aut promissionibus aut legibus maiora et similia
                   sunt perpessi, ut
                   <cit>
-                  <ref xml:id="pcsc-l1q2-Rd1e2426" target="http://scta.info/resource/adcd-l5">Beatus
-                    <name>Augustinus</name> V <title>De civitate Dei</title>, capitulo 18</ref>
-                  <bibl>Augustinus, <title>De civitate Dei</title> V, c. 18 (CCSL 47, 151-154; PL
-                    41, 162-165).</bibl>
-                  </cit>
-                   , diffuse per exempla gentilium propositum manifestat? Voluntas igitur non [41va]
+                    <ref xml:id="pcsc-l1q2-Rd1e2426" target="http://scta.info/resource/adcd-l5">Beatus
+                      <name>Augustinus</name> V <title>De civitate Dei</title>, capitulo 18</ref>
+                    <bibl>Augustinus, <title>De civitate Dei</title> V, c. 18 (CCSL 47, 151-154; PL
+                      41, 162-165).</bibl>
+                  </cit>, 
+                  diffuse per exempla gentilium propositum manifestat? Voluntas igitur non [41va]
                   necessitatur, licet quandoque videatur actibus exterioribus consentire.</p>
                 <p xml:id="pcsc-l1q2-d1e2443">[139: -125] Et per hoc patet responsio ad tertiam
                   rationem de similitudine ponderis ad gravia, et amoris ad voluntatem, quae tamen
@@ -2579,8 +2625,8 @@
                   alicuius obiecti necessitatur voluntas, licet inclinatio fortis sit in potentiis
                   sensitivis, ex quibus - ut
                   <cit>
-                  <ref xml:id="pcsc-l1q2-Rd1e2447">dictum est</ref>
-                  <bibl>REF</bibl>
+                    <ref xml:id="pcsc-l1q2-Rd1e2447">dictum est</ref>
+                    <bibl>REF</bibl>
                   </cit>
                    - sumitur iudicium a ratione semotum attribuendo voluntati ea quae sunt potentiae
                   sensitivae.</p>
@@ -2701,24 +2747,24 @@
             determinantia voluntates, et tamen non sunt formaliter divina essentia pro eo quod tunc
             essent plures naturae universaliter et completive perfectae, quod fidei veritas non
             admittit. Responsio patet per conclusiones secundi articuli.</p>
-          <p xml:id="pcsc-l1q2-d1e2556">[150] Ad auctoritatem tamen <ref xml:id="pcsc-l1q2-Rd1e2558"
-            ><name>Beati Augustini</name> in littera textus</ref> insertam,
+          <p xml:id="pcsc-l1q2-d1e2556">[150] Ad auctoritatem tamen 
+            <ref xml:id="pcsc-l1q2-Rd1e2558" corresp="#pcsc-l1q2-Qd1e2565"><name>Beati Augustini</name> in littera textus</ref> insertam,
             <cit>
-            <quote xml:id="pcsc-l1q2-Qd1e2565">Res quibus fruendum est</quote>
-            <bibl>Augustinus, <title>De doctrina Christiana</title> I, c. 5 (CCSL 32, 9; PL 34,
-              21).</bibl>
+              <quote xml:id="pcsc-l1q2-Qd1e2565">Res quibus fruendum est</quote>
+              <bibl>Augustinus, <title>De doctrina Christiana</title> I, c. 5 (CCSL 32, 9; PL 34,
+                21).</bibl>
             </cit>
-             etc., dicitur quod li <mentioned>res</mentioned> secundum veritatem ibi sumitur
+            etc., dicitur quod li <mentioned>res</mentioned> secundum veritatem ibi sumitur
             notionaliter, et concedendum est quod quaelibet earum est obiectum fruitivae dilectionis
             realiter, licet non formaliter. Nam si formaliter quaelibet divina relatio esset
             obiectum fruitionis, tunc argumentum bene concluderet, sed non ita est. Est ergo Beati
             Augustini intentio quod realiter divinis personis fruendum est. Qua autem ratione eis
             fruitio conveniat [42rb] hoc non exprimit, licet in rei veritate sua sit intentio, ut
             <cit>
-            <ref xml:id="pcsc-l1q2-Rd1e2580">iam expressum est</ref>
-            <bibl>REF</bibl>
-            </cit>
-             .</p>
+              <ref xml:id="pcsc-l1q2-Rd1e2580">iam expressum est</ref>
+              <bibl>REF</bibl>
+            </cit>.
+          </p>
           <p xml:id="pcsc-l1q2-d1e2588">[151] Ad tertiam rationem, quae tangit effectualiter quod ex
             quo divina essentia in ratione obiecti fruibilis propriam necessitat voluntatem ad sic
             fruendum, ergo a fortiori poterit quamlibet aliam voluntatem necessitare, cum quaelibet
@@ -2731,10 +2777,10 @@
             extra producere. Verum, quidquid ad extra producit, mere et libere contradictorie illud
             producit, et ideo, ut
             <cit>
-            <ref xml:id="pcsc-l1q2-Rd1e2595">in aliis responsionibus declaratum est</ref>
-            <bibl>REF</bibl>
-            </cit>
-             , concursus divinus ad extra non inducit in voluntate creata necessitatem aliquam
+              <ref xml:id="pcsc-l1q2-Rd1e2595">in aliis responsionibus declaratum est</ref>
+              <bibl>REF</bibl>
+            </cit>, 
+            concursus divinus ad extra non inducit in voluntate creata necessitatem aliquam
             coactivam. Et ex hoc apparet quod consequentia non valet, <mentioned>Deus necessario se
             diligit, fruitur, et sic de consimilibus, ergo et potest facere quod ipsum necessario
             diligat creata voluntas</mentioned>. Nam hoc non potest facere naturali necessitate, nec
