@@ -6,6 +6,7 @@
         <title>Liber I, Quaestio 2</title>
         <author>Peter of Candia</author>
         <editor>Severin Kitanov</editor>
+        <editor>Chris Schabel</editor>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
           <resp>TEI encoder</resp>
@@ -18,8 +19,8 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/"
-            >Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/"
+            >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>

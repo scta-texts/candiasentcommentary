@@ -1,0 +1,2014 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Liber I, Quaestio 6</title>
+        <author>Peter of Candia</author>
+        <editor>Chris Schabel</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>Liber I, Quaestio 6</title> <date when="2018-01-27">January
+          17, 2018</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="F" n="fribourg20">Fribourg/Freiburg, Couvent des
+            Cordeliers/Franziskanerkloster, Ms. 20 </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-01-27" status="draft" n="0.0.0"> <p>File Started for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"> </div>
+    </front>
+    <body>
+      <div xml:id="pcsc-l1q6">
+        <head xml:id="pcsc-l1q6-Hd1e102">Quaestio 6</head>
+        <head xml:id="pcsc-l1q6-Hd1e105" type="question-title">Utrum divina essentia habeat distinctam notitiam cuiuslibet
+          gradus possibiliter vel realiter existentis.</head>
+        <p xml:id="pcsc-l1q6-d1e108">Quaestio ad praesens pertractanda est ista: utrum divina essentia habeat distinctam
+          notitiam cuiuslibet gradus possibiliter vel realiter existentis.</p>
+        <div xml:id="pcsc-l1q6-Dd1e111" type="rationes-principales">
+          <p xml:id="pcsc-l1q6-d1e113"> [1] Et arguitur quod non tribus mediis, et primo sic: quaecumque distincte
+            cognoscuntur, una vel pluribus distinctis cognitionibus cognoscuntur; sed impossible est
+            omnia unica cognitione distincta cognosci; ergo, si omnia cognoscuntur distincte,
+            pluribus cognitionibus cognoscuntur. Sed divinae essentiae repugnat cognitionum
+            pluralitas, ergo et omnium distincta cognitio, et per consequens quaestio falsa.
+            Consequentia patet. Sed duae propositiones assumptae probantur, prima videlicet quod
+            <quote xml:id="pcsc-l1q6-Qd1e115">impossibile est omnia unica cognitione distincta cognosci,</quote> quoniam
+            distincta cognitio est rei perfectissima similitudo; nunc autem impossibile est duorum
+            contrariorum esse unicam perfectissimam similitudinem, quia per ipsam semper idem
+            iudicium haberetur de utroque, et per consequens per illam intellectus nesciret
+            distinguere unum ab alio; quare propositio illa vera. Secunda vero propositio, quod
+            <quote xml:id="pcsc-l1q6-Qd1e118">divinae essentiae repugnet cognitionum pluralitas,</quote> apparet, quia talis
+            videtur summae simplicitatis exclusiva. Quare etc.</p>
+          <p xml:id="pcsc-l1q6-d1e122"> [2] Praeterea, divina essentia non habet distinctam notitiam futuri contingentis, ergo
+            quaestio falsa. Consequentia patet, et antecedens probatur, quoniam si habet distinctam
+            notitiam futuri contingentis, sequitur quod, cum tale futurum sit variabile, quod
+            similiter eius cognitio esset variabilis. Consequentia ista probatur, quoniam si nullum
+            esset scibile, nulla esset scientia, ergo destructo aliquo scibili, destruitur eius
+            scientia. Et per consequens, cum futurum contingens sit variabile, sequitur quod ad
+            ipsius variationem ipsius cognitio variatur; sed hoc repugnat divinae essentiae, quia
+            tunc ipsa esset intrinsece variabilis, quod est falsum et contra communiter opinantes;
+            quare etc.</p>
+          <p xml:id="pcsc-l1q6-d1e125"> [3] Praeterea, si divina essentia haberet distinctam notitiam cuiuslibet gradus
+            possibilis vel realis, sequeretur quod omnia evenirent de necessitate. Consequens est
+            falsum, ergo et antecedens, et per consequens quaestio. Falsitas consequentis patet,
+            quia tunc periret meritum et demeritum, laus et vituperium. Et consequentia probatur,
+            quoniam talis cognitio vel dependet a rebus vel est ipsarum causa. Non est dicendum
+            primum, quia hoc [104va] dicit imperfectionem. Ergo secundum est dandum. Cum igitur
+            talis cognitio sit necessaria et aeterna, sequitur quod eventus rerum erit necessarius
+            et aeternus, quoniam effectus non capit aliter esse quam sibi communicetur per suam
+            causam. Sed hoc videtur inconveniens, quare propositum.</p>
+          <p xml:id="pcsc-l1q6-d1e128"> [4] Ad oppositum, et pro veritate quaestionis, est <ref xml:id="pcsc-l1q6-Rd1e133" corresp="#pcsc-l1q6-Qd1e138"><name>Apostolus</name> Ad
+            Hebraeos 4 capitulo</ref>, dicens:
+            <cit>
+            <quote xml:id="pcsc-l1q6-Qd1e138" ana="#hebr4_12 #hebr4_13.">Vivus est sermo Dei et efficax et penetrabilior omni
+              gladio ancipiti et pertingens usque ad divisionem animae et spiritus conpagum quoque
+              et medullarum et discretor cogitationum et intentionum cordis, et non est ulla
+              creatura invisibilis in conspectu eius, omnia autem nuda et aperta sunt oculis
+              eius.</quote>
+            <bibl>Hebraeos 4:12-13</bibl>
+            </cit>
+             Quare propositum.</p>
+        </div>
+        <div xml:id="pcsc-l1q6-Dd1e147">
+          <head xml:id="pcsc-l1q6-Hd1e149"><supplied>Decisio quaestionis</supplied></head>
+          <p xml:id="pcsc-l1q6-d1e153"> [5] Pro decisione istius quaestionis, iuxta materiam trium argumentorum ad quaestionis
+            oppositum adductorum, tres erunt articuli pertractandi. Quorum primus, iuxta materiam
+            primi argumenti, erit iste: utrum divina essentia sit tantummodo secundum unicam
+            rationem essentialem cuiuslibet entis realis vel possibilis ratio formaliter cognitiva.
+            Secundus, iuxta materiam secundi argumenti, erit iste: utrum intellectiva divinae
+            substantiae habeat distinctam et infallibilem notitiam contingentium futurorum. Tertius,
+            iuxta materiam tertii argumenti, erit iste: utrum Dei aeterna praescientia volitivam
+            creatam necessitet ad actum proprium producendum.</p>
+        </div>
+        <div xml:id="pcsc-l1q6-Dd1e158">
+          <head xml:id="pcsc-l1q6-Hd1e160"><supplied>Articulus primus</supplied></head>
+          <head xml:id="pcsc-l1q6-Hd1e164" type="question-title"><supplied>Utrum divina essentia sit tantummodo secundum unicam
+            rationem essentialem cuiuslibet entis realis vel possibilis ratio formaliter
+            cognitiva</supplied></head>
+          <p xml:id="pcsc-l1q6-d1e168"> [6] Pro declaratione primi articuli necessarium est discutere condicionem idealium
+            rationum. Pro quo exequendo advertendum est quod circa istam materiam est duplex modus
+            dicendi: unus ponit idearum pluralitatem, et alius simpliciter negat. Sed primus modus
+            habet tres modos: quidam ponunt rationes ideales ex parte divinae essentiae, quidam ex
+            parte quidditatum, et quidam ex parte ipsarum creaturarum in esse actuali. Primus modus
+            est Magistri Iohannis de Ripa, secundus videtur Platonicus, et tertius est ipsius
+            Ockham.</p>
+          <div xml:id="pcsc-l1q6-Dd1e171">
+            <head xml:id="pcsc-l1q6-Hd1e173"><supplied>PARS PRIMA</supplied></head>
+            <div xml:id="pcsc-l1q6-Dd1e177">
+              <head xml:id="pcsc-l1q6-Hd1e179"><supplied>Opinio Guillelmi Ockham</supplied></head>
+              <p xml:id="pcsc-l1q6-d1e183"> [7] Primo igitur declarabitur modus Ockham et consequenter alii qui ponunt idearum
+                pluralitatem. Pro cuius opinionis declaratione sic procedam: primo namque ponam
+                definitionem ideae secundum suam imaginationem; secundo ponam sex conclusiones
+                materiae declarativas; tertio inferam septem correllarias propositiones; et quarto
+                contra positionem obiciam et rationibus respondebo.</p>
+            </div>
+            <div xml:id="pcsc-l1q6-Dd1e187">
+              <head xml:id="pcsc-l1q6-Hd1e189"><supplied>Definitio ideae</supplied></head>
+              <p xml:id="pcsc-l1q6-d1e193"> [8] Quantum ad primum est advertendum quod iste terminus
+                <mentioned>idea</mentioned> est nomen connotativum aliquid importans principaliter
+                et aliquid secundario, et ideo non potest notificari nisi definitione quid nominis.
+                Unde idea potest sic [104vb] definiri: idea est aliquid cognitum a principio
+                effectivo intellectuali ad quod tale principium aspiciens potest aliquid in esse
+                reali producere. Ista descriptio patet per <ref xml:id="pcsc-l1q6-Rd1e198" corresp="#pcsc-l1q6-Qd1e203">beatum Augustinum, LXXXIII
+                quaestionum quaestione XLVI</ref>, ubi sic dicit:
+                <cit>
+                <quote xml:id="pcsc-l1q6-Qd1e203" source="http://scta.info/resource/a83-q46">Has autem rationes ubi esse
+                  arbitrandum est nisi in ipsa mente Creatoris? Non enim extra se quicquid positum
+                  intuebatur ut secundum illud constitueret quod constituebat.</quote>
+                <bibl>Augustinus, <title>De diversis quaestionibus 83</title>, q. 46 (CCSL XLIVA, p.
+                  72);</bibl>
+                <note>cf. Guillelmus de Ockham, Scriptum in I, d. 35, q. 5 (edd. Etzkorn et Kelley,
+                  p. 486).</note>
+                </cit>
+                 Ex ista auctoritate apparent tres particulae positae in definitione, videlicet quod
+                ideae sunt cognitae; secunda, quod sunt cognitae ab activo intellectuali; et tertia,
+                quod ad ipsas aspicit artifex in agendo. Primae duae particulae apparent cum dicit,
+                <quote xml:id="pcsc-l1q6-Qd1e216">Has rationes ubi esse arbitrandum est nisi in mente Creatoris.</quote> Tertia
+                particula apparet cum dicit in fine auctoritatis, <quote xml:id="pcsc-l1q6-Qd1e219">Non enim extra se quicquid
+                positum intuebatur ut secundum illud constitueret quod constituebat.</quote> Ex his
+                manifeste innuit quod Deus ideas intuetur ut secundum illas efficiat. Quare
+                propositum.</p>
+              <p xml:id="pcsc-l1q6-d1e223"> [9] Praeterea, ista descriptio apparet per <ref xml:id="pcsc-l1q6-Rd1e225" corresp="#pcsc-l1q6-Qd1e230">Senecam, Epistola LXVI</ref>, ubi,
+                enumeratis quatuor causis positis ab Aristotele, sic dicit:
+                <cit>
+                <quote xml:id="pcsc-l1q6-Qd1e230">His quintum Plato addidit <mentioned>exemplar</mentioned>, quod
+                  <mentioned>ideam</mentioned> vocat. Hoc enim est ad quod aspiciens artifex illud
+                  quod determinavit effecit. Nihil autem ad rem pertinet utrum foris habeat exemplar
+                  ad quod referat oculos, an intus quod ipse concepit.</quote>
+                <bibl>Seneca, <title>Ad Lucilium Epistulae Morales</title>, ep. 45 (ed. R. Gummere
+                  I, 448)</bibl>
+                <note>cf. Guillelmus de Ockham, Scriptum in I, d. 35, q. 5 (edd. Etzkorn et Kelley,
+                  p. 486).</note>
+                </cit>
+                 Ex qua auctoritate patet quod ideae sunt quaedam exemplaria cognita ad quae
+                respiciendo cognoscens potest aliquid in esse reali producere. Sic igitur apparet
+                quid nomine <mentioned>ideae</mentioned> intelligitur secundum istum auctorem.</p>
+            </div>
+            <div xml:id="pcsc-l1q6-Dd1e254">
+              <head xml:id="pcsc-l1q6-Hd1e256"><supplied>Sex conclusiones declarativae</supplied></head>
+              <p xml:id="pcsc-l1q6-d1e260"> [10] Nunc consequenter pono sex conclusiones. Quarum prima sit ista: idea non est
+                aliquid Deo intrinsecum vel simpliciter infinitum. Ista conclusio sic probatur:
+                nullum Deo intrinsecum vel simpliciter infinitum est plurificabile nisi relatio
+                originis; sed idea est plurificabilis; ergo idea non est Deo intrinseca vel
+                simpliciter infinita. Consequentia patet et maior, quoniam nihil aliud a relatione
+                est in divinis plurificabile realiter vel formaliter, ut fuit ostensum
+                <cit>
+                <ref xml:id="pcsc-l1q6-Rd1e264">secundum opinionem huius auctoris in tertio articulo quartae quaestionis</ref>
+                <bibl>Cf. supra, I, q. 4, a. 3.</bibl>
+                </cit>
+                , ergo propositum. Et minor apparet per <ref xml:id="pcsc-l1q6-Rd1e271" corresp="#pcsc-l1q6-Qd1e276">beatum Augustinum, LXXXIII quaestionum
+                quaestione XLVI</ref>, dicentem:
+                <cit>
+                <quote xml:id="pcsc-l1q6-Qd1e276" source="http://scta.info/resource/a83-q46">Alia ratione conditus est homo,
+                  alia ratione conditus est equus.</quote>
+                <bibl>Augustinus, <title>De diversis quaestionibus 83</title>, q. 46 (CCSL XLIVA, p.
+                  72)</bibl>
+                <note>cf. Guillelmus de Ockham, Scriptum in I, d. 35, q. 5 (edd. Etzkorn et Kelley,
+                  p. 487).</note>
+                </cit>
+                 Et accipit ibi rationem pro <mentioned>idea</mentioned>. Quare propositum. Constat
+                autem quod idea non est relatio originis.</p>
+              <p xml:id="pcsc-l1q6-d1e293"> [11] Praeterea, si ideae sunt in Deo, aut obiective aut subiective aut utroque
+                modo. Non subiective, quia tunc plura essent in Deo sub[105ra]iective, quod apparet
+                manifeste falsum. Nec utroque modo per idem. Ergo obiective tantum. Sed quod est Deo
+                intrinsecum vel simpliciter infinitum non est in Deo tantummodo obiective, ergo idea
+                non est Deo intrinseca seu aliquid simpliciter infinitum. Quare propositum.</p>
+              <p xml:id="pcsc-l1q6-d1e296"> [12] Secunda conclusio est haec: idea non est aliquis aeternus respectus in divina
+                fundatus substantia respectu creaturae. Ista conclusio sic probatur: quia si idea
+                esset aliquis talis respectus, vel ergo realis vel rationis. Non realis, quia ille
+                exigit extrema realia, et per consequens, cum talis respectus sit aeternus, sequitur
+                quod creatura esset aeterna, quod falsum est. Nec est rationis, quia talis vel est
+                ex opere intellectus creati vel increati. Non creati, ut apparet. Ergo increati. Sed
+                hoc est falsum, quia tunc in divinis praeter relationes originis essent aliae
+                relationes productae, quod dicere non videtur tutum. Quare sequitur quod idea nec
+                est aeternus realis respectus nec rationis. Quare propositum.</p>
+              <p xml:id="pcsc-l1q6-d1e299"> [13] Praeterea, nullum respectivum formaliter potest esse exemplar alicuius
+                absoluti; sed idea est exemplar absoluti; ergo idea non est aliquid formaliter
+                respectivum, et per consequens conclusio vera. Consequentia et minor patent, et
+                maior probatur, quoniam si respectus esset exemplar absoluti, respectus esset
+                absolutum. Quod probo: quoniam tale absolutum est exemplatum a tali respectu, et per
+                consequens in illo respectu erat ratio absoluti ad cuius similitudinem istud
+                absolutum est exemplatum. Relinquitur ergo quod idea non est aliquis talis respectus
+                aeternus respectu creaturae, et per consequens sequitur veritas praemissae
+                conclusionis, quod est intentum.</p>
+              <p xml:id="pcsc-l1q6-d1e303"> [14] Tertia conclusio est haec: ideae non requiruntur ut rationes cognoscendi
+                quidditates seu existentias creaturarum ab ipsis realiter differentes. Haec
+                conclusio sic probatur: quaero, quid intelligitur per rationem cognoscendi
+                creaturam, aut aliquid causans sicut motivum cognitionem creaturae, aut ipsamet
+                cognitio creaturae, aut ut aliquid recipiens talem cognitionem, aut tanquam aliquid
+                requisitum ad cognitionem creaturae? Primum non potest dari, quod idea sit talis
+                ratio movens ex qua causatur in Deo cognitio respectu creaturae, quia cognitio Dei
+                respectu creaturae, cum sit tribus communis, sequitur quod est essentialis, et per
+                consequens omnino incausabilis. Nec potest dari secundum, videlicet quod ideae sint
+                tales rationes, quia cognitio Dei est omnino implurificabilis, licet sit respectu
+                plurium, ideae vero sunt plures, ut prius dictum est. Quare propositum. Nec potest
+                dari tertium, videlicet ut aliquid recipiens talem cognitionem, quia intellectus
+                [105rb] divinus nullo modo est receptivus cognitionis, sed est ipsamet cognitio. Nec
+                potest dari quartum, videlicet quod requirantur tales ideae ut entia rationis, quia
+                nihil praeter Deum et creaturam requiritur ad hoc quod Deus intelligat creaturam. Et
+                per consequens tales ideae non requiruntur ut rationes cognoscendi, quod est
+                propositum.</p>
+              <p xml:id="pcsc-l1q6-d1e306"> [15] Quarta conclusio est haec: ideae non requiruntur ut similitudines
+                repraesentantes intellectui divino quidditates creaturarum. Haec conclusio sic
+                probatur: quoniam divina essentia est implurificabilis, et per consequens, cum illae
+                similitudines sint plurificabiles, sequitur quod non sunt divina essentia, et ita
+                tales non sunt repraesentantes divinae essentiae creaturas. Aliter per aliquid a se
+                distinctum duceretur formaliter in notitiam creaturae, quod videtur falsum, quia sic
+                vilesceret ipsius intellectus. Quare conclusio vera.</p>
+              <p xml:id="pcsc-l1q6-d1e309"> [16] Quinta conclusio est haec: ideae requiruntur tantummodo ut quaedam exemplaria
+                ad quae intellectus divinus aspiciens producit creaturas. Haec conclusio sic
+                probatur: in quolibet rationabiliter operante requiruntur virtus productiva et
+                exemplar ad quod aspiciens operatur; sed Deus est rationabiliter operans; ergo in eo
+                requiritur virtus productiva et exemplar. Sed ideae requiruntur in productione rerum
+                ad extra, ut prius apparuit, secundum beatum Augustinum, et non ut virtus
+                productiva; ergo ut exemplaria ad quae virtus aspiciat producentis. Quare
+                propositum.</p>
+              <p xml:id="pcsc-l1q6-d1e312"> [17] Sexta conclusio est haec: ideae nihil aliud sunt realiter quam creaturarum
+                propriae quidditates. Haec conclusio sic probatur: illud quo praecognito et cum alio
+                per impossibile non praecognito potest cognoscens rationabiliter producere, et quo
+                non praecognitio etiam quocumque alio cognito non potest rationabiliter producere,
+                est vere idea et exemplar; sed posito per impossibile quod Deus cognosceret
+                creaturam producibilem et non cognosceret essentiam suam, si haberet potentiam
+                productivam posset vere rationabiliter producere, et quantumcumque Deus cognosceret
+                essentiam suam, nisi cognosceret creaturam non diceretur rationabiliter producere
+                quantumcumque produceret; ergo ipsa creatura est idea.</p>
+              <p xml:id="pcsc-l1q6-d1e315"> [18] Praeterea, proportionaliter sunt ideae ponendae in artifice creato et
+                increato; sed si artifex creatus praecise cognosceret illud artificiatum quod
+                produceret, ita vere ageret per exemplar sive per ideam sicut cognosceret unum cuius
+                simile deberet producere; ergo respectu artificis creati ipsummet producibile vere
+                esset idea et exemplar; ergo, cum Deus ipsammet creaturam [105va] producibilem
+                praecognoscat, sequitur quod ipsamet creatura est vere et realiter idea, et per
+                consequens propositum. Et apparet similiter per inductionem: ex quo ideae sunt et
+                non sunt divina essentia, ut prius apparuit, sequitur quod sunt creaturae. Quare
+                propositum.</p>
+              <p xml:id="pcsc-l1q6-d1e318"> [19] Ex quibus apparet quod idea non est nisi aliquid cognitum ad quod cognoscens
+                aspicit in producendo, ut secundum ipsum aliquid simile illi vel ipsummet producat
+                in esse reali, sicut una domus potest vere dici idea et exemplar alterius domus per
+                hoc quod artifex ipsam aspiciens facit aliam domum ad ipsius similitudinem. Unde si
+                artifex praecognosceret domum in particulari quam produceret, idem esset sui ipsius
+                exemplar. Et sic apparet quod idea est terminus connotativus importans creaturam in
+                recto et ipsammet in obliquo, et similiter importans cognoscentem in obliquo. Unde
+                idea Sortis est Sortes quem importat in recto et in obliquo et similiter connotat
+                Deum qui praecognoscit Sortem antequam existat in rerum natura.</p>
+            </div>
+            <div xml:id="pcsc-l1q6-Dd1e322">
+              <head xml:id="pcsc-l1q6-Hd1e324"><supplied>Septem propositiones correllariae</supplied></head>
+              <p xml:id="pcsc-l1q6-d1e328">[20] Ex istis sequuntur septem propositiones correllariae, quarum prima est quod in
+                Deo non sunt ideae subiective, sed tantummodo obiective sicut obiecta cognita �
+                patet, quia tales sunt res producibiles ab ipso. Secunda: quarumlibet rerum
+                factibilium sunt distinctae ideae � patet ex quo tales res sunt distinctae. Tertia:
+                quarumlibet partium essentialium et integralium sunt distinctae ideae � patet per
+                idem. Quarta: solum rerum singularium sunt distinctae ideae � patet, quia solae
+                tales sunt producibiles. Quinta: nulla universalia habent ideas nisi secundum quod
+                sunt res particulares � patet per praecedentem. Sexta: nulla privatio, negatio,
+                culpa, et similia habent ideas � patet, quia talia non sunt producibilia. Septima:
+                Deus habet infinities infinitas ideas � patet de partibus continui.</p>
+              <p xml:id="pcsc-l1q6-d1e331">[21] Et sic apparet secundum opinionem Ockham quod est idearum pluralitas, sed
+                tamen ex parte creaturae.</p>
+            </div>
+            <div xml:id="pcsc-l1q6-Dd1e336">
+              <head xml:id="pcsc-l1q6-Hd1e338"><supplied>Rationes contra opinionem Ockham et solutiones earum</supplied></head>
+              <p xml:id="pcsc-l1q6-d1e342">[22] Contra istam positionem arguo sic: nullum aeternum est creatum; sed quaelibet
+                idea est aeterna; ergo nulla talis est creata. Consequentia et maior patent, et
+                minor apparet per <ref xml:id="pcsc-l1q6-Rd1e344" corresp="#pcsc-l1q6-Qd1e349">beatum Augustinum in loco saepius allegato</ref>, dicentem:
+                <cit>
+                <quote xml:id="pcsc-l1q6-Qd1e349" source="http://scta.info/resource/a83-q46">Sunt namque ideae principales
+                  quaedam formae, vel rationes rerum stabiles atque incommutabiles, quae ipsae
+                  formatae non sunt, ac per hoc aeternae ac semper eodem modo sese habentes.</quote>
+                <bibl>Augustinus, <title>De diversis quaestionibus 83</title>, q. 46 (CCSL XLIVA, p.
+                  71)</bibl>
+                <note>cf. Guillelmus de Ockham, Scriptum in I, d. 35, q. 5 (edd. Etzkorn et Kelley,
+                  pp. 494-5).</note>
+                </cit>
+                 Et per consequens, cum sint aeternae, nullatenus sunt creatae. Quare
+                propositum.</p>
+              <p xml:id="pcsc-l1q6-d1e363">[23] Praeterea, nihil fit noviter ad similitudinem sui ipsius, ergo quod fit ad
+                aliquam similitudinem necessario praefuit eius similitudo ad quam fit, et per
+                consequens ipsa creatura non est sui ipsius idea. Consequentia patet. Assumptum
+                probatur, quia similitudo est relatio inter duo [105vb] extrema, ergo necessario, si
+                fit ad similitudinem alicuius, illud est ab eo distinctum, et per consequens
+                propositum.</p>
+              <p xml:id="pcsc-l1q6-d1e366">[24] Praeterea, per nullas creaturas Deus intelligit; sed per ideas Deus
+                intelligit; ergo ideae non sunt creaturae. Consequentia patet et maior, aliter Deus
+                esset sapiens sapientia creata, quod est absurdum. Et minor apparet, quoniam Deus
+                vel intelligit ipsam rei existentiam per ipsammet, vel per suam ideam, vel per se
+                ipsum. Non primo modo, ut prius dictum est. Si vero per semetipsum, et non per
+                ideam, ergo frustra ponuntur tales ideae; sed non sunt frustra; ergo propositum.</p>
+              <p xml:id="pcsc-l1q6-d1e369">[25] Praeterea, quando Sortes est, Deus cognoscit Sortem per ideam Sortis, et
+                quando non est, quaero, per quid cognoscit? Non per ideam Sortis, quia talis idea
+                non est, cum Sortes non sit cui talis idea erat idem. Si ergo per aliud quod non est
+                idea Sortis, ergo sequitur quod frustra ponitur talis idea ad cognitionem Sortis,
+                cum sine tali potest Sortes cognosci. Quare etc.</p>
+              <p xml:id="pcsc-l1q6-d1e373">[26] Praeterea, Deus aeternaliter intellexit Sortem, qui non est nec umquam fuit.
+                Quaero ergo quid terminabat intellectionem divinam? Vel Sortes, vel ipse Deus, vel
+                aliquid aliud. Non Sortes, quia talis non fuit aeternaliter. Nec aliquid aliud a
+                Deo, propter similem causam. Ergo ipse Deus. Et ut sic intelligebat Sortem, ergo
+                ipsemet Deus est Sortis idea, et per consequens non creatura.</p>
+              <p xml:id="pcsc-l1q6-d1e376">[27: -22] Ad istas rationes respondeo. Ad primam, concedo maiorem et nego minorem.
+                Ad probationem, quae consistit in auctoritate, dico quod aeternitas potest sumi
+                dupliciter, vel aliquid dicitur esse aeternum dupliciter: vel realiter et
+                quidditative, vel tantummodo cognitive. Primo modo nihil est aeternum nisi solus
+                Deus, et sic ideae non sunt aeternae, sicut nec ipsae rerum existentiae. Secundo
+                modo improprie dicitur aliquid aeternum, quia aeternaliter cognitum, et isto modo
+                dicuntur ideae incommutabiles et aeternae, id est incommutabiliter et aeternaliter
+                cognitae. Et iste est communiter intellectus sanctorum in ista materia loquentium.
+                Quare propositum.</p>
+              <p xml:id="pcsc-l1q6-d1e379">[28: -23] Ad secundum, cum dicitur quod <quote xml:id="pcsc-l1q6-Qd1e381">nihil fit noviter ad similitudinem
+                sui ipsius,</quote> nego istam. Unde concedo � iuxta imaginationem istius auctoris �
+                quod idem est sui ipsius exemplar, ut prius dictum est. Ad probationem, cum dicitur
+                quod <quote xml:id="pcsc-l1q6-Qd1e384">relatio est inter duo extrema,</quote> hic dicitur quod hoc esset verum
+                ubi talis relatio est a suo fundamento distincta. Ubi vero non, hoc non oportet.
+                Unde stat satis bene aliquid ut praecognitum esse sui ipsius exemplar ut postea
+                producendum. Quare etc.</p>
+              <p xml:id="pcsc-l1q6-d1e388">[29: -24] Ad tertium, concedo maiorem. Ad minorem, cum dicitur quod <quote xml:id="pcsc-l1q6-Qd1e390">Deus
+                [106ra] per ideas intelligit,</quote> hic dico, pro materia argumenti, quod li
+                <quote xml:id="pcsc-l1q6-Qd1e393">per</quote> potest dicere circumstantiam causae motivae, vel potentiae
+                intellectivae, vel medii repraesentantis, vel obiecti terminantis. Primo modo
+                dicimur intelligere per habitus nos moventes, et isto modo Deus non intelligit per
+                ideas. Secundo modo dicimur intelligere per intellectum, et nec isto modo Deus
+                intelligit per ideas. Tertio modo dicimur intelligere per speciem derelictam, nec
+                isto modo Deus intelligit per ideas. Quarto modo dicimur intelligere per divinam
+                essentiam quando in ipsa figimur tanquam intermedio, et isto modo intelligit Deus
+                per ideas, id est ipsas tanquam obiecta cognita. Unde proprie loquendo non
+                intelligit per ideas. Et cum dicitur quod tunc essent frustra, nego, quia licet non
+                requirantur ut cognitiones, tamen requiruntur ut obiecta exemplaria. Quare etc.</p>
+              <p xml:id="pcsc-l1q6-d1e397">[30: -25] Ad quartum, dico quod, sive Sortes sit sive non sit, Deus cognoscit
+                Sortem per ideam, non per ideam Sortis tribus modis superius notatis, sed quarto
+                modo, quia Sorte non existente Deus cognoscit ideam Sortis, et ita similiter ipsum
+                Sortem.</p>
+              <p xml:id="pcsc-l1q6-d1e400">[31: -26] Ad quintum, cum dicitur, <quote xml:id="pcsc-l1q6-Qd1e402">quid aeternaliter terminabat
+                intellectionem Dei?</quote> hic dico quod iste modus loquendi est falsus de virtute
+                sermonis, quia ibi nihil est distinctum ab alio nisi ubi obviat relationis
+                oppositio, verumtamen eundo magis ad mentem arguentium diceretur quod ipse Deus. Et
+                cum infertur, <quote xml:id="pcsc-l1q6-Qd1e405">ergo ipse est idea,</quote> negatur consequentia, quia licet
+                Deus repraesentet Sortem, non tamen dicitur idea, quia ut superius dictum est, idea
+                non requiritur ut ratio cognitiva nec ut ratio repraesentativa, sed solum ut
+                exemplar, ad quod aspiciens artifex operatur idem vel simile.</p>
+              <p xml:id="pcsc-l1q6-d1e410"> [32] Et sic apparet quae fuerit intentio Ockham in materia idearum.</p>
+            </div>
+          </div>
+          <div xml:id="pcsc-l1q6-Dd1e415">
+            <head xml:id="pcsc-l1q6-Hd1e417"><supplied>PARS SECUNDA</supplied></head>
+            <div xml:id="pcsc-l1q6-Dd1e421">
+              <head xml:id="pcsc-l1q6-Hd1e423"><supplied>Opinio Scoti</supplied></head>
+              <p xml:id="pcsc-l1q6-d1e427">[33] Secunda opinio pro nunc declaranda circa difficultatem idealium rationum est
+                Doctoris Subtilis. Pro cuius opinionis declaratione sic procedam: primo declarabo
+                quid doctor iste intelligit per idealem rationem; secundo ponam certas conclusiones
+                et fundamentum positionis; et tertio obiciam contra positionem et obiectionibus
+                respondebo.</p>
+            </div>
+            <div xml:id="pcsc-l1q6-Dd1e431">
+              <head xml:id="pcsc-l1q6-Hd1e433"><supplied>Descriptio ideae</supplied></head>
+              <p xml:id="pcsc-l1q6-d1e437">[34] Quantum ad primum ponitur ideae talis descriptio <ref xml:id="pcsc-l1q6-Rd1e439" corresp="#pcsc-l1q6-Qd1e444">iuxta suam
+                imaginationem</ref>:
+                <cit>
+                <quote xml:id="pcsc-l1q6-Qd1e444">idea est ratio aeterna in mente divina secundum quam aliquid est formabile ut
+                  secundum propriam rationem eius.</quote>
+                <bibl>Johannes Duns Scotus, <title>Ordinatio</title> I, d. 35, q. un. (<title>Opera
+                  Omnia</title> VI, p. 260, nn. 38-39).</bibl>
+                </cit>
+                 Ista propositio, quae continet ideae descriptionem, sic probatur: <quote xml:id="pcsc-l1q6-Qd1e457">Deus omnia
+                causat vel causare potest, et non irrationabiliter, ergo rationabiliter,</quote> et
+                per consequens <quote xml:id="pcsc-l1q6-Qd1e460">habet rationem secundum quam format</quote> rem in esse. Vel
+                ergo format rem per rationem extra se [106rb] vel per rationem in se. Non est
+                dicendum primum, quia non eget in efficiendo alio a se. Ergo hoc facit per rationem
+                existentem in mente sua. Sed nihil est in mente Summi Artificis quod non sit
+                aeternum. Ergo sequitur quod ratio secundum quam format rem in esse est
+                incommutabilis et aeterna. Talis autem ratio ponitur idea; ergo propositum,
+                videlicet quod aliqua talis ratio sit aeterna, quod erat manifestandum. Quare
+                etc.</p>
+              <p xml:id="pcsc-l1q6-d1e464">[35] Praeterea, non minoris perfectionis est in agendo Summus Artifex quam sit
+                artifex limitatus; sed artifex limitatus, si producit aliquid artificiatum, habet
+                illius rationem et similitudinem in mente sua, ut patet per
+                <cit>
+                <ref xml:id="pcsc-l1q6-Rd1e468" target="http://scta.info/resource/aristmet-l7">Philosophum, VII
+                  Metaphysicae</ref>
+                <bibl>Aristoteles, <title>Metaphysica</title> VII, c. 7 (1032a32-33a1; AL XXV:3, pp.
+                  143-144); c. 9 (1034a18-25; AL XXV:3, pp. 147-148).</bibl>
+                </cit>, 
+                et nos experientia docet; ergo a fortiori ponenda est ratio in mente Summi
+                Artificis, secundum quam format suum artificiatum. Tale autem non potest poni quid
+                separatum, cum hoc in Summo Artifice diceret imperfectionem. Ergo est in eo, quod
+                est propositum.</p>
+              <p xml:id="pcsc-l1q6-d1e479">[36] Praeterea, ista videtur intentio <ref xml:id="pcsc-l1q6-Rd1e481" corresp="#pcsc-l1q6-Qd1e486">beati Augustini in libro LXXXIII
+                quaestionum, quaestione XLVI</ref>, ubi sic dicit:
+                <cit>
+                <quote xml:id="pcsc-l1q6-Qd1e486" source="http://scta.info/resource/a83-q46">Sunt namque ideae principales
+                  quaedam formae vel rationes rerum stabiles atque incommutabiles, quae ipsae
+                  formatae non sunt ac per hoc aeternae et semper eodem modo habentes, quae divina
+                  intelligentia continentur. Et cum ipsae neque oriantur neque intereant, secundum
+                  eas tamen formari dicitur omne quod oriri et interire potest.</quote>
+                <bibl>Augustinus, <title>De diversis quaestionibus 83</title>, q. 46 (CCSL XLIVA, p.
+                  71)</bibl>
+                <note>cf. Guillelmus de Ockham, Scriptum in I, d. 35, q. 5 (edd. Etzkorn et Kelley,
+                  p. 496).</note>
+                </cit>
+                 Ex quibus planissime sequitur veritas propositionis descriptae. Quare
+                propositum.</p>
+            </div>
+            <div xml:id="pcsc-l1q6-Dd1e501">
+              <head xml:id="pcsc-l1q6-Hd1e503"><supplied>Sex conclusiones declarativae</supplied></head>
+              <p xml:id="pcsc-l1q6-d1e507">[37] Habito igitur quid nomine <mentioned>ideae</mentioned> intelligitur, pro
+                declaratione materiae iuxta imaginationem istius doctoris sex pono conclusiones.
+                Quarum prima sit ista: nulla idealis ratio est entis condicio formaliter respectiva.
+                Ista conclusio sic probatur: quia ad hoc quod Deus intelligat lapidem, nulla relatio
+                media requiritur inter Deum et lapidem, et per consequens, cum non intelligat
+                lapidem sine sua ratione ideali, ut patet per descriptionem, sequitur quod talis
+                idealis ratio non est formaliter relativa. Consequentia patet, et assumptum
+                probatur, quoniam si Deus intelligeret lapidem mediante tali relatione, vel ergo
+                Deus intelligit illam relationem vel non. Non est dicendum quod non, quia tunc
+                aliquid esset quod subterfugeret scibilitatem Dei, quod falsum est. Si sic, quaero,
+                per quid intelligit? Vel per se ipsum sine tali relatione vel per aliam. Si primo
+                modo, eodem modo standum erat in primo. Si secundo modo, conformiter inquiretur de
+                illo alio, et sic vel erit processus in infinitum vel standum erat in primo, et per
+                consequens conclusio [106va] vera.</p>
+              <p xml:id="pcsc-l1q6-d1e513">[38] Praeterea, cuiuscumque obiecti ratio cognoscedi determinate potest esse
+                aliquod finitum et limitatum, eiusdem potest esse aliqua ratio cognoscendi
+                determinate simpliciter illimitata; sed si divina essentia esset limitata respectu
+                alicuius determinati cognoscibilis, ipsa esset determinate ratio cognoscendi illud
+                absque omni respectu rei et rationis; ergo si ipsa ponatur illimitata ratio respectu
+                plurium cognoscibilium, potest ex se esse ratio cognoscendi quodcumque illorum sine
+                omni relatione rei et rationis. Consequentia patet, et maior probatur, quoniam
+                illimitatio non tollit aliquam perfectionem ab aliquo, sed stante perfectione quae
+                erat ad aliquid, ponit quasi similem perfectionem ad aliud. Et minor patet, quoniam
+                essentia ponitur propria ratio ad cognoscendum se ipsam, et hoc sive sit obiectum
+                primum sive ut ratio cognoscendi obiectum. Et istud competit essentiae mere sub
+                ratione absoluta sine omni respectu rei, quia nullius ad se ipsum est respectus
+                realis. Ergo propositum. Et per consequens sequitur quod non oportet quod ratio
+                idealis sit formaliter quidam respectus determinans intellectum divinum ad diversa
+                obiecta.</p>
+              <p xml:id="pcsc-l1q6-d1e516">[39] Secunda conclusio est haec: idea est obiectum cognitum per intellectum divinum
+                in esse intelligibili derivatum. Ista conclusio declaratur, quoniam cuicumque
+                competit definitio, et definitum; sed definitio ideae competit obiecto cognito per
+                intellectum divinum in esse intelligibili derivato; ergo et definitum, quod est
+                idea, competit tali, et per consequens conclusio vera. Consequentia et maior patent.
+                Minorem probo, nam tale obiectum cognitum est propria ratio rei factibilis ad extra,
+                sicut archa in mente respectu archae materialis, et per consequens tale obiectum in
+                esse intelligibili, ut puta lapis in esse intelligibili vel equus, videntur esse
+                ideae rerum ad extra. Istud autem videtur consonum dictis Platonis, qui posuit rerum
+                quidditates existere ipsarum ideas, qui videtur fuisse idearum opinionis primus
+                inventor. Quare propositum.</p>
+              <p xml:id="pcsc-l1q6-d1e519">[40] Praeterea, illis rationibus maxime competit idealis ratio quibus competit
+                terminare intellectionem divinam respectu rerum ad extra; sed obiectis cognitis
+                productis in esse intelligibili maxime competit terminare intellectionem divinam
+                respectu rerum ad extra; ergo propositum. Consequentia et maior patent. Minorem
+                probo, quoniam Deus aeternaliter intellexit creaturam, ut puta lapidem, ergo videtur
+                quod lapis in esse intelligibili positus sit id quod terminat intellectionem
+                divinam. [106vb] Probo istam consequentiam: cum dico, <quote xml:id="pcsc-l1q6-Qd1e521">Deus aeternaliter
+                intellexit lapidem,</quote> non apparet quod intellectionem divinam terminet lapis
+                in existentia actuali, quia tunc talis aeternaliter fuisset. Nec videtur quod sit
+                divina substantia absolute et formaliter considerata, quia ipsa ut sic est
+                tantummodo obiectum primarium intellectus divini. Ergo oportet quod per sufficientem
+                divisionem tale quid sit esse intelligibile lapidis ad extra. Quare propositum.</p>
+              <p xml:id="pcsc-l1q6-d1e526">[41] Tertia conclusio est haec: cuilibet rei factibili correspondet idea propria ab
+                alterius rei factibilis idea formaliter condistincta. Haec conclusio sic probatur:
+                quibuscumque correspondent diversa obiecta cognita in esse intelligibili, eisdem
+                correspondent diversae ideae; sed quibuslibet rebus factibilibus correspondent
+                diversa obiecta cognita posita in esse intelligibili; ergo quibuslibet talibus
+                correspondent diversae ideae. Consequentia patet et maior similiter ex praecedenti
+                conclusione. Sed minorem declaro, quoniam sicut esse reale unius ad esse reale
+                alterius, sic esse intelligibile unius ad esse intelligibile alterius; sed esse
+                reale unius est diversum ab alio; ergo et esse intelligibile unius est diversum ab
+                alio. Maior declaratur, nam positio rei in esse intelligibili oritur ex praevia
+                intellectione realitatis possibilis vel actualiter existentis, ergo videtur quod
+                quam realitates quando in esse ponuntur habent esse distinctum sic et ipsarum
+                intelligibiles rationes, et per consequens, cum tales sint rationes ideales, habetur
+                propositum.</p>
+              <p xml:id="pcsc-l1q6-d1e529">[42] Praeterea, si divina essentia esset praecise intelligens lapidem, poneret
+                tantummodo lapidem in esse intelligibili, et tunc esse intelligibile lapidis non
+                esset esse intelligibile Sortis; sed ex hoc quod simul intelligit lapidem et Sortem
+                non tollitur ratio propria intelligendi lapidem et ponendi eum in esse
+                intelligibili; ergo quam pro tunc essent diversa obiecta posita in esse
+                intelligibili, tam et pro nunc. Consequentia et maior patent. Probo minorem, nam vel
+                ex hoc quod intelligit lapidem intelligit Sortem, vel e contra, vel ita intelligit
+                unum acsi numquam intelligeret aliud. Primum non potest dari, quia tunc haec esset
+                consequentia necessaria et formalis: <mentioned>Deus intelligit lapidem, ergo
+                intelligit Sortem</mentioned> � quae tamen non videtur formalis. Si ergo detur
+                secundum, sequitur quod habet diversa esse intelligibilia. Quod probo, nam quando
+                aliqua sic intelliguntur quod unum non cadit in ratione alterius vel e contra, illa
+                necessario intelliguntur ut distincta, et per consequens per actum intelligendi
+                capiunt distinctionem in esse [107ra] cognito. Quare propositum.</p>
+              <p xml:id="pcsc-l1q6-d1e535">[43] Quarta conclusio est haec: infinita idearum pluralitas consistit in arte
+                Supremi Artificis obiective. Haec conclusio sic probatur: quoniam in quocumque est
+                esse intelligibile alicuius, in eodem est propria idea eiusdem; sed in arte Supremi
+                Artificis est obiective esse intelligibile cuiuslibet rei possibilis vel realiter
+                existentis; ergo et in eodem est idea cuiuslibet talis. Consequentia patet et maior
+                per secundam conclusionem, quia esse cognitum creaturae videtur eius idea. Sed minor
+                probatur, quoniam in eo est esse intelligibile alicuius per quod capit esse cognitum
+                in eo; sed constat quod in arte Supremi Artificis quaelibet res capit esse cognitum;
+                ergo propositum. Minor probatur, nam creaturae antequam sint intelliguntur, quia per
+                productionem ipsarum Deus non acquirit cognitionem ipsarum, aliter produxisset ipsas
+                ignoranter, quod nefas est dicere. Ergo, cum scienter ipsas produxerit, sequitur
+                quod aeternaliter habuerint esse cognitum in eo. Quare etc.</p>
+              <p xml:id="pcsc-l1q6-d1e538">[44] Praeterea, si in Summo Artifice non esset infinita idearum pluralitas, aut hoc
+                est quia non quaelibet res habet ideam distinctam, aut quia Summus Artifex non est
+                talium distincte comprehensivus, aut quia forsan videtur repugnare suae
+                simplicitati. Primum non impedit, quia quaecumque habent dictincte cognosci habent
+                necessario distinctam ideam; sed quaelibet res factibilis habet distincte cognosci,
+                ut patet per praecedentem conclusionem; ergo propositum. Nec secundum impedit, quia
+                intellectus qui est perfectioris entitatis comprehensivus est imperfectioris a
+                fortiori comprehensivus vel aequalis; sed infinitas divinae essentiae est perfectior
+                vel aeque perfecta quam sit infinitas idearum, sive sint obiecta cognita sive
+                rationes cognoscendi, et ipse intellectus est comprehensivus infinitatis divinae
+                essentiae; ergo et infinitatis idealium rationum. Nec tertium impedit, quia ubi non
+                ponitur ratio compositionis vel compossibilis, dummodo sit realis identitas, non
+                tollitur simplicitas, ut patet de attributis, et consimiliter est ibi; quare ibi est
+                infinita idearum pluralitas.</p>
+              <p xml:id="pcsc-l1q6-d1e541">[45] Quinta conclusio est haec: nulla idealis ratio est entis condicio formaliter
+                infinita. Ista conclusio sic probatur: illud cui, si esset per se subsistens a
+                quocumque alio distinctum, realiter non corresponderet tanta perfectio quanta nunc
+                correspondet certae creaturae finitae, nullatenus est formaliter infinitum; sed
+                <supplied>si</supplied> per possibile vel impossibile esse cognitum quod lapidi
+                correspondet esset a divina essentia distinctum, non esset [107rb] tantae
+                perfectionis quantae nunc est lapis; ergo et nunc illud non est formaliter
+                infinitum. Consequentia et maior patent. Probo minorem, nam quodlibet esse reale
+                perfectius est illo quod non est nisi tantummodo obiective in esse cognito; sed ita
+                esset tunc; ergo propositum. Et confirmatur, nam ex hoc quod intelligo patrem
+                meum<!--<a href="#_ftn10" name="_ftnref10">{10}</a>--> pono ipsum in esse cognito.
+                Nunc autem tale cognitum ut sic non habet esse perfectius formaliter quam sit
+                intellectio mea, et per consequens nec quam sit id cuius est esse cognitum. Ubi ergo
+                est perfectius, hoc non habet ex sua formalitate, sed potius propter transitum in
+                identitatem realem cum aliquo perfectiori quam sit tale obiectum in esse reali. Et
+                per consequens adhuc sequitur quod tale quid ex sua ratione formali non redditur
+                infinitum.</p>
+              <p xml:id="pcsc-l1q6-d1e549">[46] Praeterea, non est maioris perfectionis esse intelligibile creaturae quam sit
+                esse intelligibile divinae naturae; sed esse intelligibile divinae naturae non
+                videtur aliquid formaliter infinitum; ergo nec esse intelligibile creaturae.
+                Consequentia patet et maior similiter. Sed probo minorem, nam Verbum divinum ex vi
+                suae productionis videtur esse intelligibile divinae naturae. Quod probatur, quoniam
+                ex praesentia divinae naturae ad divinum intellectum habetur esse cognitum divinae
+                naturae expressum, ergo cum Verbum sit talis expressa cognitio, videtur quod ex vi
+                suae productionis habet quod sit cognitio declarativa divinae essentiae sive esse
+                cognitum et expressum per talem cognitionem. Sed constat quod Verbum ut sic non est
+                formaliter infinitum, ut alias declaratum est. Ergo a fortiori sic erit de ideis
+                creaturarum. Unde sicut Verbum est mentis paternae expressa imago, sic et idea
+                lapidis respectu eiusdem in esse reali. Quare propositum.</p>
+              <p xml:id="pcsc-l1q6-d1e553">[47] Sexta conclusio et finalis est ista: quaelibet idealis ratio in arte Summi
+                Artificis est realiter divina intellectio creabilis vel realiter existentis. Haec
+                conclusio sic probatur: sicut se habet in nobis intellectio nostra ad esse
+                intellectum, sic etiam suo modo intellectio divina ad esse intellectum; sed in nobis
+                intellectio et esse rei intellectum sunt idem realiter; ergo et ibi a fortiori.
+                Consequentia patet. Declaro minorem, nam certum est quod, cum intelligo patrem meum,
+                qui actualiter non existit,<!--<a href="#_ftn11" name="_ftnref11">{11}</a>--> quid
+                est illud intellectum esse patris mei? Vel ipse intellectus, vel ipsa intellectio,
+                vel pater meus, vel aliquod fictum per intellectum. Non est intellectus, quia tunc,
+                cum desineret intellectus intelligere, desineret esse, quod falsum est. Nec est ipse
+                pater meus, quia ut ponitur non est. Nec potest dici aliquid aliud reale extra
+                animam. Ergo [107va] vel est ipsa intellectio vel aliquid fictum ab intellectu.
+                Fictum non potest dari, nisi ponatur quod sit aliquis actus intellectus. Et per
+                consequens, qualitercumque ponatur, sequitur quod realiter est ipsa intellectio.
+                Quare etc.</p>
+              <p xml:id="pcsc-l1q6-d1e558">[48] Praeterea, quaelibet ratio aeterna est realiter infinita; sed quaelibet ratio
+                idealis est ratio aeterna, ut in descriptione ideae extitit declaratum; ergo
+                quaelibet talis est realiter infinita. Sed non potest dici commodius quam
+                intellectio; ergo est intellectio infinita, et per consequens divina. Et maior
+                patet, quia nihil aliud a divina essentia est realiter aeternum, per articulum.
+                Quare propositum.</p>
+              <p xml:id="pcsc-l1q6-d1e561">[49] Imaginatio et fundamentum positionis istius doctoris consistit in
+                hoc:<!--<a href="#_ftn12" name="_ftnref12">{12}</a>--> divina essentia est obiectum
+                primarium sui intellectus, et tunc quasi primo intelligit divinam substantiam. Sed
+                in secundo instanti ipse intellectus divinus producit creaturam in esse
+                intelligibili, et sic quasi ponitur creaturae quidditas in esse intelligibli. Et sic
+                apparet quod esse intelligibile creaturae praesupponit emanationem personarum, quia
+                ex hoc quod primo intelligit suam essentiam, habet esse intelligibile suae
+                essentiae, quod est suum Verbum, paternae videlicet mentis expressa imago, et
+                similiter habet suum donum. Sed consequenter producitur esse intelligibile
+                creaturae, quod, quia est respectu rei finitae nec actualiter existentis, non capit
+                esse reale in arte divina, sed tantum obiectivum, et hoc formaliter. Et sic apparet
+                quod est quasi quoddam esse deminutum creaturae. Hoc autem nihil aliud est quam
+                idealis ratio creaturae. Unde consequenter, sicut ad productionem creaturarum
+                consurgunt relationes reales ad divinam essentiam terminatae, sic ex productione
+                talium rationum idealium consurgunt huiusmodi respectus, qui non requiruntur ut
+                rationes cognoscendi obiecta cognita, sed tantum ut exprimentes dependentiam talium
+                in esse intelligibili productorum. Et sic apparet secundum suam imaginationem
+                qualiter sit intelligenda materia idealium rationum.</p>
+            </div>
+            <div xml:id="pcsc-l1q6-Dd1e567">
+              <head xml:id="pcsc-l1q6-Hd1e569"><supplied>Rationes contra opinionem Scoti et solutiones earum</supplied></head>
+              <p xml:id="pcsc-l1q6-d1e573">[50] Sed contra istam positionem, quae videtur magnas difficultates includere,
+                arguitur multipliciter pro sui notitia pleniori. Et primo sic: ex ista positione
+                sequitur quod aliqua sit aeterna productio quae nec est generatio, nec spiratio, nec
+                creatio. Consequens videtur impossibile et non multum tutum, ergo positio. Falsitas
+                consequentis patet, et consequentia declaratur, quoniam tale esse ideale est
+                aeternaliter productum. Et non per viam generationis, aliter essent infiniti Filii
+                in divinis. Nec per viam spirationis, quia sic essent infiniti Spiritus Sancti, cum
+                tales ideales rationes sint infinitae. Nec etiam per viam creationis, quia tunc
+                ipsarum non-esse praecessisset ipsarum esse, et sic [107vb] non essent aeternae,
+                quod videtur absurdum. Ergo propositum.</p>
+              <p xml:id="pcsc-l1q6-d1e576">[51] Praeterea, data ista positione, sequitur quod infinita sunt aeterna a Deo
+                realiter distincta. Consequens est contra articulum, ergo positio. Consequentia
+                probatur, nam impossibile est ut aliquid se ipsum in esse producat. Cum igitur
+                intellectus divinus producat talia esse, sequitur quod non est ipsa. Et cum talia
+                sint, cum per productionem realem acceperint esse, sequitur quod realiter ab
+                intellectu divino sunt distincta. Cum igitur ipse intellectus divinus sit Deus,
+                sequitur intentum, videlicet quod infinita aeternaliter a Deo fuerunt distincta.</p>
+              <p xml:id="pcsc-l1q6-d1e579">[52] Praeterea, iste modus dicendi non salvat positionem beati Augustini de ideis.
+                Probatur, nam secundum eum in libro saepius allegato:
+                <cit>
+                <quote xml:id="pcsc-l1q6-Qd1e583" source="http://scta.info/resource/a83-q46">Tanta vis est in ideis ut nisi
+                  ipsis intellectis sapiens nemo esse possit,</quote>
+                <bibl>Augustinus, <title>De diversis quaestionibus 83</title>, q. 46 (CCSL XLIVA, p.
+                  70); cf. Guillelmus de Ockham, Scriptum in I, d. 35, q. 5 (edd. Etzkorn et Kelley,
+                  p. 482).</bibl>
+                </cit>
+                 et per consequens Deus est sapiens per ideas. Si ergo tales ideales rationes sunt a
+                Deo aeternaliter productae, sequitur quod ignoranter ipsas produxit, vel dictum
+                Augustini est falsum. Probo consequentiam, nam quaero, ut ipse imaginatur, de
+                talibus instantibus antequam produxit tales ideas: vel erat sapiens vel non? Si non,
+                habetur propositum. Si sic, ergo frustra ponitur quod sit sapiens per ideas, quod
+                est propositum.</p>
+              <p xml:id="pcsc-l1q6-d1e594">[53] Praeterea, si rationes ideales sunt creaturae in esse intelligibili, vel sunt
+                ab invicem distinctae vel non. Non est dicendum quod non, quia quomodo tunc alia
+                ratione conditus est homo, alia equus? Si sic, vel sunt ipsa divina essentia vel
+                non. Si sic, ergo sunt perfectiones essentiales divinae essentiae et nullo modo
+                creaturae in esse intelligibili. Si non sunt ipsa divina essentia, sequitur quod
+                sunt ab ea formatae. Quomodo ergo sunt formae non formatae, sed per illas Deus res
+                format? Ergo etc.</p>
+              <p xml:id="pcsc-l1q6-d1e598">[54] Praeterea, nihil formaliter limitatum est obiectum beatificum; sed ideae,
+                secundum imaginationem beati Augustini, sunt obiecta beatifica, immo, ut dicit, sunt
+                adorandae, quia sunt rerum omnium rationes formativae; ergo ideae non sunt
+                formaliter limitatae, et per consequens nec formaliter existunt quidditates
+                creaturarum in esse intelligibili positae. Consequentia patet, et maior apparet, cum
+                solum bonum infinitum sit obiectum beatificum. Et minor est positionis. Quare
+                propositum.</p>
+              <p xml:id="pcsc-l1q6-d1e601">[55: -50] Ad istas rationes respondeo. Et primo ad primam, cum dicitur quod esset
+                tunc, data positione, aliqua productio quae non est temporalis sed aeterna, et tamen
+                nec esset generatio, nec spiratio, nec creatio, hic dico quod, sumendo
+                <mentioned>productionem</mentioned> proprie, quod est falsum. Unde productio quaedam
+                est realis, quaedam intentionalis seu per modum necessariae sequelae. De prima patet
+                quod semper ibi oportet quod sit semper inter producens et [108ra] productum realis
+                distinctio. De secunda, non oportet, sicut quando anima intelligit se quasi producit
+                se in esse cognito, et ibi non oportet quod sit talis distinctio. Unde sic
+                accipiendo <mentioned>productionem</mentioned> improprie, non esset inconveniens �
+                secundum imaginationem istius doctoris � talem productionem ponere quae nec est
+                generatio, cum ibi nullus sit terminus realis a suo producente distinctus. Et sic
+                apparet quod non est nisi pura aequivocatio in vocabulo
+                <mentioned>productionis</mentioned>.</p>
+              <p xml:id="pcsc-l1q6-d1e613">[56: -51] Ad secundum, cum dicitur quod tunc essent infinita realiter distincta,
+                nego consequentiam. Sed bene sequitur quod sunt infinita formaliter distincta, quia
+                talium, ut praedictum est, non est realis productio, sed potius intentionalis,
+                qualis est expressa superius. Et hoc non apparet maius inconveniens quam sit de
+                attributis inter quae ponitur formalis distinctio, quae tamen sunt numero infinita.
+                Quare etc.</p>
+              <p xml:id="pcsc-l1q6-d1e616">[57: -52] Ad tertium, cum dicitur quod ista positio destruit opinionem Augustini
+                pro eo quod Deus est sapiens per ideas, si ergo produceret ipsas intentionaliter,
+                videretur ipsas praevia ignorantia produxisse, dico quod non est contra beatum
+                Augustinum ista positio. Sed pro eius intentione habenda, sciendum est quod
+                Augustinus non vult quod ratio formalis qua Deus est sapiensa est ipsa idea, sed
+                vult quod idea sit obiectum quod si Deus non cognosceret non esset universaliter
+                sapiens et aeternaliter, sed ex tempore acquireret creaturarum notitias, et sic
+                ipsius intellectus vilesceret. Et hoc sufficit pro intentione beati Augustini
+                habenda.</p>
+              <p xml:id="pcsc-l1q6-d1e619">[58: -53] Ad quartum, cum dicitur quod, si tales rationes ideales sunt creaturae,
+                vel sunt distinctae vel non, dico quod formaliter, licet non realiter, ut patuit per
+                conclusiones. Et cum dicitur quod vel sunt divina essentia vel non, dico quod
+                realiter sic. Et cum infertur quod tunc essent divinae perfectiones essentiales et
+                non creaturae in esse intelligibili, dico quod non sequitur, loquendo de identitate
+                formali, quia propter perfectiones essentiales imaginantur rationes ideales, quae
+                non sunt nisi obiecta cognita in esse intelligibili, sicut nunc dicimus de
+                relationibus divinis quae non sunt formaliter divinae essentiales perfectiones.
+                Quare propositum.</p>
+              <p xml:id="pcsc-l1q6-d1e622">[59: -54] Ad quintum, concedo maiorem sub isto sensu: quod nihil formaliter
+                limitatum est formaliter obiectum beatificum. Et concedo quod idea non est
+                formaliter obiectum beatificum. Et cum dicitur quod Augustinus hoc dicit, hic dico
+                quod non est suae intentionis quod sit obiectum formaliter beatificum, sed forsan
+                realiter, quod verum est, secundum istam opinionem. Tamen potest dici beatificum
+                isto modo: quia beatitudo consistit in cognitione, et ideo aspiciens ideas et
+                ipsarum habens notitias videtur in cognitione beatus [108rb], et tanto beatior
+                quanto plures ideas habet in mentis prospectu. Sed sic intelligendo non facit contra
+                istam positionem.</p>
+              <p xml:id="pcsc-l1q6-d1e626">[60] Et sic apparet quid est sentiendum de rationibus idealibus secundum theologiam
+                Platonicam quam multum approbat Augustinus.</p>
+            </div>
+          </div>
+          <div xml:id="pcsc-l1q6-Dd1e632">
+            <head xml:id="pcsc-l1q6-Hd1e634"><supplied>PARS TERTIA</supplied></head>
+            <div xml:id="pcsc-l1q6-Dd1e638">
+              <head xml:id="pcsc-l1q6-Hd1e640"><supplied>Opinio Johannis de Ripa</supplied></head>
+              <p xml:id="pcsc-l1q6-d1e644">[61] Nunc consequenter est declaranda idealium rationum condicio secundum
+                imaginationem Magistri Johannis de Ripa. Pro cuius declaratione sic procedam: primo
+                praemittam quandam distinctionem de perfectione simpliciter; secundo ponam XII
+                conclusiones imaginationem Magistri Johannis plenarie continentes; et tertio contra
+                ipsas obiciam et obiectionibus respondebo. Ad praesens vero, quia nimium foret
+                prolixum singula pertractare post distinctionem positam, quatuor pertractabo
+                conclusiones probative, reprobative, et responsive. Et istam opinionem pertracto
+                latius, quia ipsam volui sustinere contra venerabilem magistrum meum, Magistrum
+                Gerardum de Calcar, ut ex hoc magis appareat istius opinionis principium
+                radicale.</p>
+            </div>
+            <div xml:id="pcsc-l1q6-Dd1e648">
+              <head xml:id="pcsc-l1q6-Hd1e650"><supplied>Distinctio de perfectione simpliciter</supplied></head>
+              <p xml:id="pcsc-l1q6-d1e654">[62] Pro primo igitur exequendo est advertendum quod perfectiones simpliciter, de
+                quibus theologi loquuntur communiter, sunt in triplici differentia: quaedam sunt
+                essentiales et quidditativae; quaedam modales et determinativae; quaedam causales et
+                effectivae. Verbi gratia de primis, ut ratio entis, ratio vitae, ratio
+                intellectualis naturae, et sic de similibus quae sunt perfectiones essentiales, quia
+                per ipsas formantur et distinguuntur essentiae creaturarum. Perfectiones vero
+                modales et determinativae sunt ut simplicitas, aeternitas, necessitas, et sic de
+                similibus quae non dicunt rationes essentiales, sed potius modos perfectionum
+                essentialium. Quod patet ex hoc quia possibile est divinam essentiam ad extra
+                communicare alicui creaturae omnes denominationes perfectionum essentialium, ut
+                patet secundum imaginationem istius doctoris de specie creabili infinita, et tamen
+                tali nullo modo posset communicare omnes modos talium perfectionum, ut pote
+                necessitatem, independentiam, et sic de multis aliis. Et per hoc apparet distinctio
+                inter perfectiones quidditativas et perfectiones modificativas. Perfectiones vero
+                causales et effectivae dicuntur illae quibus res non dicuntur proprie existere vel
+                ab aliis differre, sed sunt quodam modo proprietates consequenter se habentes ad
+                rationes essentiales, ut quasi sint potentiae executivae. Et istae rationes habent
+                similiter modos suos qui possunt <mentioned>perfectiones</mentioned> similiter
+                appellari. Unde pro istis perfectionibus non habemus nomina specialia, sed ipsas
+                potius intelligimus ductu rationis. Non est tamen per hoc imaginandum quod istae
+                perfectiones in Deo dicant quovis modo realem distinctionem. Unde intellectus,
+                imaginarie procedendo, primo capit rei existentiam [108va], consequenter mensurat
+                ipsam sub tanto vel tanto gradu, tertio comparat ipsas ad aliquid producendum, et
+                consequenter modum et gradum actionis nititur mensurare. Et sic apparet qualiter
+                intellectus a natura rei obiective motus reperit istam distinctionem trimembrem
+                perfectionum simpliciter.</p>
+              <p xml:id="pcsc-l1q6-d1e660">[63] Ulterius est advertendum quod, sicut inter perfectiones essentiales et
+                causales reperitur distinctio, ita etiam est imaginanda istarum perfectionum ad
+                creaturam diversa continentia perfectionalis; secundum tamen utrasque perfectiones
+                divina essentia eminenter et non formaliter continet creaturam.</p>
+            </div>
+            <div xml:id="pcsc-l1q6-Dd1e664">
+              <head xml:id="pcsc-l1q6-Hd1e666"><supplied>Duodecim conclusiones declarativae, rationes contra, et
+                solutiones</supplied></head>
+              <div xml:id="pcsc-l1q6-Dd1e670">
+                <head xml:id="pcsc-l1q6-Hd1e672"><supplied>Conclusiones prima ad quartam</supplied></head>
+                <p xml:id="pcsc-l1q6-d1e676">[64] Ista igitur distinctione praemissa tanquam necessaria pro intellectu
+                  conclusionum sequentium, sit ista prima conclusio: omnes denominationes
+                  essentiales naturae divinae correspondentes distinctas creaturarum essentias
+                  actualiter vel possibiliter indicantes sunt ex natura rei in divina substantia ab
+                  invicem formaliter differentes. Verbi gratia, pro intellectu conclusionis, ratio
+                  vitae et ratio entis competunt Deo, et similiter ratio entis competit alicui
+                  creaturae cui nullo modo competit ratio vitae. Ideo dico quod tales duae
+                  denominationes in divina substantia habent formalem distinctionem.</p>
+                <p xml:id="pcsc-l1q6-d1e679">[65] Ista igitur conclusio sic intellecta tanquam fundamentum idealium rationum
+                  multipliciter probatur. Et primo arguo sic: sit A gratia exempli certa creatura
+                  tantummodo participans rationem entis, et sit B alia creatura participans rationem
+                  vitae et similiter entis. Tunc arguo sic: A et B mensurantur perfectionaliter
+                  penes participationem divinae substantiae. Vel ergo participant divinam
+                  substantiam secundum unicam et impraecisam rationem vel non. Si non, habetur
+                  propositum quod tales denominationes in divina substantia sunt ab invicem
+                  formaliter differentes. Si sic, sequitur quod A et B sunt eiusdem speciei, quod
+                  est manifeste falsum. Et consequentia probatur, nam B non habet maiorem
+                  perfectionem quam A nisi ex hoc praecise quod B intensius participat eandem
+                  perfectionem essentialem quam A; sed intensio et remissio non arguunt
+                  participationem alterius rationis, sicut apparet de albedine intensa et remissa
+                  respectu albedinis; ergo sequitur quod A et B sunt eiusdem rationis. Et
+                  confirmatur ratio, nam si per imaginationem A continue intendatur in esse entis, A
+                  non esset alterius speciei quam nunc est; sed si A et B participant eandem
+                  rationem penitus impraecisam, sequitur quod per huiusmodi intensionem A fieret
+                  aequale B, et per consequens tunc A esset eiusdem speciei cum B; ergo et nunc de
+                  facto sunt eiusdem speciei, cum per quantamcumque intensionem non sit transitus de
+                  specie ad speciem. Quare etc.</p>
+                <p xml:id="pcsc-l1q6-d1e682">[66] Praeterea, si divina essentia esset ad extra mere naturaliter participabilis
+                  et non voluntarie et ipsa esset omnimode idem in esse entis et intellectualis
+                  naturae, non staret ipsam ab aliquo participari in esse [108vb] entis quin ab
+                  eodem participaretur in esse intellectualis naturae ex quo sunt omnimode idem ex
+                  natura rei. Sed dato conclusionis contradictorio, quamvis nunc se libere
+                  communicet ad extra, sequitur quod iam de facto cuicumque se communicat in esse
+                  entis, eidem se communicat in esse intellectualis naturae, et per consequens
+                  quodlibet ens esset intellectuale, quod videtur absurdum. Et per consequens alia
+                  ratione format creaturam in esse entis tantummodo quam faciat creaturam in esse
+                  intellectualis naturae. Quare propositum. Et confirmatur, nam si praecise unica
+                  ratione cuncta formaret, omnia participarent unicam et praecisam rationem, et per
+                  consequens non staret divinam essentiam formare aliquid secundum uniam rationem
+                  perfectionis quin formaret illud secundum quamlibet, quod videtur absurdum. Quare
+                  propositum.</p>
+                <p xml:id="pcsc-l1q6-d1e685">[67] Praeterea, si Deus praecise contineret latitudinem creaturae in esse entis
+                  sic quod nihil posset formare in esse alterius denominationis, adhuc ipse esset
+                  immensus in tali denominatione, puta in esse entis, quia adhuc esset terminus
+                  exclusivus latitudinis infinitae. Sed nunc Deus est perfectior essentialiter quam
+                  tunc foret, et non intensive in eadem denominatione, ut puta in esse entis, quia
+                  nunc et tunc eundem gradum immensitatis tantummodo possideret et eandem
+                  latitudinem in esse entis perfectionaliter contineret. Ergo, si nunc est
+                  perfectior, hoc est solum extensive quo ad numerum essentialium perfectionum. Et
+                  per consequens, sicut in creaturis alia est latitudo in esse entis, alia in esse
+                  vitae, et sic in denominationibus ceteris, ita in Deo alia est ratio entis, alia
+                  ratio vitae perfectionaliter contentiva latitudinis vitae, et per consequens
+                  propositum. Et ista ratio multum a Magistro Johanne ponderatur.</p>
+                <p xml:id="pcsc-l1q6-d1e689">[68] Praeterea, quaelibet denominatio essentialis correspondens creaturae est
+                  vestigium consimilis denominationis in divina natura, igitur si divina essentia
+                  secundum omnem rationem essentialem ad extra communicabilem sit omnimode una,
+                  sequitur quod quaelibet denominatio essentialis correspondens creaturae et
+                  vestigium cuiuslibet denominationis essentialis divinae ad extra communicabilis.
+                  Consequens est multipliciter falsum, ergo et antecedens. Et non maior, ergo minor,
+                  quod est oppositum conclusionis, et per consequens conclusio vera. Falsitas
+                  consequentis probatur, quia tunc quilibet effectus aeque esset vestigium Dei sicut
+                  et alius, et per consequens aeque naturali evidentia quilibet effectus clamaret
+                  divinum esse, quod videtur falsum, quia sic unus non esset perfectior alio.
+                  Similiter, sequitur quod quaelibet perfectio creata quantecumque parva est evidens
+                  ratio cognoscendi divinam essentiam secundum infinita praedicata dicibilia de
+                  divina essentia, immo cognoscendi ipsam secundum totam plenitudinem deitatis, quod
+                  videtur absurdum. Quare propositum. [109ra]</p>
+                <p xml:id="pcsc-l1q6-d1e692">[69] Praeterea, in quacumque re est aliquo modo perfectionalis binarius, in ea
+                  sunt distinctae perfectiones; sed in divina substantia est perfectionalis
+                  binarius, immo numerus; ergo propositum. Consequentia et maior patent, et minor
+                  est <quote xml:id="pcsc-l1q6-Qd1e694">beati Augustini in Dialogo ad Orosium</quote>, ubi sic dicit:
+                  <cit>
+                  <quote xml:id="pcsc-l1q6-Qd1e699">Numerus, mensura, et pondus ipse Dominus est. Ipse est numerus sine numero,
+                    a quo est omnis numerus. Ipse mensura sine mensura, a quo est omnis mensura.
+                    Ipse pondus sine pondere, a quo est omne pondus.</quote>
+                  <bibl>XXX</bibl>
+                  </cit>
+                   Haec ille. Et similiter,
+                  <cit>
+                  <ref xml:id="pcsc-l1q6-Rd1e708">Eustratius commentator, in I Ethicorum</ref>
+                  <bibl>Eustratius, In Et. Nich., I:4 (1096a13).</bibl>
+                  </cit>
+                  , recitat hanc positionem fuisse Platonis dicentis quod exemplaria et ideae sunt
+                  in divina mente sicut quidam divinus numerus, per quem illud per exemplum
+                  materialem factionem naturae conditor operatur. Similiter <ref xml:id="pcsc-l1q6-Rd1e715" corresp="#pcsc-l1q6-Qd1e720">venerabilis
+                  Anselmus, in libro quem fecit De unitate et pluralitate Dei et creaturarum</ref>,
+                  dicit:
+                  <cit>
+                  <quote xml:id="pcsc-l1q6-Qd1e720"><seg type="qs">Quae utique rationes</seg>, et loquitur de ideis, <seg type="qs">cum sint prorsus infinitae, in eis necessario omnes reperiuntur
+                    numeri, qui ab eis aliud esse non possunt. Non enim numerantur nisi se
+                    ipsis.</seg> </quote>
+                  <bibl>Anselmus (to be found).</bibl>
+                  </cit>
+                   Ex quibus omnibus manifeste apparet veritas praemissae conclusionis, quod in
+                  divina substantia sunt perfectiones essentiales formaliter ab invicem differentes.
+                  Et hoc est primum fundamentum pro ideis intelligendis.</p>
+                <p xml:id="pcsc-l1q6-d1e733">[70] Secunda conclusio est haec: quaelibet denominatio essentialis divinae
+                  substantiae correspondens totius imaginariae latitudinis creabilis vel creatae
+                  denominationis consimilis est praecise formaliter contentiva. Verbi gratia, pro
+                  intellectu conclusionis, signemus denominationem essentialem in esse vitae Deo
+                  correspondentem. Ista continet consimilem denominationem in creatura, et sic de
+                  aliis, ita quod semper denominatio essentialis Deo correspondens est terminus
+                  exclusivus totius latitudinis denominationis consimilis contentivus.</p>
+                <p xml:id="pcsc-l1q6-d1e736">[71] Ista conclusio sic intellecta probatur, nam signo per imaginationem A
+                  denominationem in esse entis Deo correspondentem, et signo B latitudinem
+                  consimilis denominationis creaturae correspondentem. Et quaero, aut A praecise
+                  continet B, ut minus quam B, aut plus quam B? Non est dicendum quod minus, quia
+                  tunc aliqua perfectio in creatura esset perfectior certa perfectione
+                  denominationis consimilis in Deo, quod falsum est. Si detur quod praecise continet
+                  B, habetur propositum, cum non sit maior ratio de una denominatione quam de alia.
+                  Nec potest dici quod A continet B et cum hoc aliam denominationem, quia signetur
+                  illa, et sit C, quae sit denominatio in esse vitae. Tunc arguo sic: A
+                  perfectionaliter continet B et C, et qua ratione continet perfectionaliter duas
+                  tales denominationes, eadem ratione omnes, et per consequens talibus
+                  denominationibus creaturae correspondentibus non correspondent in divina essentia
+                  variae rationes, quod est contra praecedentem conclusionem. Et per consequens
+                  relinquitur quod A solum perfectionaliter continet B denominationem, videlicet
+                  sibi similem, quod est propositum.</p>
+                <p xml:id="pcsc-l1q6-d1e739">[72] Praeterea, si divinae [109rb] essentiae corresponderet tantummodo ratio
+                  entis, tunc non contineret perfectionaliter nisi denominationem consimilem; sed
+                  non aliter continet nunc per talem rationem quam tunc faceret; ergo quam tunc
+                  praecise contineret denominationem consimilem perfectionaliter tam et nunc, et per
+                  consequens propositum. Consequentia patet. Declaro maiorem, nam nulla denominatio
+                  perfectior continetur perfectionaliter a non-perfectiori; sed denominatio entis
+                  videtur imperfectior quam denominatio vitae, vel saltem non est perfectior; ergo
+                  non apparet quod denominatio entis contineat denominationem vitae. Et per
+                  consequens, si tunc talis denominatio Deo corresponderet, per illam non contineret
+                  perfectionaliter nisi denominationem consimilem. Et minor apparet, quia per alias
+                  rationes non videtur respicere nisi tantummodo perfectiones consimilium
+                  denominationum. Quare etc.</p>
+                <p xml:id="pcsc-l1q6-d1e742">[73] Tertia conclusio est haec: non est possibile divinam essentiam aliquam
+                  speciem creaturae per eandem praecise rationem intrinsecam perfectionaliter
+                  continere. Haec conclusio sic probatur: impossibile est divinam essentiam secundum
+                  aliquam unam denominationem intrinsecam plures denominationes essentiales
+                  perfectionaliter continere; sed quaelibet species habet plures perfectiones
+                  essentiales; ergo impossibile est quod aliquam talem divina essentia contineat
+                  perfectionaliter per unicam tantum denominationem essentialem. Consequentia patet
+                  et maior per praecedentem conclusionem. Et minor, quoniam quaelibet species
+                  formatur in esse per variam replicationem unitatis divinae, et per consequens
+                  quaelibet species continet sive habet in se plures tales denominationes
+                  essentiales. Consequentia patet, et antecedens ex hoc quoniam omnis species
+                  creatur formaliter in numero, pondere, et mensura. Quare propositum.</p>
+                <p xml:id="pcsc-l1q6-d1e746">[74] Praeterea, divina essentia est cuiuslibet speciei creatae numerus
+                  formativus, et per consequens etiam numerus participativus, et ita secundum varias
+                  rationes essentiales talis species est formata. Haec consequentia probatur, nam
+                  contradictio videtur quod aliquis numerus contineatur perfectionaliter ab unitate
+                  secundum eandem rationem praecise ipsius unitatis, aliter nulla esset replicatio
+                  unitatis in formatione numeri, nec maior vel minor replicatio in formatione
+                  maioris numeri quam minoris � quod falsum est, nam maior replicatio unitatis
+                  mathematicae requiritur in formatione denarii quam in formatione quinarii. Ergo
+                  divina essentia secundum nullam eandem rationem praecise continet perfectionaliter
+                  aliquam speciem seu numerum creaturae, ex quo unitas formaliter secundum eandem
+                  rationem non continet numerum. Quare propositum.</p>
+                <p xml:id="pcsc-l1q6-d1e749"><!--<a name="_ICCrossRef">-->[75] Quarta conclusio est ista: divina essentia
+                  secundum plures rationes essentiales est speciei superioris quam inferioris
+                  perfectionaliter contentiva. Haec conclusio sic probatur: tam species superior
+                  quam inferior continentur perfectionaliter a divina essentia, et species superior
+                  plures denominationes essentiales [109va] possidet quam inferior, et per
+                  praecedentem conclusionem divina essentia secundum nullam unicam rationem continet
+                  plures denominationes essentiales, <supplied>ergo</supplied> sequitur quod divina
+                  essentia secundum plures huiusmodi rationes continet superiorem quam
+                  inferiorem.</p>
+                <p xml:id="pcsc-l1q6-d1e756">[76] Praeterea, signo duas species, inferiorem videlicet et superiorem, quarum
+                  una sit A et altera B. Et quaero, aut divina essentia secundum easdem praecise
+                  rationes continet A et B, aut secundum pauciores A quam B � sit A species
+                  perfectior � aut secundum plures continet A quam B. Primum non potest dari, quia
+                  tunc A et B essent perfectiones aequales, quod est contra hypothesim. Et
+                  consequentia patet, quia cum earum perfectio mensuretur penes participationem
+                  divinae substantiae et ipsae aequaliter participent, sequitur quod sunt aequales.
+                  Nec secundum potest dari, quia tunc species superior esset imperfectior inferiore.
+                  Ergo necessario oportet quod detur tertium, cum divisio sit immediata, et per
+                  consequens secundum plures denominationes continet superiorem quam inferiorem.</p>
+              </div>
+              <div xml:id="pcsc-l1q6-Dd1e760">
+                <head xml:id="pcsc-l1q6-Hd1e762"><supplied>Rationes contra duas primas conclusiones Johannis de Ripa et
+                  solutiones earum</supplied></head>
+                <p xml:id="pcsc-l1q6-d1e766">[77: -64] Contra tamen illas duas primas conclusiones arguam, ut veritas magis in
+                  posterum appareat. Et primo contra primam arguo sic: quaelibet perfectio praecise
+                  repraesentans unam speciem creatam et non aliam est perfectio limitata; sed
+                  quaelibet perfectio essentialis correspondens divinae essentiae repraesentat unam
+                  speciem creaturae vel rationem denominationis consimilis, et sic unam quod non
+                  aliam; ergo est limitata perfectio. Consequentia patet et maior ex hoc quoniam
+                  limitatio in repraesentando provenit ex limitatione in essendo. Et minor apparet
+                  per conclusionem, cum denominatio certa in creatura arguat denominationem
+                  consimilem in Creatore, et hoc in denominatione essentiali.</p>
+                <p xml:id="pcsc-l1q6-d1e769">[78] Praeterea, intellectus divinus intelligit illas perfectiones distincte, aut
+                  ergo per rationem divinae essentiae aut per rationes ipsarum proprias. Si detur
+                  primum, sequitur quod idem formaliter est ratio intelligendi plura, et per
+                  consequens frustra ponitur quod ad hoc quod Deus intelligat requirantur plures
+                  tales perfectiones. Si detur secundum, quod intelligat per varias rationes,
+                  sequitur quod intellectus divinus est limitatus, cum uno aspectu non possit omnia
+                  distincte intelligere, quod est contra <ref xml:id="pcsc-l1q6-Rd1e771" corresp="#pcsc-l1q6-Qd1e776">beatum Augustinum in libro XV De
+                  Trinitate, capitulo 16</ref> dicentem quod in patria
+                  <cit>
+                  <quote xml:id="pcsc-l1q6-Qd1e776" source="http://scta.info/resource/adt-l15">omnem scientiam nostram uno
+                    simul aspectu videbimus</quote>
+                  <bibl>Augustinus, <title>De Trinitate</title>, l. XV, c. 16 (CCSL LA, p.
+                    500).</bibl>
+                  </cit>
+                  . Quanto ergo magis ipse Deus? Quare propositum.</p>
+                <p xml:id="pcsc-l1q6-d1e787">[79] Praeterea, si divina essentia secundum eandem omnimodam rationem omnia
+                  creabilia perfectionaliter contineret, ipsa secundum talem rationem esset
+                  perfectior quam si per talem rationem non omnia perfectionaliter contineret; sed
+                  contradictionem includit divinam essentiam secundum aliquam perfectionem
+                  perfectiorem existere quam sit de facto; ergo iam ita est quod secundum quamlibet
+                  perfectionem sibi correspondentem continet perfectionaliter quamlibet creaturam,
+                  quod est propositum.</p>
+                <p xml:id="pcsc-l1q6-d1e790">[80] Praeterea, quaelibet perfectio essentialis in divina essentia absolute
+                  considerata perfectior [109vb] est tota latitudine possibilium citra primum,
+                  igitur quaelibet talis se ipsa formaliter continet, circumscripta quacumque alia,
+                  totam latitudinem possibilium eminenter et perfectionaliter, et per consequens
+                  frustra ponuntur huiusmodi variae rationes. Verbi gratia, si divina essentia in
+                  esse vitae sit perfectior tota latitudine imaginabili creaturarum, sequitur quod
+                  totam huiusmodi latitudinem perfectionaliter contineret secundum talem rationem
+                  vitae. Et sicut dicitur de ista denominatione, sic posset de quacumque alia dici,
+                  et per consequens vanum est tot ponere, cum una sola sufficiat.</p>
+                <p xml:id="pcsc-l1q6-d1e794">[81: -70] Praeterea, contra secundam conclusionem arguitur sic: sit A certa
+                  perfectio in Deo, ut pote in esse vitae, et sit B tota latitudo vitae creabilis
+                  quam A perfectionaliter continet. Et arguo sic: vel in B sunt varii gradus vel
+                  non. Si non, ergo sequitur quod in B non est aliqua latitudo intensiva, et per
+                  consequens est ita simplex essentia B sicut potest imaginari, quod falsum est. Si
+                  sic, quaero, unde provenit causaliter varietas horum graduum? Vel ab A, et sic
+                  sequitur quod A perfectio continet latitudinem intensivam, nec videtur alia causa.
+                  Ergo standum est quod per unicam rationem est cuiuslibet eminenter contentiva. Et
+                  posset confirmari: in B sunt varii gradus. Quaero ergo, per quid Deus cognoscit
+                  formaliter hos gradus? Si per A praecise, eadem ratione esset dicendum de
+                  quibuslibet. Si per varias rationes in A, sequitur ut prius quod A perfectio in se
+                  continet latitudinem intensivam.</p>
+                <p xml:id="pcsc-l1q6-d1e797">[82] Praeterea, arguo sic: sequitur <mentioned>B continet latitudinem intensivam,
+                  ergo et A similiter</mentioned>. Probo istam consequentiam, quia signo gradus in
+                  B, qui sint C, D, et arguo sic: ex hoc C est perfectior D quia intensius C
+                  participat A quam faciat D, et per consequens A ut participatum a B perfectius est
+                  quam sit ut participatum a D. Igitur A continet in se gradus intensiores et
+                  remissiores, et ita A continet latitidunem intensivam, et per consequens, si B
+                  continet latitudinem huiusmodi, sequitur quod et A similiter. Quare etc.</p>
+                <p xml:id="pcsc-l1q6-d1e803">[83: -77] Ad istas rationes respondeo. Ad primam, cum dicitur, <quote xml:id="pcsc-l1q6-Qd1e805">quaelibet
+                  perfectio praecise repraesentans unam speciam creatam est limitata,</quote> nego
+                  istam. Ad probationem, cum dicitur quod <quote xml:id="pcsc-l1q6-Qd1e808">limitatio in repraesentando
+                  provenit ex limitatione in essendo,</quote> hic dico quod illa ratio non
+                  repraesentat limitate. Unde ista stant simul: quod unum tantum repraesentat et
+                  tamen infinite illud unum repraesentat. Et ideo non sequitur: <mentioned>unum
+                  repraesentat sive finitum tantum repraesentat, ergo finite illud
+                  repraesentat</mentioned>, sicut non sequitur: <mentioned>Deus finitum producit,
+                  ergo finite</mentioned>, vel <mentioned>ergo est finitus</mentioned>. Et ita est
+                  in proposito de talibus perfectionibus essentialibus Deo correspondentibus.</p>
+                <p xml:id="pcsc-l1q6-d1e821">[84: -78] Ad secundum, cum dicitur, <quote xml:id="pcsc-l1q6-Qd1e823">intellectus divinus intelligit illas
+                  perfectiones distincte,</quote> concedo. [110ra] Et cum quaeritur, <quote xml:id="pcsc-l1q6-Qd1e826">aut ergo
+                  per rationem divinae essentiae aut per rationes proprias ipsarum?</quote> hic dico
+                  quod ratio ista duo imaginatur quae Magister Johannes reputaret falsa: primum,
+                  quod rationes intelligendi creaturas non sint essentiales, quod falsum est apud
+                  istum quia non ponit tales rationes esse obiecta cognita in esse intelligibili
+                  producta. Secundum est quod imaginatur argumentum quod in divina essentia sit
+                  tantum unica ratio essentialis, quod falsum est secundum istius doctoris
+                  opinionem. Dico igitur quod divina essentia intelligit totam latitudinem certae
+                  denominationis in creatura per denominationem consimilem Deo correspondentem. Sed
+                  ex hoc non sequitur quod sit limitata, quia, ut prius dictum est, quaelibet talis
+                  ratio est formaliter infinita. Et ideo nullo modo sequitur quod intendit. Quare
+                  etc.</p>
+                <p xml:id="pcsc-l1q6-d1e830">[85: -79] Ad tertium, cum dicitur quod, <quote xml:id="pcsc-l1q6-Qd1e832">si divina essentia secundum eandem
+                  rationem omnia creabilia perfectionaliter contineret,</quote> quod esset
+                  perfectior quam nunc, hic dico quod in tali casu divina essentia non esset
+                  intensive perfectior, sed tantummodo extensive. Ut verbi gratia nunc divina
+                  essentia continet A latitudinem in esse vitae per denominationem consimilem. Si
+                  ergo adhuc divina essentia intelligatur secundum rationem vitae et intellectualis
+                  naturae, non dicitur ex hoc intensive perfectior, sed tantummodo extensive, id est
+                  per multitudinem perfectionum concurrentium unitive ad unam perfectionem. Et sic
+                  dico quod, si ponatur quod secundum unam perfectionem sic contineat, casus
+                  implicat contradictionem, quia ex eo sequitur quod est tantum una perfectio, et
+                  tamen sunt plures. Et ideo nec quo ad materiam nec ad formam concludit nisi sicut
+                  ex impossibili sequitur quodlibet ad hoc pertinens, cuiusmodi est in proposito.
+                  Quare habetur intentum.</p>
+                <p xml:id="pcsc-l1q6-d1e836">[86: -80] Ad quartum, cum dicitur, <quote xml:id="pcsc-l1q6-Qd1e838">quaelibet perfectio in divina essentia
+                  absolute considerata perfectior est tota latitudine possibilium citra primum, et
+                  per consequens quaelibet continet quamlibet talem latitudinem,</quote> hic dico,
+                  pro materia argumenti, quod quaelibet denominatio essentialis divinae essentiae
+                  correspondens tam sibi intense correspondet quod contradictionem includit aliquam
+                  concipi intensius sibi correspondere, et ideo contradictio est quod aliqua una
+                  ratio habeat rationes huiusmodi omnimode indistincte. Ad propositum igitur dico
+                  quod realiter absque dubio quaelibet talis ratio continet perfectionaliter totam
+                  latitudinem possibilium citra primum, verumtamen, si per possibile vel impossibile
+                  daretur una per se sine alia, non sequitur, <mentioned>haec est perfectior ista,
+                  ergo continet illam</mentioned>, ad mentem istius doctoris. Unde continentia
+                  importat communicationem in simili denominatione et cum hoc maiorem perfectionem
+                  in extremo continente. Nunc ergo, si fieret talis sequestratio, ut puta
+                  denominationis [110rb] essentialis in esse entis, illa esset formaliter infinita
+                  in Deo, et tamen non haberet formaliter communicationem cum denominatione in esse
+                  vitae. Ut verbi gratia, si ratio specifica hominis posset sequestrari a quacumque
+                  perfectione essentiali, et similiter ratio specifica asini, adhuc ratio specifica
+                  hominis esset perfectior, et tamen non contineret aliam rationem specificam, cum
+                  nulla sit ratio essentialis in qua tales rationes specificae conveniant, sic
+                  etc.</p>
+                <p xml:id="pcsc-l1q6-d1e846">[87: -81] Ad quintum, cum dicitur, <quote xml:id="pcsc-l1q6-Qd1e848">per quid Deus cognoscit diversa
+                  secundum intensius et remissius in eadem denominatione, cum ipsa Deo sine
+                  quacumque distinctione correspondeat?</quote> hic dico, pro materia argumenti,
+                  quod Deus videt huiusmodi rationem perfectissime et per consequens quodlibet quod
+                  sub ea perfectionaliter continetur. Sed ista ratio sola non sufficeret ad videndum
+                  actualem rerum distinctionem seu possibilem nisi per determinationem divinae
+                  voluntatis. Unde ratio essentialis quasi concurrit ad notitiam positivi, sed
+                  causalis ad notitiam distinctionis. Et sic Deus per huiusmodi rationes
+                  perfectissime cognoscit rerum existentias et distinctiones.</p>
+                <p xml:id="pcsc-l1q6-d1e852">[88: -82] Ad sextum, cum dicitur, <quote xml:id="pcsc-l1q6-Qd1e854">sequitur <mentioned>B continet
+                  latitudinem intensivam, ergo et A</mentioned>,</quote> nego consequentiam. Ad
+                  probationem, cum dicitur quod <quote xml:id="pcsc-l1q6-Qd1e860">signentur gradus in B, qui sint C, D,</quote>
+                  admitto casum. Et cum dicitur, <quote xml:id="pcsc-l1q6-Qd1e863">ex hoc C est perfectior D quia intensius C
+                  participat A quam D faciat A, et per consequens A ut participatum a C est
+                  perfectius quam ut participatum a D,</quote> dico quod ista consequentia valet ad
+                  istum sensum: <mentioned>C est maioris perfectionis quam D</mentioned>, sed non
+                  quod A contineat intensiorem vel remissiorem gradum, sicut si videamus idem
+                  visibile et vos videatis melius me, non sequitur ex disparitate visionum in
+                  obiecto latitudo aliqua intensiva nisi per accidens. Et sic apparet quid est
+                  dicendum ad argumenta.</p>
+              </div>
+              <div xml:id="pcsc-l1q6-Dd1e871">
+                <head xml:id="pcsc-l1q6-Hd1e873"><supplied>Conclusiones quinta ad nonam</supplied></head>
+                <p xml:id="pcsc-l1q6-d1e877">[89] Quinta conclusio est haec: divina essentia infinitas continet rationes
+                  essentiales ordinatas essentialiter specierum creabilium perfectionaliter
+                  contentivas. Haec conclusio sic probatur: si divina essentia non contineret
+                  infinitas rationes essentiales, sed tantum finitas, signentur illae gratia
+                  exempli, quae sint A, B, C. Tunc arguo sic: ex hoc quod divinae essentiae
+                  correspondent A, B, C, divina essentia est perfectior quam si praecise sibi
+                  corresponderent A, B, et similiter quam si praecise sibi corresponderet A, ergo
+                  sequitur quod, quanto plures rationes essentiales divinae essentiae correspondent,
+                  tanto ipsa divina essentia intelligitur perfectior; sed per infinitas intelligitur
+                  perfectior quam tantummodo per finitas; ergo, cum sit summe imaginabiliter
+                  perfecta, sequitur quod sibi infinitae tales rationes intrinsece correspondent. Et
+                  confirmatur, quoniam illud est perfectius [110va] infinitum quod tam intensive
+                  quam extensive est infinitum; sed si divinae essentiae corresponderent tantummodo
+                  rationes essentiales finitae, quarum quaelibet esset formaliter infinita, divina
+                  essentia non esset infinita nisi tantummodo intensive; ergo, cum sit perfectissime
+                  infinita, sequitur quod tam intensive quam extensive est infinita. Et cum per
+                  quamlibet talem contineat denominationem consimilem in creatura, sequitur
+                  propositum.</p>
+                <p xml:id="pcsc-l1q6-d1e880">[90] Praeterea, infinitae sunt possibiles species in latitudine creabilium; sed
+                  cuilibet tali correspondet diversa ratio essentialis super aliam per quam differt
+                  a specie inferiori; ergo infinitae sunt huiusmodi rationes essentiales. Sed
+                  quaelibet talis immense Deo correspondet secundum denominationem consimilem; ergo
+                  propositum. Consequentia patet, et prima pars assumpti declaratur, quoniam
+                  quacumque specie finita data, inter ipsam et Deum est intermedia possibilis, et
+                  per consequens nulla est finita suprema possibilis; ergo inter Deum et quamcumque
+                  speciem finitam signabilem infinitae sunt possibiles intermediae. Et secunda pars
+                  patet, nam quaelibet species superior alteri speciei inferiori superaddit aliquam
+                  denominationem essentialem, aliter non esset perfectior ea. Quare propositum.</p>
+                <p xml:id="pcsc-l1q6-d1e883">[91] Praeterea, signo totam latitudinem creabilium exclusive terminatam ad ipsum
+                  Deum, et quaero, an Deus perfectionaliter continet et eminenter istam latitudinem
+                  an non? Si non, ergo sequitur quod est vel praecise aequalis perfectionis cum tali
+                  latitudine vel minoris, quorum quodlibet est falsum. Si sic, cum, ut prius
+                  deductum est, in tali latitudine sint infinitae species possibiles, sequitur quod
+                  infinitas tales species eminenter continet, et per consequens in se ipsa infinitas
+                  rationes essentiales denominationis consimilis formaliter et perfectionaliter
+                  continet. Quod autem huiusmodi rationes sint essentialiter ordinatae apparet,
+                  quoniam ubi contradictio est intelligere unam sine alia et e contra, necessario
+                  inter illas est ordo essentialis; sed rationes huiusmodi sic se habent quod
+                  contradictio est intelligere unam sine alia, ut pote vivere sine esse vel
+                  intelligere sine vivere, sed non e contra non; ergo necessario inter rationes
+                  huiusmodi est ordo essentialis. Et per consequens patet conclusio quo ad singulas
+                  sui partes, videlicet quod divina essentia continet infinitas rationes
+                  essentiales, et similiter quod tales sunt ordinatae essentialiter et etiam sunt
+                  specierum creabilium perfectionaliter contentivae.</p>
+                <p xml:id="pcsc-l1q6-d1e886">[92] Sexta conclusio est haec: huiusmodi rationes essentiales divinae
+                  correspondentes essentiae sunt creaturarum omnium causaliter et exemplariter
+                  formativae. Haec conclusio sic probatur: quaelibet creatura constituitur in esse
+                  per aliquam participationem divinae bonitatis. Aut ergo huiusmodi participatio est
+                  intrinseca et formalis aut extrinseca et exemplaris. Non est dicendum primum, quia
+                  tunc quaelibet creatura esset formaliter infinita, cum sibi foret divina essentia
+                  communicata [110vb] intrinsece secundum totam plenitudinem deitatis. Si ergo sit
+                  solum extrinsece et exemplariter, habetur intentum, cum huiusmodi participationes
+                  sint respectu essentialium rationum, ut puta in esse, vivere, et sic de aliis
+                  denominationibus, et per consequens denominationes consimiles Deo correspondentes
+                  sunt creaturarum exemplariter formativae.</p>
+                <p xml:id="pcsc-l1q6-d1e890">[93] Praeterea, cuiuslibet creaturae ad Deum est habitudo consimilis
+                  denominationis ad consimilem, ut puta ratio entis creabilis habet habitudinem ad
+                  rationem entis increabilis. Vel igitur huiusmodi habitudo est formalis,
+                  materialis, efficiens, vel finalis. Non formalis, ut iam dictum est. Nec similiter
+                  materialis, ut patet de se. Ergo est efficiens vel finalis. Et quodlibet istorum
+                  detur, sequitur quod talis ratio creata habet habitudinem exemplarem ad rationem
+                  increatam. Quod sic patet: nam cuiuscumque Deus est finis, eiusdem est efficiens,
+                  et cuiuscumque est efficiens, eiusdem est exemplativum. Ergo, si ratio essentialis
+                  divinae essentiae correspondens est finis vel efficiens rationis creatae, sequitur
+                  quod est ipsius ratio causaliter et exemplariter formativa, quod est
+                  propositum.</p>
+                <p xml:id="pcsc-l1q6-d1e893">[94] Praeterea, quaelibet ratio cuius participatione aliqua ratio denominatur
+                  talis vel talis est alterius exemplariter formativa; sed quaelibet ratio
+                  essentialis correspondens divinae essentiae est ratio cuius participatione ratio
+                  creaturae dicitur talis vel talis; ergo sequitur quod quaelibet talis est
+                  creaturarum exemplariter formativa. Consequentia patet, et maior declaratur, nam
+                  ex hoc una cera suscipit talem vel talem formam quia habet participationem a
+                  diversis sigillis, et similiter apparet in quibuscumque exemplariter captis. Et
+                  per consequens apparet quod universaliter, quando unum sumitur ex similitudine
+                  alterius, quod unum est alterius exemplariter formativum. Et minor apparet,
+                  quoniam creatura dicitur esse ex participatione quam habet ad consimilem
+                  denominationem correspondentem divinae essentiae, nam lapis non dicitur esse
+                  formaliter ex participatione divinae vitae, sed potius rationis essendi. Et per
+                  consequens universaliter creatura habet talem vel talem denominationem ex
+                  participatione denominationis consimilis correspondentis divinae bonitati. Et ista
+                  ratio proprius declarat propositum quam ratio prima vel secunda.</p>
+                <p xml:id="pcsc-l1q6-d1e896">[95] Ex qua conclusione correllarie sequitur quod quaelibet talis ratio divinae
+                  correspondens essentiae est denominationis consimilis in creatura causaliter et
+                  originaliter distinctiva. Volo dicere quod, sicut talis ratio dat esse formativum
+                  tali creaturae in aliqua essentiali denominatione, sic consimiliter dat sibi esse
+                  distinctum. Et hoc apparet, quoniam quod dat antecedens alicui dat sibi et
+                  consequens necessario ad illud antecedens. Nunc autem esse distinctum sequitur
+                  formaliter ex esse formativo, quia non stat aliquid esse quin sit aptum natum
+                  distingui a quocumque non-tali. Et per consequens quam talis ratio est rationis
+                  [111ra] similis formativa tam et distinctiva.</p>
+                <p xml:id="pcsc-l1q6-d1e899">[96] Septima conclusio est haec: distinctio creaturarum proveniens ex diversa
+                  participatione alicuius denominationis essentialis secundum intensius et remissius
+                  non provenit ex qualicumque distinctione divinae rationis participatae. Verbi
+                  gratia, pro intellectu conclusionis, signo duas creaturas tantummodo rationem
+                  entis participantes, quarum una sit perfectior alia in tali denominatione, ut puta
+                  duo individua eiusdem speciei, quorum unum sit perfectius alio, sicut nunc tenemus
+                  de anima Christi et anima Petri. Dico tunc quod distinctio proveniens in tali
+                  denominatione essentiali non provenit ex divinae rationis participatae qualicumque
+                  distinctione. Constat namque quod talia duo individua sic se habent quod omnem
+                  perfectionem essentialem quam habet unum habet et aliud, sed non ita et intense.
+                  Et ergo distinctio ista provenit secundum intensiorem et remissiorem
+                  participationem. Et tamen dico quod non a ratione divina essentiali originaliter
+                  et exemplative.</p>
+                <p xml:id="pcsc-l1q6-d1e902">[97] Ista conclusio sic intellecta probatur sic: a nulla ratione cui nec
+                  formaliter nec realiter possunt variae rationes correspondere potest originaliter
+                  et exemplative in denominatione consimili distinctio provenire; sed quaelibet
+                  ratio essentialis divina est ratio cui nec formaliter nec realiter possunt variae
+                  rationes correspondere; ergo a nulla ratione essentiali divina potest originaliter
+                  et exemplative in denominatione consimili distinctio provenire. Consequentia
+                  patet, et maior videtur de se nota, quia nihil communicat aliquid alicui quod non
+                  eminenter vel formaliter contineat illud. Et minor probatur, quoniam si alicui
+                  rationi essentiali divinae corresponderent variae perfectiones � sit gratia
+                  exempli talis ratio ratio entis in Deo � vel ergo rationes huiusmodi sunt
+                  essentiales vel gradus in tali ratione. Non essentiales, ut patet, tum quia ratio
+                  entis non includit formaliter rationem vitae, tum quia sic quaererem de alia, et
+                  esset processus in infinitum. Nec etiam sunt gradus, quia tales ponunt latitudinem
+                  intensivam, et per consequens in Deo esset latitudo intensiva, et ita gradus
+                  intensiores et remissiores, et ex hoc sequitur quod aliquid Deo essentiale esset
+                  formaliter limitatum, quod est falsum. Quare minor illa vera, et per consequens
+                  conclusio.</p>
+                <p xml:id="pcsc-l1q6-d1e905">[98] Praeterea, si alicui rationi essentiali corresponderet aliqua latitudo
+                  intensiva, sit gratia exempli quod in ea sint A et B gradus in denominatione
+                  vitae, et quaero, numquid tam A quam B correspondet vita per plenitudinem aut non?
+                  Si sic, ergo sequitur quod inter illos nulla est distinctio, ex quo quilibet
+                  illorum participat formaliter omnem rationem vitae. Si non, ergo sequitur quod Deo
+                  nullus istorum graduum correspondet, cum nullus istorum sit vita per plenitudinem.
+                  Nec potest dici quod unus sit vita per plenitudinem [111rb] et alius non, quia
+                  tunc alius est superfluus, vel Deus non est universaliter perfectus, cum secundum
+                  talem gradum non sit immensa vita. Et per consequens nulla potest alicui
+                  denominationi essentiali divinae latitudo intensiva correspondere. Nec tales
+                  gradus, ut prius deductum est, sunt rationes essentiales. Ergo conclusio vera.</p>
+                <p xml:id="pcsc-l1q6-d1e909">[99] Praeterea, quaelibet latitudo intensiva reducitur ad aliquem terminum
+                  exclusivum qui eminenter continet totam perfectionem talis latitudinis, ut patet
+                  in omni multitudine quae reducitur ad aliquam unitatem tanquam totius multitudinis
+                  perfectivam; sed si Deo secundum aliquam rationem essentialem correspondet aliqua
+                  latitudo intensiva, sequitur quod huius latitudinis est aliquis terminus
+                  exclusivus eminenter continens totam perfectionem talis latitudinis. Sed constat
+                  quod, ad hoc quod Deus sit perfectissimus in tali denominatione, sufficit sibi
+                  perfectio talis termini huiusmodi latitudinem terminantis. Ergo vanum est ponere
+                  in Deo talem latitudinem secundum rationem essentialem. Et per consequens, cum
+                  talis gradus terminans talem latitudinem sit sine concursu quorumcumque graduum
+                  vel perfectionum essentialium distinctarum, sequitur quod a tali nullatenus
+                  provenit originaliter vel exemplative distinctio qualiscumque.</p>
+                <p xml:id="pcsc-l1q6-d1e912">[100] Octava conclusio est haec: omnes denominationes essentiales Deo
+                  correspondentes sunt rationum consimilium denominationum in creatura
+                  repraesentativae et similiter cognitivae. Haec conclusio sic probatur: quaecumque
+                  rationes se habent per modum exemplaris et artis respectu aliarum, illae sunt
+                  talium rationum repraesentativae et cognitivae; sed omnes rationes essentiales
+                  divinae se habent per modum exemplaris et artis respectu rationum essentialium
+                  consimilis denominationis in creatura; ergo propositum. Consequentia patet, et
+                  maior exemplifice declaratur: constat namque quod species existens in mente
+                  artificis ad formationem alicuius rei exterius est cognitiva et repraesentativa
+                  eiusdem, quia per ipsam artifex dirigitur in agendo tanquam per exemplar rei, et
+                  ita est in quibuscumque. Quare maior illa est vera. Et minor apparet, quoniam
+                  huiusmodi rationes sunt rerum ad extra formativae, ut patuit per sextam
+                  conclusionem. Quare propositum.</p>
+                <p xml:id="pcsc-l1q6-d1e915">[101] Praeterea, non minus repraesentatur effectus per causam quam causa per
+                  effectum; sed rationes essentiales Deo correspondentes sunt causae rationum
+                  consimilis denominationis in creatura, et tales repraesentant divinas
+                  perfectiones, sicut vestigium repraesentat illud cuius est vestigium; ergo a
+                  fortiori divinae perfectiones erunt talium rationum creabilium repraesentativae.
+                  Consequentia patet et maior ex hoc quoniam perfectius effectus continetur in causa
+                  quam e contra, et per consequens perfectior est ratio repraesentativa causae quam
+                  effectus. Et minor quo ad primam partem patet, cum tales rationes sint, ut iam
+                  dictum est, rerum omnium exemplariter formativae. Et quo ad secundam, quod
+                  creaturae tales repraesentant divinas perfectiones, apparet per <ref xml:id="pcsc-l1q6-Rd1e917" corresp="#pcsc-l1q6-Qd1e922">Linconiensem
+                  in De angelica [111va] hierarchia, capitulo 2</ref>, dicentem:
+                  <cit>
+                  <quote xml:id="pcsc-l1q6-Qd1e922">Omnis res vestigium aliquod sui conditoris habet sibi impressum, vel verius
+                    ipsa est tota creatoris vestigium. Et ideo non est aliqua res vacua ab
+                    enarratione conditoris</quote>
+                  <bibl>Robertus Grosseteste (not yet published)</bibl>
+                  </cit>
+                  . Quare propositum.</p>
+                <p xml:id="pcsc-l1q6-d1e930">[102] Praeterea, cognitio intuitiva et perfecta alicuius mensurae perfectionalis
+                  ducit intellectum in notitiam illius cuius est mensura; sed omnes rationes
+                  essentiales divinae sunt mensurae rationum consimilis denominationis in creatura;
+                  ergo intellectus divinus aspiciens tales rationes essentiales cognoscit rationes
+                  denominationis consimilis in creatura. Consequentia patet et maior ex hoc quoniam
+                  experimur quantitates rerum per ipsarum mensuras cognoscere. Et minor apparet,
+                  quoniam omnis creaturae perfectio mensuratur penes participationes perfectionis
+                  divinae consimilis denominationis, et per consequens tales denominationes
+                  essentiales sunt rerum ad extra mensurativae. Quare propositum.</p>
+                <p xml:id="pcsc-l1q6-d1e933">[103] Nona conclusio est haec: huiusmodi rationes essentiales a creatura
+                  participatae sunt rationes omnium rerum creabilium ideales. Ista conclusio sic
+                  probatur: illae sunt proprie rerum creabilium ideales rationes quibus conveniunt
+                  omnes condiciones idealium rationum; sed talibus rationibus essentialibus
+                  conveniunt omnes condiciones idealium rationum; ergo propositum. Consequentia et
+                  maior patent. Sed minor declaratur, nam, ut potest elici ex dictis
+                  <cit>
+                  <ref xml:id="pcsc-l1q6-Rd1e937" target="http://scta.info/resource/a83-q46">beati Augustini, LXXXIII
+                    quaestionum quaestione XLVI</ref>
+                  <bibl>Cf. Augustinus, <title>De diversis quaestionibus 83</title>, q. 46 (CCSL
+                    XLIVA, p. 71); cf. Guillelmus de Ockham, Scriptum in I, d. 35, q. 5 (edd.
+                    Etzkorn et Kelley, p. 494-95).</bibl>
+                  </cit>, tres sunt idearum condiciones principales ad quas omnes aliae reducuntur: prima,
+                  quod sint formae principales rerum omnium formativae; secunda, quod taliter sint
+                  principales quod nullatenus sint formatae; et tertia, quod sint stabiles et
+                  permanentes, invariabiles et aeternae; sed constat quod tales rationes essentiales
+                  sunt principales formae similiter a nullo formatae, et consimiliter incommutabiles
+                  et aeternae; ergo sunt propriissime ideae.</p>
+                <p xml:id="pcsc-l1q6-d1e948">[104] Ex quibus potest idea taliter describi: idea est divina essentialis ratio,
+                  forma principalis, a nullo formata, incommutabilis et aeterna, rei creabilis
+                  denominationis consimilis formativa, ipsius repraesentativa perfectissime, et
+                  eiusdem limpide cognitiva. Ista descriptio sequitur formaliter ex dictis Magistri
+                  Johannis et ex praedictis.</p>
+              </div>
+              <div xml:id="pcsc-l1q6-Dd1e952">
+                <head xml:id="pcsc-l1q6-Hd1e954"><supplied>quatuor propositiones correllariae</supplied></head>
+                <p xml:id="pcsc-l1q6-d1e958">[105] Ex qua descriptione sequuntur quatuor propositiones correllariae. Prima:
+                  divina essentia secundum nullam rationem suppositalem est creaturae formaliter
+                  ratio idealis � patet, quia nulla talis est formaliter ratio essentialis. Secunda:
+                  cuilibet creaturae secundum quodlibet positum esse essentiale correspondet in Deo
+                  idea exemplariter formativa � patet, quia secundum quodlibet tale esse
+                  correspondet Deo denominatio consimilis. Tertia: nulli creaturae secundum aliquam
+                  rationem incommunicabilem correspondet in arte divina ratio idealis � patet ex quo
+                  nulla talis est denominatio consimilis alicui rationi essentiali divinae. Quarta:
+                  nulla ratio carens simpliciter omni positiva condicione habet in Deo rationem
+                  aliquam idealem � patet ex quo talis non habet denominationem consimilem. Et sic
+                  apparet quid per <mentioned>ideam</mentioned> ista opinio imaginatur. [111vb]</p>
+                <p xml:id="pcsc-l1q6-d1e964">[106] Ex quibus propositionibus correllariis sequitur quod ista consequentia
+                  nulla est de forma: <mentioned>A Deus intelligit, ergo A habet in Deo rationem
+                  idealem</mentioned>. Patet quod antecedens est verum de rationibus
+                  incommunicabilibus et privationibus, et tamen consequens est falsum de eisdem,
+                  quia Deus intelligit peccatum Antichristi, et tamen tale non habet ideam. Sed
+                  qualiter intelligat talis posterius dicetur.</p>
+              </div>
+              <div xml:id="pcsc-l1q6-Dd1e972">
+                <head xml:id="pcsc-l1q6-Hd1e974"><supplied>Rationes contra sextam conclusionem Johannis de Ripa et earum
+                  solutiones</supplied></head>
+                <p xml:id="pcsc-l1q6-d1e978">[107: -92] Contra conclusionem sextam, quae dicit quod huiusmodi rationes
+                  essentiales sunt creaturarum omnium causaliter et exemplariter formativae, arguo
+                  breviter et faciam finem. Primo sic: si tales rationes essent causaliter et
+                  exemplariter formativae, sequitur quod tales rationes sunt causales, et per
+                  consequens frustra posita fuit in principio illa distinctio inter rationes
+                  essentiales et causales, cum quaelibet ratio essentialis sit causalis, ut dicit
+                  ista conclusio. Quare propositum.</p>
+                <p xml:id="pcsc-l1q6-d1e981">[108] Praeterea, nulla proprietas alicuius subiecti est formaliter illud
+                  subiectum; sed ratio causalis est quasi proprietas ipsius rationis essentialis;
+                  ergo nulla ratio causalis est ratio essentialis. Quare propositum.</p>
+                <p xml:id="pcsc-l1q6-d1e984">[109] Praeterea, si quaelibet ratio essentialis esset formaliter causalis,
+                  sequitur quod quaelibet creatura participans aliquam rationem essentialem
+                  participaret ipsum ut causalem. Consequentia patet, quia talis ratio per idem
+                  formaliter est ratio essentialis et causalis. Sed consequens est falsum, ergo et
+                  antecedens. Cuius falsitas sic probatur: quia tunc non staret aliquem participare
+                  vitam nisi posset producere vitam, quod falsum est de anima intellectiva, quae non
+                  potest similem vitam naturaliter producere. Et quod illud sequatur apparet,
+                  quoniam ex quo non stat aliquem participare divinam essentiam in ratione vitae
+                  quin illud sit vita, consimiliter non staret aliquem participare divinam essentiam
+                  ut rationem causalem vitae quin illud esset vitae causativum. Ergo, si talis ratio
+                  essentialis est formaliter causalis, sequitur quod non stat ipsam participari ut
+                  essentialem quin participetur ut causalis. Sed haec sunt falsa, ergo
+                  conclusio.</p>
+                <p xml:id="pcsc-l1q6-d1e987">[110] Ad istas rationes respondeo. Pro quarum responsione est advertendum, pro
+                  mente istius doctoris habenda, quod ratio causalis in triplici differentia
+                  reperitur: quaedam est exemplaris et formativa, quaedam formationis executiva, et
+                  quaedam executionis determinativa. Verbi gratia de prima, sicut est de sigillo
+                  respectu cerae quam format ad sui similitudinem, et si sigillum haberet istam
+                  formationem secundum totale esse cerae, poneret executive ceram in esse. Et sic
+                  apparet quod alia est ratio exemplaris et alia executiva. Ulterius, quia
+                  inveniuntur quandoque potentiae indifferentes ad agendum, ideo requiruntur quodam
+                  modo quaedam determinationes talium potentiarum, sicut sunt volitiones et
+                  nolitiones respectu voluntatis. Primae igitur rationes essentiales sunt causales
+                  tantum primo modo, et non secundo vel tertio modis. Sed secundae rationes causales
+                  pullulant a primis, non per modum originis, sed potius [112ra] naturalis
+                  proprietatis.</p>
+                <p xml:id="pcsc-l1q6-d1e991">[111: -107] Ad propositum igitur applicando, patet ad primum quod non frustra
+                  fuit posita distinctio, quia ibi intelligitur de rationibus causalibus executivis
+                  seu determinativis, et non de formativis.</p>
+                <p xml:id="pcsc-l1q6-d1e994">[112: -108] Et per idem ad secundum, quod sumendo rationem causative primo modo
+                  non dicitur proprietas rationis essentialis, sed secundo modo vel tertio.</p>
+                <p xml:id="pcsc-l1q6-d1e997">[113: -109] Ad tertiam rationem dico quod quaelibet creatura quae participat in
+                  Deo vitam eo modo participat ipsam ut rationem exemplarem vitae, et ita, sicut
+                  talis creatura est, ita <supplied>ponit</supplied>* [potest] ex parte sua aliquid
+                  exemplare in esse vitae. Sed ista non sufficit ad ponendum rem in esse nisi adsit
+                  alia causalitas, et ideo non oportet quod si aliqua creatura sit vita, quod eo
+                  ipso sit vitae productiva, sicut apparet in declaratione prius posita. Et sic
+                  patet conclusionis veritas.</p>
+              </div>
+              <div xml:id="pcsc-l1q6-Dd1e1004">
+                <head xml:id="pcsc-l1q6-Hd1e1006"><supplied>Conclusiones decima ad duodecimam</supplied></head>
+                <p xml:id="pcsc-l1q6-d1e1010">[114] Decima conclusio est haec: omnes rationes essentiales divinae
+                  correspondentes essentiae sunt a propriis rationibus causaliter executivis
+                  formaliter differentes. Verbi gratia, pro intellectu conclusionis, signo rationem
+                  essentialem in Deo, quae est vita, et similiter causaliter executivam, quae est
+                  esse vitae productivum. Dico quod huiusmodi sunt ab invicem formaliter
+                  differentes, ita quod esse vitam non est formaliter esse productivum vitae. Et
+                  sicut dico de una denominatione essentiali respectu propriae causaliter
+                  executivae, ita dico de quibuscumque aliis.</p>
+                <p xml:id="pcsc-l1q6-d1e1013">[115] Ista igitur conclusio sic intellecta probatur sic: si conclusio non sit
+                  vera, sequitur quod quaelibet creatura participans a Deo esse simpliciter
+                  participaret ab eodem esse productivum alterius. Consequens est falsum, ergo et
+                  antecedens, et per consequens conclusio vera. Cuius falsitas sic probatur: quoniam
+                  materia prima participat a Deo esse simpliciter, et tamen non participat esse
+                  productivum alterius, quia secundum omnes, materia prima est pure passiva.
+                  Similiter angelus et anima intellectiva participant esse intellectualis naturae,
+                  et tamen non participant esse productivum intellectualis naturae. Sic igitur
+                  apparet quod illud consequens est falsum. Sed consequentia probatur, nam
+                  quandocumque aliquae rationes sic se habent quod sunt eaedem non solum realiter,
+                  sed formaliter, non stat unam sine altera participari. Exemplum: quia ratio
+                  hominis et animalis rationalis sunt eaedem realiter et formaliter, ideo non stat
+                  aliquid esse hominem quin sit animal rationale. Si ergo per adversarium ratio
+                  essendi in Deo et esse productivum ad esse sint realiter et formaliter idem,
+                  sequitur quod non stat aliquam creaturam participare esse sine hoc quod participet
+                  rationem productivi ad esse, quod tamen, ut superius deductum est, est falsum.
+                  Quare propositum.</p>
+                <p xml:id="pcsc-l1q6-d1e1016">[116] Praeterea, in qualibet creatura est formalis distinctio inter suum esse et
+                  posse agere; sed omnis formalis distinctio diversarum rationum in creatura
+                  originaliter provenit ab aliqua distinctione in Deo; ergo conclusio vera.
+                  Consequentia patet, et prima pars assumpi probatur, quia in creaturis aliquid est
+                  vita quod non habet posse causale ad esse vitae, ergo videtur quod in creaturis
+                  non ex hoc quod aliquid est vita habet posse causale ad esse [112rb] vitae, et per
+                  consequens in eisdem unum non est formaliter aliud. Consequentia patet, et
+                  antecedens apparet de angelo et anima intellectiva, ut prius dictum est. Secunda
+                  pars assumpti probatur, nam omnis distinctio vel est simpliciter prima vel ad
+                  primam reducibilis sive a prima derivabilis; sed distinctio creaturarum talis non
+                  est distinctio simpliciter prima; ergo est a prima derivabilis. Vel igitur ab ea
+                  ut formaliter distinctio vel ab ea ut formaliter unitas. Non secundo modo, quia ut
+                  sic nullam habent convenientiam. Ergo primo modo, quod est propositum.</p>
+                <p xml:id="pcsc-l1q6-d1e1019">[117] Si dicatur quod istud argumentum probaret consimiliter quod distinctio
+                  realis creaturarum argueret distinctionem realem in Deo in quibuscumque
+                  denominationibus, nego istud, sed bene probatur quod oportet ibi ex natura rei
+                  distinctionem intelligere aliqualem. Et confirmatur, nam quandocumque aliquae
+                  rationes in sua communitate acceptae sunt distinctae formaliter, illae etiam in
+                  quibuscumque intelligantur sunt formaliter distinctae; nunc autem esse et habere
+                  posse causale ad esse sunt rationes formaliter distinctae; ergo sive in Deo sive
+                  in creatura semper ita est quod unum non est formaliter aliud. Et ita apparet quod
+                  universaliter in quibuscumque inter rationes essentiales et causaliter executivas
+                  formalis distinctio reperitur.</p>
+                <p xml:id="pcsc-l1q6-d1e1023">[118] Praeterea, si inter esse vitae vel simpliciter esse et posse causale ad
+                  esse vitae vel simpliciter esse nulla sit formalis distinctio, sequitur quod
+                  quaelibet species superior habet posse causale supra speciem inferiorem.
+                  Consequens est falsum, ergo et antecedens, et per consequens conclusio vera. Cuius
+                  consequentis falsitas sic probatur: quoniam tunc homo posset producere asinum, et
+                  similiter asinus bovem, quae videntur absurda, secundum legem a largitore formarum
+                  creaturis traditam. Sed consequentia probatur, nam si inter huiusmodi rationes
+                  nulla sit formalis distinctio, sequitur quod quanta est latitudo essendi, tanta
+                  est latitudo posse causalis ad esse, et per consequens quam species superior est
+                  speciei inferioris perfectionaliter contentiva, tam est eiusdem causaliter
+                  contentiva, et per consequens vere superior posset inferiorem producere, quod
+                  videtur absurdum. Et confirmatur, nam posse causale respectu alicuius plus distans
+                  a non-esse simpliciter respectu talis est eiusdem perfectionaliter et causaliter
+                  contentivum; sed datis speciebus inferiore et superiore, superior plus distat a
+                  non-esse simpliciter quam inferior, et per adversarium per idem talis species est
+                  formaliter in esse talis speciei et in posse causali executivo; ergo, sicut
+                  perfectionaliter continet inferiorem, ita et causaliter, quod videtur falsum, quia
+                  nihil aliud est causaliter aliud continere quam posse illud producere. Et hoc
+                  argumentum satis manifestat praedictam distinctionem.</p>
+                <p xml:id="pcsc-l1q6-d1e1026">[119] Undecima conclusio est haec: cuilibet rationi essentiali supremae naturae
+                  correspondenti infinitae correspondent rationes causaliter executivae secundum
+                  quas varie participabilis est ad extra. Verbi gratia, pro intellectu conclusionis,
+                  signata una ratione essentiali, ut pote vitae, licet Deo
+                  correspondea<supplied>n</supplied>t [112va] infinitae sine quacumque formali
+                  distinctione in tali denominatione, tamen creaturae multae non aequaliter
+                  participant vitam, et tamen talibus participationibus correspondent diversae
+                  causalitates, et ita cum unitate essentialis denominationis stat pluralitas
+                  causalium rationum.</p>
+                <p xml:id="pcsc-l1q6-d1e1032">[120] Ista igitur conclusio sic intellecta probatur sic: quibuscumque
+                  correspondet formaliter eadem ratio causalis et eadem formaliter ratio essentialis
+                  quo ad denominationem et quo ad gradum, illa necessario sunt eadem; sed signatis
+                  gradibus intensivis alicuius latitudinis, ut puta vitae, illi non sunt unus
+                  gradus, sed diversi; ergo necessario vel habent diversas rationes causales vel
+                  essentiales. Sed non essentiales, cum omnes participent rationem vitae. Ergo
+                  causales, et per consequens, cum infiniti sint gradus in latitudine vitae,
+                  sequitur quod infinitae erunt rationes causales eis correspondentes, et tamen ibi
+                  non est nisi respectu unius rationis essentialis. Quare propositum. Consequentia
+                  patet, et maior declaratur, nam quaero, unde provenit diversitas naturalis
+                  perfectionis in individuis eiusdem speciei, ut puta in anima Christi et anima
+                  Iudae, vel ex diversa participatione rationum essentialium vel causalium? Non
+                  essentialium, quia individua eiusdem speciei sic se habent quod non plures
+                  denominationes essentiales uni quam alteri correspondent. Ergo oportet dicere quod
+                  hoc proveniat ex diversitate rationum causalium. Ubi ergo non sit rationum
+                  causalium vel essentialium diversitas, ibi necessario est identitas, quod est
+                  propositum. Et per consequens apparet quod cum unitate rationis essentialis stat
+                  infinitas causalium rationum.</p>
+                <p xml:id="pcsc-l1q6-d1e1035">[121] Praeterea, signo A et B gradus in latitudine vitae, et quaero, aut eadem
+                  formali cognitione intellectus divinus videt A et B aut non? Si non, habetur
+                  propositum, cum huiusmodi variatio non proveniat ex parte rationum essentialium,
+                  cum sint una, sed per consequens causalium. Et sicut dicitur de A et B, et ita de
+                  quibuscumque aliis. Et ita infinitae rationes causales talibus gradibus
+                  correspondebunt. Si sic, sequitur quod respectu A et B est eadem formaliter
+                  apparentia obiectiva, ergo A non videtur distinctum a B. Et sicut arguitur de
+                  istis, ita de quibuscumque aliis. Et per consequens necessario alia est ratio
+                  obiectivae apparentiae de A quam de B. Sed hoc, ut prius dictum est, non provenit
+                  ex rationibus essentialibus, ergo ex rationibus causalibus. Et per consequens
+                  cuilibet rationi essentiali correspondent in divina essentia infinitae rationes
+                  causales, quod est propositum.</p>
+                <p xml:id="pcsc-l1q6-d1e1038">[122] Praeterea, signata quacumque denominatione essentiali, illa est ad extra
+                  participabilis citra primum; sed cuilibet alteri et alteri gradui correspondet
+                  alia et alia ratio causalis divina; ergo sequitur quod, cum in tali latitudine
+                  sint infiniti gradus, quod eis infinitae rationes causales correspondebunt. Et per
+                  consequens, cum omnibus talibus gradibus correspondeat eadem ratio essentialis
+                  [112vb], sequitur propositum. Consequentia patet. Et secunda pars assumpti,
+                  videlicet quod alii et alii gradui correspondet alia et alia ratio causalis, sic
+                  probatur: quoniam sit A ratio causalis, et sint B et C effectus. Tunc sic: si B et
+                  C sit praecise A ratio causalis, sequitur quod non posset produci C sine B. Quod
+                  sic probo: quoniam si A est, B est, et A est aeque ratio causalis C sicut B; ergo
+                  si A est, C est, et per consequens, si est eis una ratio causalis, non staret unum
+                  sine altero produci. Sed hoc est falsum. Ergo necesse est dicere quod ipsis
+                  diversae rationes causales correspondent. Et qua ratione dicitur de B et C, eadem
+                  ratione de quibuscumque, et ita habetur propositum.</p>
+                <p xml:id="pcsc-l1q6-d1e1041">[123] Unde advertendum est quod, quia in Deo esse vitae est unicus tantum gradus
+                  omnino indivisibilis imaginarie, et in creaturis est possibilis latitudo in esse
+                  vitae, ideo dico quod huiusmodi varietas non potest provenire ab aliqua
+                  distinctione in esse vitae in Deo, sed oportet quod proveniat aliunde. Et ideo
+                  oportet ponere alias rationes divinas secundum quas attendatur graduum huiusmodi
+                  distinctio, quas saepius nuncupavimus <quote xml:id="pcsc-l1q6-Qd1e1043">causales,</quote> quia ab
+                  essentialibus talis varietas non provenit, licet proveniant variae latitudines
+                  creaturarum. Unde ab esse in Deo simpliciter infinita profluit latitudo essendi
+                  simpliciter in creatura. Et sicut de similibus, ut quasi a rationibus
+                  essentialibus proveniant latitudines, et a causalibus graduales perfectiones.</p>
+                <p xml:id="pcsc-l1q6-d1e1048">[124] Ex qua conclusione sequuntur duae propositiones correllariae, quarum prima:
+                  cuilibet effectui cui aliqua ratio essentialis correspondet intrinsece in divina
+                  essentia, correspondet infinitas causalium rationum. Secunda: non est possibile
+                  aliquem effectum existere et non per infinitas rationes causaliter executivas.
+                  Istae patent diligenter inspicienti.</p>
+                <p xml:id="pcsc-l1q6-d1e1051">[125] Duodecima conclusio et finalis est haec: quilibet rationi causaliter
+                  executivae divinae correspondenti substantiae infinitae rationes causaliter
+                  determinativae intrinsece correspondent. Verbi gratia, pro intellectu
+                  conclusionis, sicut rationes causales executivae respectu essentialium rationum,
+                  ita rationes causaliter determinativae respectu rationum causalium executivarum.
+                  Unde sicut respectu unius rationis essentialis est infinitas rationum causalium
+                  executivarum, ita respectu unius rationis causalis executivae stat infinitas
+                  rationum causalium determinativarum.</p>
+                <p xml:id="pcsc-l1q6-d1e1054">[126] Ista igitur conclusio sic intellecta probatur sic: capio gratia exempli
+                  aliquid ad extra productum, quod sit A, et signo rationem eius causaliter
+                  executivam per B. Tunc conservet Deus A per horam. Tunc arguo sic: A erit per
+                  totam istam horam, ergo aliqua est ratio determinans A in prima parte istius horae
+                  vel A est sibi ipsi sufficiens ad esse. Non est dicendum secundum, videlicet quod
+                  A sit sibi ipsi sufficines ad esse, ex quo est quid creatum. Ergo dandum est
+                  primum, videlicet [113ra] quod aliqua est ratio determinans A ad esse in prima
+                  parte istius horae. Quaero ergo, cum illa sit ratio causalis, vel est ratio
+                  executiva vel determinativa? Non est dandum primum, videlicet quod sit B, quia per
+                  B non plus determinatur A ad esse in prima parte huius horae quam in secunda. Ergo
+                  vel in nulla determinatur per B vel in qualibet. Sed non in qualibet. Ergo nec in
+                  aliqua. Quod non in qualibet probatur, nam si A non duraret nisi per instans, non
+                  minus esset B ratio causalis executiva A quam nunc est. Ergo per B non habet
+                  formaliter ut sit in uno tempore magis quam in alio. Ergo oportet quod hoc sit per
+                  aliquam determinationem voluntatis divinae. Sed determinatio quae est respectu A
+                  ad esse in uno instanti non est eadem formaliter cum illa quae est respectu
+                  alterius instantis. Ergo, cum infinita sint instantia, sequitur quod infinitae
+                  erunt huiusmodi determinationes, et tamen respectu unius causalitatis executivae.
+                  Quare propositum. Quod autem determinatio respectu A ad esse pro uno instanti non
+                  sit formaliter determinatio respectu alterius instantis probatur sic: quoniam si
+                  esset eadem determinatio respectu diversorum instantium, Deus non posset
+                  conservare A in uno illorum instantium nisi conservaret in alio, quia conservando
+                  A in uno instanti ponitur determinatio divinae voluntatis respectu illius
+                  instantis, et eadem est determinatio formaliter respectu alterius. Ergo, posito
+                  quod velit conservare A per unum instans, conservabit illud necessario per tempus,
+                  quod videtur falsum. Ergo necessario alia et alia determinatio respectu A in tali
+                  instanti vel tali continue correspondet, et per consequens cum unitate unius
+                  rationis causalis stat infinitas alterius.</p>
+                <p xml:id="pcsc-l1q6-d1e1057">[127] Praeterea, si Deus in prima parte proportionali istius horae conservaret A,
+                  et in secunda destrueret, et sic consequenter, certum est quod esset eadem ratio
+                  causalis executiva continue respectu A, et tamen non eadem determinatio
+                  formaliter; sed cuilibet parti sua determinatio formaliter corresponderet; ergo
+                  cum unitate rationis causalis executivae stat infinitas rationum causalium
+                  determinativarum. Consequentia patet, et minor apparet, quoniam determinatio pro
+                  prima parte staret, quamvis non pro secunda, ergo videtur formaliter alia et alia,
+                  et per consequens propositum. Et consequentia ista patet: ex quo stat unum
+                  formaliter sine alio, non videtur inter ipsa formalis identitas.</p>
+                <p xml:id="pcsc-l1q6-d1e1060">[128] Praeterea, si Deus produceret unum corpus in quolibet loco multiplicative,
+                  ibi non esset nisi una causalis ratio executiva, et tamen infinitae
+                  determinationes ad infinita ubi; ergo propositum. Consequentia patet, et
+                  antecedens apparet, nam sicut superius arguebam de tempore, ita hic arguam de
+                  loco, quia corpus datum sic est ad unum locum [113rb] determinatum quod, nisi sit
+                  alia determinatio determinans ipsum ad alium locum, non esset in alio loco, cum
+                  hoc a se non habeat. Et per consequens quot erunt loca distincta realiter, tot
+                  erunt determinationes distinctae formaliter. Ex quibus patet veritas praemissae
+                  conclusionis.</p>
+              </div>
+              <div xml:id="pcsc-l1q6-Dd1e1064">
+                <head xml:id="pcsc-l1q6-Hd1e1066"><supplied>Rationes contra conclusiones 10am ad 12am Johannis de Ripa et
+                  solutiones earum</supplied></head>
+                <p xml:id="pcsc-l1q6-d1e1070">[129: -114/128] Sed contra istas conclusiones arguo breviter pro ipsarum maiori
+                  declaratione. Si respectu cuiuslibet effectus essent tot rationes causales,
+                  sequitur quod nulla illarum est sufficiens ad esse talis effectus, vel si aliqua
+                  una est sufficiens, ceterae superfluunt. Quod autem sequatur sic probo: nam signo
+                  tres tales rationes causales, quae sint A, B, C. Constat quod nec A sufficit ad
+                  talem effectum, nec B similiter, nec C similiter. Ergo sequitur quod nulla illarum
+                  est sufficiens, quod est propositum.</p>
+                <p xml:id="pcsc-l1q6-d1e1073">[130] Praeterea, si sunt infinitae rationes causales, quaero, numquid Deus possit
+                  se applicare ad agendum secundum unam tantum vel non? Si sic, tunc arguo sic: ex
+                  tali applicatione ponitur aliquis effectus; sed talis participat aliquam rationem
+                  essentialem, et cuilibet tali rationi correspondent infinitae rationes causales;
+                  ergo non tantum per unicam rationem causalem produxit. Si dicatur quod non potest,
+                  ergo sequitur quod omnes requiruntur ad productionem alicuius effectus, immo
+                  cuiuscumque tam parvi quam magni. Et per consequens ratio causalis in esse vitae
+                  requiritur ad productionem lapidis, et ita lapis esset vita sicut unum animal,
+                  quod falsum videtur. Ergo, cum productum per unam rationem causalem tantum non
+                  possit salvari, nec per consequens sequitur quod ponere plures tales rationes est
+                  impossibile.</p>
+                <p xml:id="pcsc-l1q6-d1e1076">[131] Praeterea, ex praedictis conclusionibus sequitur quod nulla est ratio
+                  causalis respectu cuiuslibet creaturae. Consequens videtur falsum, quia omnis
+                  causalitas per participationem reducitur ad aliquam per essentiam, ergo oportet
+                  quod sit una causalis ratio ad quam omnes aliae reducantur, quia in omni genere
+                  est devenire ad unum quod est metrum et mensura omnium aliorum. Sed consequentia
+                  probatur, quoniam capta ratione causali in esse vitae, illa non est respectu
+                  omnium, nec simpliciter respectu rationis essendi tantum, et sic de quibuscumque
+                  aliis. Ergo, cum hoc videatur impossibile, sequitur quod necessario oportet ponere
+                  unam rationem causalem respectu omnium, et per consequens aliae superfluunt.</p>
+                <p xml:id="pcsc-l1q6-d1e1079">[132: -129] Ad istas rationes respondeo. Et primo ad primam, cum dicitur quod, si
+                  ponantur tot rationes causales, quod nulla illarum est sufficiens ad productionem
+                  alicuius effectus, vel si sit, ceterae superfluunt, hic dico, pro materia
+                  argumenti, secundum viam istius doctoris, quod, quia in quolibet effectu
+                  necessario concurrunt plures rationes essentiales, et cuilibet tali correspondent
+                  diversae rationes causales, ideo dico quod nulla est una ratio causalis cui
+                  conveniat totalis productio [113va] talis effectus. Si ergo per hoc quod dicitur
+                  <quote xml:id="pcsc-l1q6-Qd1e1081">non est sufficiens</quote> intelligatur quod uni tali rationi causali non
+                  attribuitur totalis effectus productio, utique verum est, licet sit plene et
+                  infinite sufficiens ad productionem illius cuius productio sibi attribuitur. Et
+                  hoc intelligendo formaliter, quia realiter non est in Deo nisi una ratio
+                  causalis.</p>
+                <p xml:id="pcsc-l1q6-d1e1086">[133: -130] Ad secundum, cum dicitur, <quote xml:id="pcsc-l1q6-Qd1e1088">si sunt infinitae rationes causales,
+                  vel Deus potest producere aliquid secundum unam tantum formaliter,</quote> hic
+                  dico quod necessario respectu cuiuslibet effectus concurret Deus secundum
+                  infinitas rationes causales, si concurrit, ut sic necessitas consequentiae
+                  concurrit in A effectum. Ergo concurrit in eundem secundum infinitas rationes
+                  causales. Et cum dicitur quod tunc in productione lapidis requireretur ratio
+                  causalis in esse vitae, hic dico quod hoc non sequitur, sed ista stant simul: quod
+                  respectu lapidis requiruntur infinitae rationes causales, et tamen non requiritur
+                  formaliter ratio causalis in esse vitae. Et ratio est quia respectu cuiuslibet
+                  denominationis essentialis sunt infinitae rationes causales, non tamen
+                  essentiales. Et ideo, licet requirantur infinitae quo ad esse simpliciter, non
+                  tamen requiritur aliqua quo ad esse vitae, cum tale productum in casu nullatenus
+                  participet vitam. Et ratio est quia quodcumque ens detur per aliquam latitudinem
+                  distat a non-esse simpliciter. Et per consequens, cum ibi sint infiniti gradus et
+                  respectu cuiuslibet � ut dictum est superius � est una ratio causalis distincta ab
+                  alia, sequitur quod respectu cuiuslibet sunt formaliter infinitae rationes
+                  causales.</p>
+                <p xml:id="pcsc-l1q6-d1e1092">[134: -131] Ad tertium, cum dicitur quod tunc sequeretur quod nulla esset ratio
+                  causalis divina respectu cuiuslibet effectus, dico quod, loquendo de ratione
+                  causali formaliter secundum viam istius doctoris, utique verum est, quia quacumque
+                  signata, talem non participat quaelibet creatura. Unde logice loquendo concedendum
+                  est, quia respectu cuiuslibet effectus est aliqua ratio causalis divina, nulla
+                  tamen est respectu cuiuslibet. Et si dicatur quod tunc quaelibet esset finita,
+                  dico quod non sequitur, sed bene sequitur quod est respectu finiti. Sed ex hoc non
+                  habetur propositum, cum infinitum possit esse ratio finiti, sicut nunc dicimus
+                  sumendo realiter rationem causalem divinam, quae potest aliquid finitum producere,
+                  et tamen ex hoc non arguitur finita, cum finitum possit infinite producere. Et sic
+                  apparet quid est ad illas rationes dicendum.</p>
+              </div>
+              <div xml:id="pcsc-l1q6-Dd1e1096">
+                <head xml:id="pcsc-l1q6-Hd1e1098"><supplied>Imaginatio totius positionis Johannis de Ripa</supplied></head>
+                <p xml:id="pcsc-l1q6-d1e1102">[135] Imaginatio ergo totius positionis per modum epilogi recollecta in hoc
+                  consistit: intellectus inamque corpori alligatus a visibilibus ad Dei invisibilia
+                  procedit, iuxta dictum Apostoli: <quote xml:id="pcsc-l1q6-Qd1e1104">Invisibilia Dei a creatura mundi per ea
+                  quae facta sunt intellecta conspiciuntur.</quote> Unde, quia in creaturis reperit
+                  distinctionem multiplicem et non primariam, ideo ipsam ad invisibilia Dei reducit,
+                  quae, quia non potest bono modo realis intelligi, [113vb] ab elevatis theologis
+                  fuit <mentioned>formalis distinctio</mentioned> merito appellata. Et idcirco,
+                  infinitarum essentialium rationum in Deo fuit locata pluralitas, quae sunt
+                  denominationum consimilium in creaturis perfectionaliter contentivae. Et quia
+                  ipsas reperit intellectus infinitas simpliciter, ideo ipsis attribuit condiciones
+                  perfectionis, ut pote formare, repraesentare, et esse rationem cognoscendi. Ex
+                  quibus illative <mentioned>ideales formas</mentioned> voluit appellare. Et quia
+                  rerum incommunicabiles rationes non poterant per modum idealem intelligi in
+                  supersimplici substantia Conditoris, quia sic esset quodam modo ut bos vel asinus
+                  effigiata, ideo advertit alias rationes divinas a primis per modum proprietatis
+                  intrinsecae naturaliter pullulantes, quas <mentioned>causales</mentioned> censuit
+                  nominare, per quas rerum incommunicabiles existentiae sunt derivabiles et certis
+                  limitibus circumclusae. Et quia hoc videt intellectus infinitis modis posse fieri,
+                  animadvertit ipsas sub certo finito numero minime contineri. Cumque conspiciat
+                  tripliciter effectum fieri � videlicet exemplative quo ad rationes essentiales,
+                  executive quo ad gradus varios in rationibus essentialibus participabiles, et
+                  determinative quo ad talium continuam conservationem � ideo causales rationes
+                  tripliciter nominavit: formativas videlicet, executivas, et determinativas. Nunc
+                  autem, quia omnes istae rationes sunt in arte Omnipotentis Artificis, ideo
+                  clarissime conspicit omnem rei circumstantiam essentialem vel incommunicabilem, et
+                  si non tales singulas per ideas proprias, cum non habeant, tamen per rationes
+                  determinativas cuncta alia circumspicit limpide vel per rationes causaliter
+                  executivas. Et ista credo fuisse imaginationem huius doctoris, cuius speculatio
+                  sufficiat pro praesenti.</p>
+              </div>
+            </div>
+          </div>
+          <div xml:id="pcsc-l1q6-Dd1e1120">
+            <head xml:id="pcsc-l1q6-Hd1e1122"><supplied>PARS QUARTA</supplied></head>
+            <div xml:id="pcsc-l1q6-Dd1e1126">
+              <head xml:id="pcsc-l1q6-Hd1e1128"><supplied>Opinio negantium multitudinem idealium rationum</supplied></head>
+              <p xml:id="pcsc-l1q6-d1e1132">[136] Nunc restat materiam idealium rationum discutere secundum opinionem negantium
+                talium multitudinem ex natura rei. Pro cuius opinionis declaratione quatuor pono
+                conclusiones.</p>
+            </div>
+            <div xml:id="pcsc-l1q6-Dd1e1136">
+              <head xml:id="pcsc-l1q6-Hd1e1138"><supplied>quatuor conclusiones declarativae</supplied></head>
+              <p xml:id="pcsc-l1q6-d1e1142">[137] Quarum prima sit ista: non est impossibile aliquam formam per unicam rationem
+                simplicissimam formare distinctam similitudinem infinitarum dissimilium quidditatum.
+                Ista conclusio sic probatur: si una et eadem similitudo potest esse duorum magis
+                repugnantium distincta similitudo, sequitur quod a fortiori potest esse quorumcumque
+                minus repugnantium distincta similitudo; sed magis repugnant similitudinarie � hoc
+                est magis sunt dissimiles � una substantia et una qualitas quam quaecumque duae
+                finitae substantiae, immo quam infinitae substantiae eiusdem speciei; ergo, si una
+                similitudo potest esse qualitatis et substantiae distincta similitudo, sequitur quod
+                a fortiori potest esse infinitarum substantiarum eiusdem rationis. Consequentia ista
+                patet, et maior declaratur, nam si magis dissimilium potest esse una similitudo
+                distincta, non videtur [114ra] quare non possit esse minus dissimilium, cum
+                potissima ratio quare unum et idem non potest esse diversorum distincta similitudo
+                assignetur contrarietas obiectorum. Et minor apparet: quaecumque minus uniuntur in
+                tertio sunt magis dissimilia; sed substantia et qualitas minus uniuntur in tertio
+                quam infinitae substantiae eiusdem rationis, quoniam substantia et qualitas uniuntur
+                praecise in ratione transcendentis, sed illae substantiae non solum in ratione
+                transcendentis, sed etiam in ratione sua specifica, et similiter in ratione sui
+                gradus; ergo substantia et qualitas sunt magis dissimiles quam infinitae substantiae
+                eiusdem rationis. Et tunc ultra: una et eadem similitudo est qualitatis et
+                substantiae distincta similitudo, ergo a fortiori potest esse infinitarum
+                substantiarum. Consequentia patet per iam dicta, et antecedens apparet, nam signo
+                similitudinem repraesentantem Sortem distincte. Constat quod, cum hoc quod est
+                Sortis distincta similitudo, est etiam sui ipsius distincta similitudo; sed ipsa est
+                quaedam qualitas vel ad minus aliquid de genere accidentis; ergo sequitur quod est
+                qualitatis et substantiae distincta similitudo, et per consequens a fortiori
+                sequitur quod quaerebatur.</p>
+              <p xml:id="pcsc-l1q6-d1e1145">[138] Praeterea, si non potest una et eadem similitudo distincta fore infinitorum
+                dissimilium, aut hoc provenit ex parte obiectorum aut ex parte similitudinis. Non
+                primo modo, quia illa impossibilitas maxime videretur provenire ex talium
+                contrarietate, quod iam probatum est istud non impedire. Si ex parte similitudinis,
+                hoc non videtur nisi propter limitationem talis similitudinis quae, cum sit finita,
+                non poterit esse infinitorum. Sed istud non tollit quin ubi esset infinitas
+                repraesentativi quod tale esset infinitorum distincta similitudo, et per consequens
+                similitudini ex se non repugnat quod sit infinitorum. Ergo ubi certa finita qualitas
+                est similitudo quod non sit infinitorum, hoc non esset quod similitudini repugnaret,
+                sed tali naturae. Sed quod finitae naturae hoc non repugnat arguo sic: quaelibet
+                species superior continet eminenter inferiorem, et cum nulla sit minima descendendo,
+                sequitur quod continet eminenter infinitas; sed quaecumque distincta similitudo
+                assignetur respectu alicuius contenti sub tali specie aeque distincte, illud idem
+                est repraesentabile per superiorem speciem; ergo sequitur quod species superior est
+                distincta similitudo infinitorum, et tamen est finita. Quare propositum. Si dicatur
+                quod, licet hoc sit verum, non tamen per unicam rationem, contra: ratio sua
+                specifica sive individualis est unica ratio et non plures; sed per suam rationem
+                specificam est cuiuslibet citra se contentivum; ergo et similiter repraesentativum,
+                et per consequens non videtur repugnantia quin unum finitum possit esse infinitorum
+                distincte repraesentativum.</p>
+              <p xml:id="pcsc-l1q6-d1e1148">[139] Praeterea, signo per imaginationem aliquam rationem in Deo tam realiter quam
+                formaliter sic unam quod in eius ratione [114rb] nulla alia ratio includatur, ut
+                pote rationem vitae. Et sit A. Tunc quaero, numquid A sit infinitorum
+                repraesentativa vel non? Si sic, habetur propositum. Si non, contra: omnium illorum
+                est distincte repraesentativa quorum est eminenter contentiva; sed infinitorum est
+                eminenter contentiva; ergo et totidem est repraesentativa. Consequentia et maior
+                patent. Et minor apparet, quia si per possibile Deus produceret aliquod ens cui
+                corresponderet tota latitudo imaginaria talis rationis, adhuc illud eminenter
+                contineretur per talem rationem Deo correspondentem; sed tali corresponderent
+                infiniti gradus, quorum unus esset perfectior alio; ergo sequitur quod talis ratio
+                in Deo est infinitorum contentiva.</p>
+              <p xml:id="pcsc-l1q6-d1e1151">[140] Praeterea, quilibet effectus est distincta similitudo suae causae secundum
+                illam rationem secundum quam sortitur rationem effectus. Sed si esset processus in
+                infinitum in causis essentialiter ordinatis, ut quidam imaginantur esse possibile
+                nec aliquam contradictionem includens, sequitur quod absolute possibile est aliquid
+                finitum esse infinitorum distinctam similitudinem. Sed probo tunc quod hoc esset per
+                unicam rationem, nam quaelibet ratio � sive simplex sive non simplex � huic effectui
+                propria est dependens a talibus causis infinitis; ergo, si effectus est suae causae
+                distincta similitudo, et non sit maior ratio de una causa quam de reliqua, sequitur
+                quod est infinitorum distincta similitudo. Quod autem effectus sit suae causae
+                distincta similitudo probo, nam quicumque distincte cognoscit aliquem effectum et
+                perfecte sicut talis effectus est cognoscibilis, cognoscit distincte omnes
+                condiciones talis effectus, et per consequens tam causas extrinsecas quam
+                intrinsecas, et hoc non esset nisi per hoc quod effectus sic ex parte sua distincte
+                representaret. Ergo nunc de facto sic videtur quod quilibet effectus est suae causae
+                naturalis similitudo, et per consequens non videtur impossibile quin unica possit
+                esse infinitorum dissimilium distincta similitudo.</p>
+              <p xml:id="pcsc-l1q6-d1e1155">[141] Praeterea, quaero, a quo capit res quod sit alicuius similitudo distincta?
+                Aut ab obiecto, aut a potentia, aut a medio differente. Non a medio, nec a potentia,
+                ut apparet. A medio quidem non, quia iam talis similitudo est causata. A potentia
+                similiter non, cum sit pure passiva in speciei receptione. Si ergo ab obiecto, et
+                non capit istam condicionem ab obiecto nisi in genere causae efficientis, sequitur
+                quod possibile est Deum supplere causalitatem talis obiecti. Et sicut dico de uno
+                obiecto, ita dicam de centum vel infinitis. Signo ergo duas tales similitudines
+                distinctas, quae sint A et B. Tunc arguo sic: si esset una similitudo eminenter
+                continens rationem repraesentativam A et B, ita distincte repraesentaret diversa
+                sicut nunc faciunt A et B; sed talem esse non includit contradictionem; ergo Deus
+                potest [114va] facere talem, et per consequens non videtur aliquod impossibile quod
+                una species sit infinitorum distincta similitudo. Quare propositum.</p>
+              <p xml:id="pcsc-l1q6-d1e1158">[142] Secunda conclusio est haec: quaecumque res existit rei alterius eminenter
+                contentiva est ipsius species et similitudo distincte declarativa. Haec conclusio
+                sic probatur: illud est perfectius rem aliquam repraesentans quantum est ex parte
+                sui quod habet in maiorem convenientiam cum re repraesentata quam illud quod non;
+                sed species causata ad obiecto et res contentiva obiecti repraesentati per talem
+                speciem sic se habent quod magis ad invicem conveniunt talis res et tale obiectum
+                quam tale obiectum cum tali specie; ergo sequitur quod talis res ex parte sua est
+                perfectius repraesentativum quam talis species respectu sui obiecti. Si ergo
+                huiusmodi species ab obiecto causata iudicatur similitudo distincte declarativa
+                talis obiecti, ergo a fortiori talis res sic continens talis obiecti perfectior.
+                Consequentia patet, et maior declaratur, quia similitudo sive species vel habet ut
+                sit similitudo distincta talis obiecti ex condicione intrinseca sibi
+                perfectionaliter conveniente vel extrinsece. Si extrinsece, ita unum potest esse
+                similitudo distincta sicut aliud. Si vero primo modo, adhuc habetur propositum, cum
+                illud proveniat ex perfectione. Ergo, cum alia res sit perfectior, sequitur quod et
+                perfectius est repraesentativa. Et minor apparet, quia quaecumque duae substantiae
+                magis conveniunt quam substantia quaecumque signata cum aliquo accidente. Quare
+                propositum.</p>
+              <p xml:id="pcsc-l1q6-d1e1161">[143] Praeterea, species se habent sicut numeri; sed denarius perfectius
+                repraesenant quinarium quam eundem repraesentet quaternarius; ergo si quaternarius
+                esset distincta similitudo quinarii, a fortiori et denarius. Et per consequens ubi
+                contentum esset distincte repraesentativum sui continentis, sequitur quod a fortiori
+                ibi continens erit distincte repraesentativum sui contenti. Sed de facto ita est
+                quod similitudo rei ad ipsa causata est quid contentum ab ipsa re cum esse, et
+                perfectio talis similitudinis mensuratur penes tale obiectum, et talis est distincta
+                similitudo; ergo a fortiori erit similitudo res perfectionaliter continens tale
+                obiectum. Quare propositum.</p>
+              <p xml:id="pcsc-l1q6-d1e1164">[144] Praeterea, quaecumque res est alicuius rei eminenter contentiva est ipsius
+                perfectionalis mensura; sed quaelibet perfectionalis mensura nata est ducere
+                intellectum in cognitionem illius cuius est mensura; ergo quaelibet talis est sui
+                contenti distincte repraesentativa. Consequentia patet, et prima pars assumpti
+                apparet, quoniam species superior est perfectionalis mensura inferioris. Et minor
+                probatur, quoniam si mensuratum ducit in cognitionem suam mensuram, non videtur
+                ratio quare non e converso. Unde si quis videret obiectum, immediate videret speciem
+                causatam ab obiecto, et per consequens ita obiectum est speciei repraesentativum
+                sicut e contra. Et per hoc apparet quod videns perfecte causam videt eius
+                ef[114vb]fectum, iuxta <ref xml:id="pcsc-l1q6-Rd1e1166" corresp="#pcsc-l1q6-Qd1e1171">illud I Physicorum</ref>:
+                <cit>
+                <quote xml:id="pcsc-l1q6-Qd1e1171">Tunc arbitramur unumquodque cognoscere</quote>
+                <bibl>Aristoteles, <title>Physica</title> I:1 (184a12; AL VII:1, p. 7).</bibl>
+                </cit>
+                 etc. Quare propositum.</p>
+              <p xml:id="pcsc-l1q6-d1e1182">[145] Tertia conclusio est haec:<!--<a href="#_ftn21" name="_ftnref21">{21}</a>-->
+                divina essentia secundum unicam rationem simplicissimam est repraesentativa
+                perfectissime cuiuslibet actualiter vel possibiliter existentis. Ista conclusio sic
+                probatur: divina essentia est exemplar et distincta similitudo omnium, quoniam ex
+                prima conclusione non repugnat finitae qualitati esse dissimilium repraesentativa,
+                ergo a fortiori nec divinae essentiae. Et similiter, cum sit omnium aliorum a se
+                perfectionaliter contentiva, sequitur quod est omnium distincta similitudo. Vel
+                igitur per unicam rationem vel per plures. Si per unicam, habetur propositum. Si per
+                plures, ergo sequitur quod divinae essentiae non primo et per se competit quod sit
+                hominis exemplar. Sed hoc est falsum, ergo. Cuius falsitas sic probatur: quoniam per
+                id est hominis exemplar per quod est ipsius beatificativum; sed per rationem
+                deitatis solum est hominis beatificativa; ergo propositum. Et consequentia probatur,
+                nam si per plures rationes est rerum exemplar, signo unam illarum rationum, et arguo
+                sic: Deus per talem rationem est exemplar, et talis non est formaliter ratio
+                deitatis, ergo sequitur quod deitati non competit primo et per se esse formam
+                exemplarem hominis. Et sicut dico de homine, ita potest argui de quocumque alio.
+                Quare propositum.</p>
+              <p xml:id="pcsc-l1q6-d1e1187">[146] Praeterea, aut divina essentia per rationem deitatis est omnium similitudo
+                aut non. Et si non, aut aliquorum sic et aliquorum non, aut simpliciter nullorum. Si
+                simpliciter nullorum, sequitur quod non quodlibet alterius perfectionaliter
+                contentivum est eiusdem repraesentativum, quod est contra praecedentem conclusionem.
+                Si aliquorum sic et aliquorum non, tunc ratio deitatis non esset ratio universaliter
+                perfecta, quod falsum est. Ergo necessario per sufficientem divisionem sequitur quod
+                est omnium perfectissima et distincta similitudo. Quare propositum. Ut sic possit
+                ratio confirmari: quaelibet ratio cui primo et per se competit omnis denominatio
+                perfectionis simpliciter est ratio deitatis; sed esse omnium a se repraesentativum
+                est denominatio perfectionis simpliciter; ergo competit primo et per se rationi
+                deitatis, et per consequens propositum.</p>
+              <p xml:id="pcsc-l1q6-d1e1191">[147] Praeterea, si divina essentia non esset primo et per se talis ratio
+                exemplaris, sed aliae rationes, aut illae rationes essent divinae essentiae
+                intrinsecae aut extrinsecae. Non extrinsecae, quia tunc per aliquid sibi extrinsecum
+                esset creaturarum repraesentativa, quod videtur absurdum. Si ergo sunt sibi
+                intrinsecae, et nulla illarum est formaliter ratio deitatis, sequitur quod esse
+                formam exemplarem non competit Deo formaliter, et per consequens eadem ratione nec
+                esse causam effectivam, et eadem ratione nec esse causam finalem. Quae omnia
+                videntur absurda, [115ra] nam per eandem rationem est exemplar et finis rei. Si ergo
+                talis ratio non est formaliter deitas, sequitur quod finis talis rei non est
+                formaliter bonum universaliter perfectum, et per consequens nec creatura rationalis
+                beatificaretur in bono universaliter perfecto, quod videtur absurdum. Quare etc.</p>
+              <p xml:id="pcsc-l1q6-d1e1194">[148] Quarta conclusio et finalis et sequens ex praemissis est ista: cum infinita
+                idealium multitudine stat idealis formae omnimoda unitas indistincta. Haec conclusio
+                patet, nam ex prima conclusione non est repugnantia sic esse, et ex secunda apparet
+                quod res eminenter alterius contentiva est eius repraesentativa. Et per consequens,
+                cum sit unica res omnium contentiva, sequitur propositum. Et similiter apparet ex
+                tertia conclusione. Et potest aliter sic probari: frustra multitudo ponitur ubi
+                unitas est sufficiens; sed una forma exemplaris sufficit ad omnes condiciones quae
+                requiruntur in forma exemplari; ergo in Deo plures tales ponere superfluum est et
+                vanum. Consequentia et maior patent. Declaro minorem, nam quinque condiciones
+                assignantur in ratione idealis formae, quae minus competunt uni soli quam pluribus,
+                videlicet quod sit forma principalis a nullo formata, quod sit repraesentativa, et
+                repraesentati contentiva, aeterna et incommutabilis, et ratio cognitiva; sed constat
+                quod omnes istae condiciones possunt salvari de ipsa deitate sine quacumque
+                distinctione formali in ea; ergo sic ponere est de facto consonum rationi. Quare
+                propositum.</p>
+              <p xml:id="pcsc-l1q6-d1e1197">[149] Unde advertendum est quod iste terminus <mentioned>idea</mentioned> potest
+                sumi dupliciter: uno modo communiter, et sic idem est quod species sive proprietas
+                seu similitudo, et sic quot essent similitudines, tot essent ideae. Alio modo
+                sumitur proprie pro rei perfectissima possibili similitudine, et sic dicitur solum
+                de Deo. De primo modo non est theologorum speculatio, sed de secundo. Unde ille
+                terminus secundo modo acceptus potest sic describi: idea est quarumlibet
+                quidditatum, similium vel dissimilium, possibilium vel existentium, contentiva
+                simpliciter perfectionaliter et ipsa cognitiva atque repraesentativa ratio
+                supersimplex et prima.</p>
+              <p xml:id="pcsc-l1q6-d1e1203">[150] Imaginatio ergo istius positionis consistit in hoc: sicut recolo
+                <cit>
+                <ref xml:id="pcsc-l1q6-Rd1e1207">alias me dixisse de Dei infinitate</ref>
+                <bibl>Hic supra</bibl>
+                </cit>
+                , quae non est per modum individui, speciei, vel gradus, sed per modum cuiusdam
+                transcendentis, ita dicerem in proposito quod est aliqua similitudo quae sic est
+                repraesentativa istius quod non alterius, et est alia quae repraesentat tantum res
+                consimilis speciei et alia generalis. Sed istae duae naturaliter sunt cognitiones
+                confusae. Si ergo imaginaremur unam similitudinem quae haberet repraesentationem per
+                modum transcendentis quo ad communitatem, et cum hoc distinctam repraesentationem
+                quae sumitur a similitudine invididuali, sic possumus intelligere qualis est
+                similitudo divina respectu<!--<a href="#_ftn23" name="_ftnref23">{23}</a>-->
+                creaturarum. Unde cognitio confusa est [115rb] multorum confuse, sed distincta est
+                unius tantum distincte. Quod ergo sit multorum perfectionis est, sed imperfectionis
+                quod sit confusa. Similiter, quod solum sit unius imperfectionis videtur, quod vero
+                distincta perfectionis est. Amoveamus ergo quod imperfectionis est, retinendo quod
+                perfectionis, sic remanebit similitudo multorum distincta et propria. Et isto modo,
+                sine quacumque reali vel formali distinctione, Deus intelligatur perfectissima
+                similitudo cuiuslibet rei.</p>
+              <p xml:id="pcsc-l1q6-d1e1217">[151] Unde ex ista positione sequitur manifeste quod idea non est creatura, ut
+                docet Ockham; nec relationes reales importantes respectum ad creaturas, ut dicit
+                <cit>
+                <ref xml:id="pcsc-l1q6-Rd1e1221"><name>Gandavus</name></ref>
+                <bibl>Cf. Henricus de Gandavo, <title>Quodlibet</title> IX, q. 2.</bibl>
+                </cit>
+                ; nec obiecta cognita, ut dicit Scotus; nec tales denominationes essentiales, ut
+                dicit <name>Magister Johannes</name>. Sed est ipsa deitatis ratio omnimode
+                indistincta. Sed ista opinio inter omnes rationabilior mihi videtur.</p>
+            </div>
+            <div xml:id="pcsc-l1q6-Dd1e1237">
+              <head xml:id="pcsc-l1q6-Hd1e1239"><supplied>Rationes contra opinionem negantium multitudinem idearum et solutiones
+                illarum</supplied></head>
+              <p xml:id="pcsc-l1q6-d1e1243">[152: -137] Contra tamen istas conclusiones arguo breviter, ut ipsarum veritas
+                magis appareat ex solutionibus rationum. Arguo igitur contra primam conclusionem
+                sic: esse minus repraesentativum est aliquantae perfectionis, et esse duorum ceteris
+                paribus duple, et esse trium triple, ergo et esse infinitorum repraesentativum dicit
+                infinitam perfectionem. Si ergo aliqua qualitas finita est infinitorum
+                repraesentativa, sequitur quod est infinita, et per consequens aliquod finitum est
+                infinitum. Et consequentia patet per istam maximam: si infinita dentur aequalia
+                alicui certo dato, necessario ex his resultans est realiter infinitum. Sed ita est
+                in proposito: cum repraesentare unum sit aliquantae perfectionis et repraesentare
+                unum aliud illi aequale sit tantae perfectionis, et sic de aliis, equitur quod esse
+                repraesentativum infinitorum dicat infinitam perfectionem.</p>
+              <p xml:id="pcsc-l1q6-d1e1246">[153: -142] Praeterea, contra secundam conclusionem, quae dicit quod quicquid est
+                alterius eminenter contentivum est eiusdem repraesentativum, arguo sic: data illa
+                conclusione, sequitur quod qui videret asinum eo ipso haberet cognitionem asini et
+                cuiuslibet inferioris speciei, quod tamen est falsum. Et consequentia probatur, nam
+                ex hoc video Sortem quia ipsius similitudo terminatur ad visum meum. Si ergo species
+                superior sit naturalior et perfectior similitudo quam sit talis similitudo causata a
+                Sorte, sequitur quod quam naturaliter per similitudinem Sortis video Sortem tam
+                naturaliter videbo vel cognoscam per hominem asinum intuitive vel abstractive, et
+                hoc naturali necessitate, quod falsum videtur.</p>
+              <p xml:id="pcsc-l1q6-d1e1249">[154: -145] Praeterea, contra tertiam conclusionem arguo sic: si divina essentia
+                sine quacumque distinctione sit cuiuslibet rei perfectissima et distinctissima
+                similitudo, sequitur quod quilibet beatus aequaliter est beatus. Consequens est
+                falsum et contra dictum Salvatoris: <quote xml:id="pcsc-l1q6-Qd1e1251">In domo Patris mei mansiones multae
+                sunt.</quote> Et consequentia probatur, nam, ut suppono, capacitates animarum sunt
+                receptivae [115va] aequales, et obiectum beatificum sine quacumque distinctione se
+                omnibus repraesentat. Nec potest eis se ostendere nisi eisdem se ostendat secundum
+                quamlibet rationem. Ergo sequitur quod omnes ipsum aequaliter vident. Et cum visio
+                obiecti beatifici arguat similem dilectionem et in his ratio beatitudinis integratur
+                completiva, sequitur quod unus alio non erit beatior, cum ipsorum visiones sint
+                aequales, quod tamen est falsum. Quare propositum.</p>
+              <p xml:id="pcsc-l1q6-d1e1255">[155: -152] Ad istas rationes respondeo. Ad primum, cum dicitur quod esse unius
+                repraesentativum est aliquantae perfectionis etc., hic dico quod consequentia non
+                valet, nec antecedens in proposito est verum. Unde esse repraesentativum unius non
+                dicit maiorem perfectionem quam duorum. Verbi gratia, si sit aliqua statua
+                repraesentans aliquid, ut puta equum et militem, non propter hoc esset perfectior
+                quam si repraesentaret praecise militem. Sed forsan hic dicitur quod hoc non valet,
+                quia ista repraesentatio est extrinseca, sed si esset intrinseca, bene infert
+                infinitatem. Dico quod adhuc non est verum, nam capio certam speciem. Ipsa est adhuc
+                naturaliter contentiva inferioris et eiusdem repraesentativa in qua possunt esse
+                infinita individua, et tamen non est infinita. Et ratio fundamentalis huius
+                negationis est: quandocumque pluralitas non dicit perfectionem, infinitas non ponit
+                perfectionem. Et ita in proposito. Similiter, consequentia illa non valet, dato quod
+                concederetur antecedens, sicut non sequitur: <mentioned>infinitae partes sunt in
+                isto continuo quarum quaelibet est maior quantitate bipedali, ergo illa est
+                infinita</mentioned>. Antecedens vero patet, nam capio unum continuum quinque
+                pedalium, et signo duo pedalia per B et tria per A, et arguo sic: in A sunt
+                infinitae partes quarum quaelibet est maior B, nam capiantur de A duo pedalia cum
+                semipedali, et sic consequenter cum medietate medietatis. Constat tunc quod
+                antecedens est verum et consequens est falsum, videlicet quod tripedale sit
+                infinitum. Quare similiter in proposito. Unde si excedo Sortem in perfectione, si
+                essent infiniti tales, quemlibet illorum excederem, et tamen non essem infinitus. Et
+                tota ratio est quia excessus duorum non arguit perfectionem maiorem quam unius
+                tantum. Quare propositum.</p>
+              <p xml:id="pcsc-l1q6-d1e1262">[156: -153] Ad secundam, cum dicitur quod tunc sequeretur quod videns hominem
+                videret asinum, hic dico, pro materia argumenti, quod propter statum in quo sumus
+                nobis sunt multae imperfectiones annexae, quia naturalia sunt vulnerata. Et licet
+                homo per sacramenta liberetur a culpa, non tamen ab omnibus paenis et symptomatibus
+                seu sequelis peccati. Et ideo intellectus hominis non potest ex suo acumine quod pro
+                nunc habet limpide conspicere nudam naturam rei, sed eius cognitio est per effectum.
+                Unde si videret per causam, prius videret substantiam quam ipsum accidens, cum
+                substantia sit causa accidentis et sit eo perfectior. Igitur non est rei defectus
+                quin sic sit, sed potius intellectus, ut expresse vult <ref xml:id="pcsc-l1q6-Rd1e1264" corresp="#pcsc-l1q6-Qd1e1269">Philosophus, II
+                Metaphysicae in principio</ref>, [115vb] ubi dicit:
+                <cit>
+                <quote xml:id="pcsc-l1q6-Qd1e1269" source="http://scta.info/resource/aristmet-l2"> <seg type="qs">Habere autem
+                  totum et partem, et ideo posse difficultatem eius ostendit, forsitan autem et
+                  difficultatem secundum duos existentes modos, non in rebus</seg>, inquit, <seg type="qs">sed in nobis est eius causa,</seg> et subdit: <seg type="qs">intellectus
+                  defectum.</seg> </quote>
+                <bibl>Aristoteles, <title>Metaphysica</title> II:1 (993b6-9; AL XXV:3, p.
+                  43).</bibl>
+                </cit>
+              </p>
+              <p xml:id="pcsc-l1q6-d1e1289">[157: -154] Ad tertium, cum dicitur quod, si nulla sit in Deo formalis dictinctio,
+                sequitur quod quilibet esset aequaliter beatus, nego consequentiam. Et cum dicitur,
+                <quote xml:id="pcsc-l1q6-Qd1e1291">capacitates animarum sunt aequales,</quote> hic dico duo, pro materia
+                argumenti: quod intelligendo de capacitatibus animarum quod, quacumque visione eis
+                data, Deus potest dare perfectiorem, sic absque dubio propositio illa est vera. Sed
+                intelligendo secundum statum quem habet anima ex actuum meritoriorum dispositione,
+                sic falsum est quod sint aequales, quia una habet altera gradum caritatis
+                intensiorem. Et sic ex illa parte argumenti deficeret, quia de alia potentia non est
+                ad propositum. Secundo dico quod obiectum beatificum voluntarie se praesentat, et
+                ideo plus vel minus potest movere potentiam ad sui cognitionem. Unde istud
+                argumentum ita fieret contra positores formalitatum sicut contra non tales, nam
+                signata aliqua denominatione essentiali, ut puta vita, constat quod illa
+                intelligitur sine quacumque distinctione formali, et tamen intellectus videns Deum
+                potest proficere in cognitionem talis rationis, cum ipsam non comprehendat. Et per
+                consequens talis visionum varietas non provenit ex distinctione formali in obiecto
+                reperta, sed potius ex disparitate meritorum et voluntaria obiecti beatifici
+                repraesentatione.</p>
+            </div>
+          </div>
+          <div xml:id="pcsc-l1q6-Dd1e1297">
+            <head xml:id="pcsc-l1q6-Hd1e1299"><supplied>Conclusio totius articuli</supplied></head>
+            <p xml:id="pcsc-l1q6-d1e1303">[158] Et sic apparet qualiter est ad istum articulum respondendum, nam secundum viam
+              Ockham Deus per nullam ideam formaliter intelligit, et sic intelligendo rationem
+              essentialem consimiliter diceret. Secundum vero Doctorem Subtitlem et Johannem de
+              Ripa, per plures rationes ideales creaturas intelligit. Sed secundum istam opinionem
+              ultimam, quae multum rationabilis videtur, per unicam et simplicissimam rationem se
+              ipsum et cuncta alia intelligit sine qualicumque distinctione ex parte sua. Et ista
+              videtur fuisse opinio <ref xml:id="pcsc-l1q6-Rd1e1305" corresp="#pcsc-l1q6-Qd1e1310">beati Dionysii in De divinis nominibus</ref>, dicentis:
+              <cit>
+              <quote xml:id="pcsc-l1q6-Qd1e1310">Divina sapientia se ipsam cognoscens cognoscit immaterialiter omnia materialia,
+                indivisibiliter divisibilia, et multa unione in ipso uno, etenim sicut Deus secundum
+                unam causam omnibus existentibus esse tradidit, ita secundum eandem causam scit
+                omnia sicut in ipso existentia. Non igitur Deus habet propriam sui ipsius
+                cognitionem et aliam communem existentia omnia comprehendentem, sed unicam
+                supersimplicem, superindivisibilem, et immensam.</quote>
+              <bibl>Cf. Pseudo-Dionysius, <title>De divinis nominibus</title>, trans. I. Sarracenus,
+                398-400:</bibl>
+              <note>"Igitur se ipsam divina sapientia cognoscens, cognoscit et omnia: immaterialiter
+                materialia, et indivisibiliter divisibilia, et multa unitive, in ipso uno omnia et
+                cognoscens et producens. Etenim si secundum unam causam Deus omnibus exsistentibus
+                esse tradit, secundum eamdem causam sciet omnia, sicut ex ipso exsistentia et quae
+                in ipso praeexstiterunt. Et non ex exsistentibus sumet ipsorum cognitionem; sed et
+                ipsis singulis eorum et liis aliorum cognitionis erit largitor. Non igitur Deus
+                propriam habet sui ipsius cognitionem, aliam autem communem exsistentia omnia
+                comprehendentem."</note>
+              </cit>
+               Haec ille.</p>
+            <p xml:id="pcsc-l1q6-d1e1324">[159] Ex quibus apparet quid de praefato articulo secundum istam viam est
+              sententiendum.</p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
