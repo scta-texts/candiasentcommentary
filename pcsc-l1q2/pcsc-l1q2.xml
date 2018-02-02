@@ -11,6 +11,10 @@
           <name xml:id="JW">Jeffrey C. Witt</name>
           <resp>TEI encoder</resp>
         </respStmt>
+        <respStmt>
+          <name xml:id="WD">William Duba</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev"> <title>Liber I, Quaestio 2</title> <date when="2018-01-17">January
